@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_EXPANSION2_NAME">
+			<Text>Bản mở rộng: Cơn bão ập đến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EXPANSION2_DESCRIPTION">
+			<Text>Đây là một trò chơi sử dụng Bản mở rộng Cơn bão ập đến, bao gồm Đại hội thế giới, các tác động và thảm họa môi trường, sức mạnh, v.v. Bạn có thể đối phó với sự khó lường của một thế giới đang thay đổi để tạo nên một nền văn minh sẽ đứng trước thử thách của thời gian?</Text>
+		</Replace>
+		<!-- Setup Parameters -->
+		<Replace Language='en_US' Tag="LOC_GAME_REALISM">
+			<Text>Cường độ thiên tai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_REALISM_DESCRIPTION">
+			<Text>Đặt cường độ thiên tai. Chọn từ cài đặt từ 0 (thiên tai ít thường xuyên hơn và dữ dội hơn) đến 4 (thiên tai thường xuyên và dữ dội). Lưu ý rằng trên các cài đặt của 3 và 4, các vụ phun trào núi lửa nghiêm trọng có thể làm hỏng gạch hai hình lục giác.</Text>
+		</Replace>
+		<!-- Front End-->
+		<Replace Language='en_US' Tag="LOC_VICTORY_DIPLOMATIC_NAME">
+			<Text>Chiến thắng ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_DIPLOMATIC_TT">
+			<Text>Bạn cho thế giới thấy rằng hợp tác giữa các quốc gia là cách duy nhất để hòa bình lâu dài và chính đáng. Kiếm được chiến thắng này thông qua sự tôn trọng và Đại hội Thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_DIPLOMATIC_TEXT">
+			<Text>Hòa bình và hòa bình thay thế chiến tranh và bạo lực. Sự khác biệt và bất đồng giữa mọi người luôn có thể được giải quyết thông qua thiện chí. Với xung đột đằng sau chúng ta, những vinh quang nào chúng ta sẽ giữ trong tương lai?</Text>
+		</Replace>
+		<!-- New Maps  -->
+		<Replace Language='en_US' Tag="LOC_MAP_CONTINENTS_ISLANDS_NAME">
+			<Text>Châu lục và hải đảo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_PRIMORDIAL_NAME">
+			<Text>Nguyên thủy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_SPLINTERED_FRACTAL_NAME">
+			<Text>Splintered Fractal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_TILTED_AXIS_NAME">
+			<Text>Trục nghiêng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_CONTINENTS_ISLANDS_DESCRIPTION">
+			<Text>Một vài vùng đất rộng lớn được bao quanh bởi các hòn đảo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_PRIMORDIAL_DESCRIPTION">
+			<Text>Một bản đồ từ thời gian đầu với các lục địa và hải đảo không thể đoán trước. Điều kiện dễ bay hơi hơn tồn tại với các vùng đất thấp ven biển và núi lửa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_SPLINTERED_FRACTAL_DESCRIPTION">
+			<Text>Một bản đồ rất ngẫu nhiên thường sẽ hình thành các lục địa và hải đảo mỏng manh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_TILTED_AXIS_DESCRIPTION">
+			<Text>Một bản đồ lục địa trung tâm cực.</Text>
+		</Replace>
+		<!--America-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION2_DESCRIPTION">
+			<Text>Tất cả các vị trí chính sách Ngoại giao trong chính phủ hiện tại được chuyển đổi thành các vị trí Wildcard. +1 [ICON_FAVOR] Ưu đãi ngoại giao mỗi lượt cho mỗi vị trí Wildcard trong chính phủ của họ.</Text>
+		</Replace>
+		<!--Canada-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CANADA_NAME">
+			<Text>Canada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CANADA_ADJECTIVE">
+			<Text>Người Canada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CANADA_DESCRIPTION">
+			<Text>Đế quốc Canada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_LAURIER_NAME">
+			<Text>Wilfrid Laurier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_ICE_HOCKEY_RINK_NAME">
+			<Text>Sân khúc côn cầu trên băng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_ICE_HOCKEY_RINK_DESCRIPTION">
+			<Text>Mở khóa khả năng Xây dựng để xây dựng một Sân khúc côn cầu trên băng, duy nhất ở Canada.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Tiện nghi. +1 [ICON_CULTURE] Văn hóa cho mỗi liền kề Lãnh nguyên, Đồi Lãnh nguyên, Tuyết, và đồi tuyết. Cung cấp [ICON_Tourism] Du lịch từ Văn hóa một khi chuyến bay được mở khóa. +2 [ICON_FOOD] Thực phẩm và [ICON_PRODUCTION] Sản xuất một khi công dân thể thao chuyên nghiệp được mở khóa. +4 [ICON_CULTURE] Văn hóa nếu liền kề một tòa nhà Sân vận động. Có thể được xây dựng trên Lãnh nguyên, Đồi Lãnh nguyên, Tuyết và Đồi tuyết. Một cho mỗi thành phố. +2 Kháng cáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_NAME">
+			<Text>Bốn mặt của hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_DESCRIPTION">
+			<Text>Không thể tuyên chiến với Thành phố Tự trị Hoa Kỳ hoặc chiến tranh bất ngờ. Chiến tranh bất ngờ không thể được tuyên bố trên Canada. Cứ 100 [ICON_TOURISM] Du lịch mỗi lượt kiếm được 1 [ICON_Favor] Ưu đãi ngoại giao mỗi lượt. Nhận +100% [ICON_Favor] Ưu đãi ngoại giao khi hoàn thành thành công Cuộc thi khẩn cấp hoặc được chấm điểm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_NAME">
+			<Text>Phương Tây tốt nhất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_DESCRIPTION">
+			<Text>Cho phép các trang trại được xây dựng trên địa hình Tundra. Sau khi Civil Engineering được mở khóa, các trang trại có thể được xây dựng trên Tundra Hills. Trong Snow, Tundra, Snow Hills và Tundra Hills, tất cả các Mỏ đều cung cấp +1 [ICON_PRODUCTION] Sản xuất, Lumber Mills cung cấp +1 [ICON_PRODUCTION] Sản xuất, Trại cung cấp +1 [ICON_FOOD] Thực phẩm và tỷ lệ tích lũy tài nguyên chiến lược là +100%. Giảm 50% chi phí mua gạch ở các loại địa hình này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CANADA_MOUNTIE_NAME">
+			<Text>Núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CANADA_MOUNTIE_DESCRIPTION">
+			<Text>Canada đơn vị thời hiện đại độc đáo. Có thể tạo một công viên quốc gia. +5 [ICON_Strength] Sức mạnh chiến đấu khi chiến đấu trong vòng 2 ô của Công viên Quốc gia. Bổ sung +5 [ICON_Strength] Sức mạnh chiến đấu khi chiến đấu trong vòng 2 ô của Công viên quốc gia mà bạn sở hữu.</Text>
+		</Replace>
+		<!--England-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
+			<Text>Hội thảo của thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
+			<Text>Mỏ sắt và than tích lũy thêm 2 tài nguyên mỗi lượt. +100% [ICON_PRODUCTION] Sản xuất cho Kỹ sư quân sự. Kỹ sư quân sự nhận được +2 phí. Các tòa nhà cung cấp năng suất bổ sung khi [ICON_POWER] Được cung cấp nhận được +4 sản lượng đó. +20% [ICON_PRODUCTION] Sản xuất đối với các tòa nhà Khu công nghiệp. Các tòa nhà cảng tăng Kho dự trữ tài nguyên chiến lược thêm +10 trên Tốc độ tiêu chuẩn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
+			<Text>Mỗi lần bạn tìm thấy thành phố đầu tiên của mình trên lục địa khác ngoài lục địa nhà bạn sẽ nhận được một đơn vị cận chiến miễn phí và công suất [ICON_TradeRoute] Tuyến đường thương mại. Xây dựng bất kỳ Xưởng hải quân Hoàng gia nào cấp cho bạn một bản sao của đơn vị hải quân mạnh nhất mà bạn có thể xây dựng. Có được đơn vị độc nhất Redcoat khi nghiên cứu công nghệ Khoa học quân sự.</Text>
+		</Replace>
+		<!--Egypt-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản xuất theo hướng đặc khu và kỳ quan nếu được đặt cạnh sông. Không nhận được thiệt hại từ lũ lụt.</Text>
+		</Replace>
+		<!--Eleanor-->
+		<Replace Language='en_US' Tag="LOC_LEADER_ELEANOR_NAME">
+			<Text>Eleanor của Aquitaine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_NAME">
+			<Text>Tòa án tình yêu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_DESCRIPTION">
+			<Text>Mỗi công trình lớn ở các thành phố Eleanor, mỗi lần gây ra -1 Mức độ trung thành mỗi lượt ở các thành phố nước ngoài trong 9 ô. Một thành phố để lại một nền văn minh khác do mất lòng trung thành và hiện đang nhận được nhiều sự trung thành nhất mỗi lượt từ nền văn minh của Eleanor bỏ qua bước Thành phố Tự do để gia nhập nền văn minh này.</Text>
+		</Replace>
+		<!--Georgia-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
+			<Text>Khi thực hiện Khấu trừ khi bắt đầu Thời đại hoàng kim hoặc Thời đại anh hùng, hãy nhận phần thưởng Tuổi bình thường để cải thiện Điểm kỷ nguyên bên cạnh phần thưởng khác. +50% [ICON_Production] Sản xuất đối với các tòa nhà phòng thủ.</Text>
+		</Replace>
+		<!--Hungary-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HUNGARY_NAME">
+			<Text>Hungary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HUNGARY_ADJECTIVE">
+			<Text>Người Hungary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HUNGARY_DESCRIPTION">
+			<Text>Đế quốc Hungary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_MATTHIAS_CORVINUS_NAME">
+			<Text>Matthias Corvinus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_THERMAL_BATH_NAME">
+			<Text>Tắm nhiệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_THERMAL_BATH_DESCRIPTION">
+			<Text>Một tòa nhà độc đáo của Hungary. +2 [ICON_AMENITIES] Tiện nghi và +2 [ICON_PRODUCTION] Sản xuất mở rộng đến mỗi trung tâm thành phố trong vòng 6 ô. Ttiền thưởng hese áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp thêm tiền thưởng.[NEWLINE][NEWLINE]Thành phố này nhận được +3 [ICON_TOURISM] Du lịch và +2 [ICON_AMENITIES] Tiện nghi nếu có ít nhất một Khe nứt địa nhiệt ở biên giới thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_NAME">
+			<Text>Hòn ngọc sông Danube</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_DESCRIPTION">
+			<Text>+50% [ICON_PRODITH] Sản xuất cho các Quận và Tòa nhà được xây dựng qua sông từ Trung tâm Thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_RAVEN_KING_NAME">
+			<Text>Raven King</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_RAVEN_KING_DESCRIPTION">
+			<Text>Levied units gain an ability giving them +2 [ICON_Movement] Movement and +5 [ICON_Strength] Combat Strength. It costs 75% less [ICON_GOLD] Gold and resources to upgrade Levied units. If you Levy troops from a City-State receive 2 [ICON_ENVOY] Envoys with that City-State. Gain the Black Army unique unit when the Castles technology is researched.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_NAME">
+			<Text>Black Army</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_DESCRIPTION">
+			<Text>Hungarian unique Medieval Era unit that replaces the Courser. +3 [ICON_Strength] Combat Strength for each adjacent Levied unit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_HUNGARY_HUSZAR_NAME">
+			<Text>Huszár</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_HUNGARY_HUSZAR_DESCRIPTION">
+			<Text>Hungarian unique Industrial era unit that replaces Cavalry. +3 [ICON_Strength] Combat Strength for every active Alliance.</Text>
+		</Replace>
+		<!--Inca-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INCA_NAME">
+			<Text>Inca</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INCA_ADJECTIVE">
+			<Text>Incan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INCA_DESCRIPTION">
+			<Text>Incan Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_NAME">
+			<Text>Mit’a</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_DESCRIPTION">
+			<Text>Citizens may work Mountain tiles. Mountain tiles provide +2 [ICON_PRODUCTION] Production. +1 [ICON_FOOD] Food to Mountain tiles for every adjacent Terrace Farm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_PACHACUTI_NAME">
+			<Text>Pachacuti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_TERRACE_FARM_NAME">
+			<Text>Terrace Farm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Terrace Farm, unique to the Inca.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food. Provides +1 [ICON_Housing] Housing for every two Terrace Farms. +1 [ICON_FOOD] Food for each adjacent Mountain Tile. Gain +2 [ICON_PRODUCTION] Production for each adjacent Aqueduct district. Receive +1 [ICON_PRODUCTION] Production if adjacent to Fresh Water and not an Aqueduct district. Additional [ICON_FOOD] Food as you advance through the Civics and Technology Tree for adjacency with other Terrace Farms. Can be placed on Grassland Hills, Plains Hills, and Desert Hills.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_INCA_WARAKAQ_NAME">
+			<Text>Warak’aq</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_INCA_WARAKAQ_DESCRIPTION">
+			<Text>Incan unique Medieval Era unit that replaces the Skirmisher. Stronger at ranged combat than the Skirmisher and +1 additional attack per turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_NAME">
+			<Text>Qhapaq Ñan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_DESCRIPTION">
+			<Text>Domestic [ICON_TradeRoute] Trade Routes gain +1 [ICON_Food] Food for every Mountain tile in the origin city. Gain the Qhapaq Ñan improvement when Foreign Trade civic is discovered.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_NAME">
+			<Text>Qhapaq Ñan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Qhapaq Ñan, unique to Pachacuti.[NEWLINE][NEWLINE]Acts as a movement portal on a mountain range, allowing units to move into it and exit from another portal at the cost of 2 [ICON_Movement] Movement. [ICON_TradeRoute] Trade Routes traveling through it can multiply the [ICON_Gold] Gold they get from districts at their destination. Can only be built on an adjacent Mountain tile. Cannot be pillaged or removed.</Text>
+		</Replace>
+		<!--Mali-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MALI_NAME">
+			<Text>Mali</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MALI_ADJECTIVE">
+			<Text>Malian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MALI_DESCRIPTION">
+			<Text>Mali Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_NAME">
+			<Text>Songs of the Jeli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_DESCRIPTION">
+			<Text>City Centers gain +1 [ICON_FAITH] Faith and +1 [ICON_FOOD] for every adjacent Desert and Desert Hills tiles. Mines receive -1 [ICON_PRODUCTION] Production and +4 [ICON_GOLD] Gold. May purchase Commercial Hub district buildings with [ICON_Faith] Faith. -30% [ICON_PRODUCTION] Production toward constructing buildings or training units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_MANSA_MUSA_NAME">
+			<Text>Mansa Musa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_NAME">
+			<Text>Sahel Merchants</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_DESCRIPTION">
+			<Text>International [ICON_TradeRoute] Trade Routes gain +1 [ICON_GOLD] Gold for every flat Desert tile in the origin city. Receive +1 [ICON_TradeRoute] Trade Capacity every time you enter a Golden Age.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SUGUBA_NAME">
+			<Text>Suguba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SUGUBA_DESCRIPTION">
+			<Text>A district unique to Mali specializing in finance and trade that replaces the Commercial Hub. Units, Buildings, and Districts are 20% cheaper to purchase with [ICON_GOLD] Gold and [ICON_FAITH] Faith in this City.[NEWLINE][NEWLINE]+2 [ICON_Gold] Gold bonus for each adjacent Holy Site. +2 [ICON_Gold] Gold bonus from a tile containing a River edge. +1 [ICON_Gold] Gold bonus for every two adjacent district tiles.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_NAME">
+			<Text>Mandekalu Cavalry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_DESCRIPTION">
+			<Text>Mali unique Medieval Era unit that replaces the Knight. Trader units are immune to being plundered if they are within 4 tiles of a Mandekalu Cavalry and on a land tile. Combat victories provide [ICON_GOLD] Gold equal to 100% that unit's base [ICON_Strength] Combat Strength.</Text>
+		</Replace>
+		<!--Maori-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAORI_NAME">
+			<Text>Māori</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAORI_ADJECTIVE">
+			<Text>Māori</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAORI_DESCRIPTION">
+			<Text>Māori Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_NAME">
+			<Text>Mana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_DESCRIPTION">
+			<Text>Begin the game with the Sailing and Shipbuilding technologies unlocked and with the ability to enter Ocean tiles. Embarked units gain +2 [ICON_Movement] Movement. Unimproved Woods and Rainforest are +1 [ICON_PRODUCTION] Production. Additional +1 [ICON_PRODUCTION] Production from Mercantilism and +2 [ICON_PRODUCTION] Production from Conservation. Fishing Boats provide +1 [ICON_FOOD] Food and a Culture Bomb to adjacent tiles. Resources cannot be harvested. [ICON_GreatWriter] Great Writers cannot be earned.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_KUPE_NAME">
+			<Text>Kupe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_NAME">
+			<Text>Kupe's Voyage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_DESCRIPTION">
+			<Text>Begin the game in an Ocean tile. Gain a free Builder and +1 [ICON_Citizen] Population when settling your first city. The Palace receives +3 [ICON_HOUSING] Housing and +1 [ICON_AMENITIES] Amenity. +2 [ICON_SCIENCE] Science and +2 [ICON_CULTURE] Culture per turn before you settle your first city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MARAE_NAME">
+			<Text>Marae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MARAE_DESCRIPTION">
+			<Text>A building unique to the Māori. +1 [ICON_CULTURE] Culture and [ICON_FAITH] Faith to all of this city's tiles with a passable feature or natural wonder. After Flight is researched receive +1 [ICON_TOURISM] Tourism to all of this city's tiles with a feature or natural wonder. Costs no maintenance. Has no Great Work slots.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MAORI_TOA_NAME">
+			<Text>Toa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MAORI_TOA_DESCRIPTION">
+			<Text>Māori unique Classical era melee unit. Adjacent enemy units receive -5 [ICON_STRENGTH] Combat Strength. Can build the unique Pā improvement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MAORI_PA_NAME">
+			<Text>Pā</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION">
+			<Text>Unlocks the Toa ability to construct a Pā, unique to Māori.[NEWLINE][NEWLINE]Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification. A Māori unit occupying a Pā heals even if they just moved or attacked. Must be built on a Hill tile.</Text>
+		</Replace>
+		<!--Netherlands-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
+			<Text>Major adjacency bonus for Campuses, Theater Squares, and Industrial Zones if next to a river. Culture Bomb adjacent tiles when completing a Harbor. +50% [ICON_Production] Production toward the Dam district and Flood Barrier building.</Text>
+		</Replace>
+		<!--Ottomans-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_OTTOMAN_NAME">
+			<Text>Ottomans</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_OTTOMAN_ADJECTIVE">
+			<Text>Ottoman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_OTTOMAN_DESCRIPTION">
+			<Text>Ottoman Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_NAME">
+			<Text>Great Turkish Bombard</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward siege units. All siege units gain +5 [ICON_Strength] Combat Strength against district defenses. Conquered cities do not lose [ICON_Citizen] Population. Cities not founded by the Ottomans gain +1 [ICON_AMENITIES] Amenity and +4 Loyalty per turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SULEIMAN_NAME">
+			<Text>Suleiman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GRAND_BAZAAR_NAME">
+			<Text>Grand Bazaar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GRAND_BAZAAR_DESCRIPTION">
+			<Text>A building unique to the Ottomans. Accumulate 1 extra Strategic resource for every different type of Strategic resource this city has improved. Receive 1 [ICON_AMENITIES] Amenity for every Luxury resource this city has improved.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_NAME">
+			<Text>Barbary Corsair</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_DESCRIPTION">
+			<Text>Ottoman unique Medieval era naval unit that replaces the Privateer. It costs no [ICON_Movement] Movement to coastal raid. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SULEIMAN_JANISSARY_NAME">
+			<Text>Janissary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SULEIMAN_JANISSARY_DESCRIPTION">
+			<Text>Ottoman unique Renaissance Era unit that replaces the Musketman. Starts with a free promotion. Stronger and cheaper than the Musketman. To train a Janissary a city must have a population of at least 2. If a city is founded by the Ottomans and trains a Janissary it loses a population.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_NAME">
+			<Text>Grand Vizier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_DESCRIPTION">
+			<Text>Exclusive unique Governor with military and diplomatic abilities. Gain the Janissary unique unit when the Gunpowder technology is researched.</Text>
+		</Replace>
+		<!--Phoenicia-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PHOENICIA_NAME">
+			<Text>Phoenicia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PHOENICIA_ADJECTIVE">
+			<Text>Phoenician</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PHOENICIA_DESCRIPTION">
+			<Text>Phoenician Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_NAME">
+			<Text>Mediterranean Colonies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_DESCRIPTION">
+			<Text>Begin the game with the Writing technology [ICON_TechBoosted] Eureka. Coastal cities founded by Phoenicia and located on the same continent as the Phoenician [ICON_Capital] Capital are 100% Loyal. Settlers gain +2 [ICON_Movement] Movement and +2 sight range while embarked. Settlers ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_DIDO_NAME">
+			<Text>Dido</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_NAME">
+			<Text>Founder of Carthage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_DESCRIPTION">
+			<Text>Can move their original [ICON_Capital] Capital to any city with a Cothon they founded by completing a unique project in that city. +1 [ICON_TradeRoute] Trade Route capacity for each Government Plaza building and the Government Plaza district. +50% [ICON_Production] Production toward districts in the city with the Government Plaza.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_COTHON_NAME">
+			<Text>Cothon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_COTHON_DESCRIPTION">
+			<Text>A district unique to Phoenicia for naval activity in your city. Replaces the Harbor district and cheaper to build. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+50% [ICON_PRODUCTION] Production towards naval units and Settlers in this city. All wounded naval units in this city’s borders heal +100 HP each turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PHOENICIA_BIREME_NAME">
+			<Text>Bireme</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PHOENICIA_BIREME_DESCRIPTION">
+			<Text>Phoenician unique Ancient Era unit that replaces the Galley. Increased [ICON_Strength] Combat Strength and [ICON_Movement] Movement. Trader units are immune to being plundered if they are within 4 tiles of a Bireme and on a water tile.</Text>
+		</Replace>
+		<!--India-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
+			<Text>Receives Follower Belief bonuses in a city from each Religion that has at least 1 Follower. Cities gain an [ICON_Amenities] Amenity for every Religion with at least 1 Follower. Missionaries have +2 spreads. +100% Religious pressure from your [ICON_TradeRoute] Trade Routes.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Stepwell, unique to India.[NEWLINE][NEWLINE]+1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Faith if adjacent to a Holy Site district. +1 [ICON_Food] Food if adjacent to a Farm. Additional [ICON_Housing] Housing, [ICON_Faith] Faith, and [ICON_Food] Food as you advance through the Technology and Civics Tree. Prevents [ICON_Food] Food loss during Drought. Cannot be built on Hills or adjacent to another Stepwell.</Text>
+		</Replace>
+		<!--Japan-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
+			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Builds Encampment, Holy Site and Theater Square districts in half the time. Units do not receive damage from Hurricanes. Civilizations that are at war with Japan receive +100% unit damage from Hurricanes in Japanese territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SATYAGRAHA_EXPANSION2_DESCRIPTION">
+			<Text>+5 [ICON_Faith] Faith and +1 [ICON_Favor] Diplomatic Favor per turn for each civilization (including India) they have met that has founded a Religion and is not currently at war. Opposing civilizations receive double the war weariness for fighting against Gandhi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ELECTRONICS_FACTORY_EXPANSION2_DESCRIPTION">
+			<Text>A building unique to Japan. Provides +4 [ICON_Culture] Culture to this city after researching the Electricity technology. Its [ICON_Production] Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from this building type.</Text>
+		</Replace>
+		<!--Qin-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_EXPANSION2_DESCRIPTION">
+			<Text>When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge. Canals are unlocked with the Masonry technology.</Text>
+		</Replace>
+		<!--Rome-->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_BATH_EXPANSION2_DESCRIPTION">
+			<Text>A district unique to Rome for city growth. Replaces the Aqueduct district and cheaper to build.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. If built adjacent to a Geothermal Fissure +1 [ICON_Amenities] Amenity. In all cases the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Prevents [ICON_Food] Food loss during Drought. Must be built adjacent to the City Center.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_BATH_EXPANSION2_ALT_DESCRIPTION">
+			<Text>A district unique to Rome for city growth. Replaces the Aqueduct district and cheaper to build.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. If built adjacent to a Geothermal Fissure +1 [ICON_Amenities] Amenity. In all cases the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Prevents [ICON_Food] Food loss during Drought. Must be built adjacent to the City Center. Military Engineers can spend a charge to complete 20% of a Bath's production.</Text>
+		</Replace>
+		<!--Russia-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">
+			<Text>Extra territory upon founding cities. +1 [ICON_Faith] Faith and +1 [ICON_Production] Production from Tundra. Units do not receive damage from Blizzards. Civilizations that are at war with Russia receive +100% unit damage from Blizzards in Russian territory.</Text>
+		</Replace>
+		<!--Sweden-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SWEDEN_NAME">
+			<Text>Sweden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SWEDEN_ADJECTIVE">
+			<Text>Swedish</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SWEDEN_DESCRIPTION">
+			<Text>Swedish Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_NAME">
+			<Text>Nobel Prize</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_DESCRIPTION">
+			<Text>Sweden gains 50 [ICON_Favor] Diplomatic Favor when earning a Great Person (on Standard Speed). Sweden receives +1 [ICON_GreatEngineer] Great Engineer point from Factories and +1 [ICON_GreatScientist] Great Scientist point from Universities. Having Sweden in the game adds three unique World Congress competitions starting in the Industrial Era.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_KRISTINA_NAME">
+			<Text>Kristina</Text>
+		</Replace>.
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_NAME">
+			<Text>Minerva of the North</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_DESCRIPTION">
+			<Text>Buildings with at least three Great Work slots and wonders with at least two Great Work slots are automatically themed when they have all their slots filled. She may construct the Queen's Bibliotheque in the Government Plaza.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_NAME">
+			<Text>Open-Air Museum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct an Open-Air Museum, unique to Sweden.[NEWLINE][NEWLINE]Provides +2 Loyalty per turn in this city. +2 [ICON_Culture] Culture and +2 [ICON_Tourism] Tourism for each type of terrain (Snow, Tundra, Desert, Plains or Grassland) in which at least one Swedish city is founded. One per city. Tiles with Open-Air Museums cannot be swapped.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_NAME">
+			<Text>Queen's Bibliotheque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_DESCRIPTION">
+			<Text>A building unique to Sweden. This building provides 2 slots of [ICON_GreatWork_WRITING] Writing, [ICON_GreatWork_MUSIC] Music, and any type of [ICON_GreatWork_Landscape] Art.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SWEDEN_CAROLEAN_NAME">
+			<Text>Carolean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION">
+			<Text>Swedish unique Renaissance Era unit that replaces the Pike and Shot. Faster than the Pike and Shot. +3 [ICON_Strength] Combat Strength per unused [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_FUTURE_NAME">
+			<Text>Future Era</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_FUTURE_DESCRIPTION">
+			<Text>The world contains marvels beyond the dreams of ancient prophets, and terrors more fearsome than any apocalypse. Machines search for meaning and new matter weaves dream-like forms. Choices made long ago bear grave consequences in this age and demand resolute answers. Go now, and achieve your vision for the future of civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_SCIENCE_TT_XP2">
+			<Text>Be the first to complete the Exoplanet Expedition to another star system to win a Science victory. This victory is straight-forward, but can be difficult to achieve before time runs out.</Text>
+		</Replace>
+		<!-- Configuration Changes that are Shared between XP1 and XP2. -->
+		<!-- District Config Text -->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_NAME">
+			<Text>Copacabana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
+			<Text>A district unique to Brazil. Replaces the Water Park district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
+			<Text>A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Copacabana.</Text>
+		</Replace>
+		<!-- China -->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_GREAT_WALL_EXPANSION2_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct the Great Wall, unique to China.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold. Provides an increase to [ICON_Strength] Defense. Bonus to [ICON_Gold] Gold if adjacent to other segments. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire. Can only be pillaged (never destroyed) by natural disasters.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 50% of civics and technologies instead of 40%.</Text>
+		</Replace>
+		<!-- Cleopatra -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION2_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Egypt. Other civilizations' [ICON_TradeRoute] Trade Routes to Egypt provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Egypt. Trading with Allies earns twice as many bonus Alliance Points.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Sphinx, unique to Egypt.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. +2 Appeal. +2 [ICON_Faith] Faith if next to a wonder. +1 [ICON_CULTURE] Culture if built on Floodplains. Additional [ICON_CULTURE] Culture once Natural History is discovered. Provides [ICON_TOURISM] Tourism after researching Flight. Cannot be built next to another Sphinx. Cannot be built on Snow or Snow Hills.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_EXPANSION2_DESCRIPTION">
+			<Text>Egyptian unique Ancient era ranged unit. 4 [ICON_Movement] Movement when starting in open terrain.</Text>
+		</Replace>
+		<!-- England -->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
+			<Text>A district unique to England for naval activity in your city. Replaces the Harbor district. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_Movement] Movement for all naval units built in Dockyard[NEWLINE]+2 [ICON_Gold] Gold and +4 Loyalty per turn when built on a foreign continent. Cannot be built on Reef</Text>
+		</Replace>
+		<!-- France -->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CHATEAU_EXPANSION2_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Chateau, unique to France.[NEWLINE][NEWLINE]+2 [ICON_Culture] Culture. +1 Appeal. +1 [ICON_Culture] Culture for every adjacent wonder (becomes +2 after researching Flight). +1 [ICON_Gold] Gold for every adjacent Luxury resource. Provides [ICON_TOURISM] Tourism after researching Flight. Can only be built adjacent to Rivers.</Text>
+		</Replace>
+		<!-- Gilgamesh-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION">
+			<Text>When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles. Their Alliances gain Alliance Points for being at war with a common foe.</Text>
+		</Replace>
+		<!-- Mongolia -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORDU_EXPANSION2_DESCRIPTION">
+			<Text>A building unique to Mongolia. Grants an ability that gives +1 [ICON_MOVEMENT] Movement to Heavy and Light Cavalry trained in this city. +25% combat experience for all cavalry class units trained in this city.[NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Barracks.</Text>
+		</Replace>
+		<!-- Norway -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_THUNDERBOLT_EXPANSION2_DESCRIPTION">
+			<Text>Allows coastal raiding for all naval melee units and +50% [ICON_PRODUCTION] Production toward all naval melee units. Receive [ICON_SCIENCE] Science from pillaging and coastal raiding Mines in addition to [ICON_GOLD] Gold. Pillaging or coastal raiding Quarries, Pastures, Plantations, and Camps provide [ICON_CULTURE] Culture in addition to [ICON_FAITH] Faith. Gain the Viking Longship unique unit with Sailing.</Text>
+		</Replace>
+		<!-- Spain -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION">
+			<Text>May form Fleets and Armadas earlier than usual (Mercantilism). [ICON_TradeRoute] Trade Routes between multiple continents receive bonus [ICON_Gold] Gold for routes to other civilizations, and bonus [ICON_Food] Food and [ICON_Production] Production for routes between your own cities. +2 Loyalty per turn for cities with a Mission improvement adjacent to the City Center and not on your original [ICON_Capital] Capital's continent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION">
+			<Text>Inquisitors can Remove Heresy one extra time. Inquisitors eliminate 100% of the presence of other Religions. Combat units have a bonus of +4 [ICON_Strength] Combat Strength against players following other Religions.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +2 [ICON_Faith] Faith, +1 [ICON_PRODUCTION] Production, and +1 [ICON_FOod] Food if on a different continent than your [ICON_Capital] Capital. +1 [ICON_Science] Science for every adjacent Campus and Holy Site district. Additional [ICON_SCIENCE] Science once Cultural Heritage is discovered.</Text>
+		</Replace>
+		<!-- Germany-->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_HANSA_EXPANSION2_DESCRIPTION">
+			<Text>A district unique to Germany for industrial activity. Replaces the Industrial Zone district and cheaper to build.[NEWLINE][NEWLINE]+ 2[ICON_Production] Production bonus for each adjacent Commercial Hub, Aqueduct, Canal, and Dam districts. +1 [ICON_Production] Production bonus for each adjacent resource. +1 [ICON_Production] Production bonus for every two adjacent district tiles.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
