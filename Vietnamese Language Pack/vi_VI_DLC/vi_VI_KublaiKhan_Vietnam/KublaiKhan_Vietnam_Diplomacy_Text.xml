@@ -1,345 +1,345 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!-- Lady Trieu-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>There! I have taken you off the revenge list.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>Vietnam stands alone. We do not need you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Let our people share each other's burdens, and the struggle will be easier.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Our spears unite against our foes!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>You know what happens to my enemies, right?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>I have waited for this day for a long time. Today begins the war that will end in your destruction.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Now you are at war with Vietnam. Do you hear our trumpets? The thunder of our elephants? They are coming for you!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>Your delegation has seen the beauty of Vietnam, and the fierceness of its people.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>You say they come in peace, but I cannot allow any foreign infiltrators.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Vietnam's delegation approaches, bearing bird's nest soup, abalone, deer's tendon, and water from the Hàm Long well.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>You cannot content yourself with ruling your own people, but you must interfere with mine as well? I shall tell the whole world of your crimes!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Look here, you snake. One day there will be a great reckoning between our peoples, and justice will be served to you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LADY_TRIEU_ANY">
-			<Text>I am Bà Triệu, the general who wears the golden robe. Welcome to Vietnam.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LADY_TRIEU_ANY">
-			<Text>Welcome to Vietnam! Come and have bird's nest soup in our capital.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LADY_TRIEU_ANY">
-			<Text>Yes.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LADY_TRIEU_ANY">
-			<Text>Let me tell you of the citadels of Hanoi, and the dawn mist that clings to the Lake of the Returned Sword.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_GREETING_LEADER_LADY_TRIEU_ANY">
-			<Text>Welcome, guest.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LADY_TRIEU_ANY">
-			<Text>You have not been plotting my destruction, so I will not plot yours.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LADY_TRIEU_ANY">
-			<Text>Vietnam watches you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Bring your elephant alongside Vietnam's! What say you?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LADY_TRIEU_ANY">
-			<Text>Enough bloodshed. Let our warriors rebuild their homes.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LADY_TRIEU_ANY">
-			<Text>Never! I will not bow to you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Shall we set aside our swords?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>Your people may pass, but they will be watched.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
-			<Text>Vietnam did not live for this long just to allow foreign troops to march across our soil! No!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Will you permit my people passage? </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LADY_TRIEU_ANY">
-			<Text>Vietnam will not be threatened. Move your troops. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_LADY_TRIEU_ANY">
-			<Text>I do not have to listen to you. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_LADY_TRIEU_ANY">
-			<Text>Our troops are mighty and their cries terrible. We did not mean to frighten you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Do you think you have defeated me? I will ascend to heaven, and become the immortal spirit of our resistance!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>The needs of my people must come first. I cannot accept this.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LADY_TRIEU_ANY">
-			<Text>Your offer will benefit my people.</Text>
-		</Row>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Ở kìa! Tôi đã đưa bạn ra khỏi danh sách trả thù.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Việt Nam đứng một mình. Chúng tôi không cần bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Hãy để người dân của chúng tôi chia sẻ gánh nặng của nhau, và cuộc đấu tranh sẽ dễ dàng hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Giáo của chúng tôi đoàn kết chống lại kẻ thù của chúng tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Bạn biết những gì xảy ra với kẻ thù của tôi, phải không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Tôi đã chờ ngày này lâu lắm rồi. Hôm nay bắt đầu cuộc chiến mà sẽ kết thúc trong sự hủy diệt của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Bây giờ bạn đang có chiến tranh với Việt Nam. Bạn có nghe thấy tiếng kèn của chúng tôi không? Sấm sét của những con voi của chúng tôi? Họ đang đến với bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Phái đoàn của các bạn đã nhìn thấy vẻ đẹp của Việt Nam và sự dũng cảm của người dân Việt Nam.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Bạn nói rằng họ đến trong hòa bình, nhưng tôi không thể cho phép bất kỳ kẻ ngoại xâm nhập nước nào đến với đất nước tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Phái đoàn Việt Nam tiến đến, mang theo cháo tổ yến, bào ngư, gân hươu và nước giếng Hàm Long.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Bạn không thể bằng lòng với việc cai trị người của mình, nhưng bạn cũng phải can thiệp vào người của tôi? Tôi sẽ nói với cả thế giới về tội ác của bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Nhìn đây, con rắn. Một ngày nào đó sẽ có một cuộc chiến tranh lớn giữa các dân tộc của chúng ta, và công lý sẽ được thực thi cho các bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_LADY_TRIEU_ANY">
+			<Text>Tôi là Bà Triệu, vị tướng mặc áo vàng. Chào mừng bạn đến Việt Nam.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LADY_TRIEU_ANY">
+			<Text>Chào mừng bạn đến Việt Nam! Hãy đến và ăn súp yến ở thủ đô của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LADY_TRIEU_ANY">
+			<Text>Đúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LADY_TRIEU_ANY">
+			<Text>Để tôi kể bạn nghe về kinh thành Hà Nội, và sương sớm giăng trên Hồ Gươm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_LADY_TRIEU_ANY">
+			<Text>Chào mừng các vị khách.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LADY_TRIEU_ANY">
+			<Text>Bạn đã không âm mưu hủy diệt chúng tôi, vì vậy tôi sẽ không âm mưu hủy diệt bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LADY_TRIEU_ANY">
+			<Text>Việt Nam dõi theo bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Mang theo voi của bạn bên cạnh Việt Nam! Bạn nói gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LADY_TRIEU_ANY">
+			<Text>Đổ máu đủ rồi. Hãy để các chiến binh của chúng ta xây dựng lại ngôi nhà của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LADY_TRIEU_ANY">
+			<Text>Không bao giờ! Tôi sẽ không cúi đầu trước bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Chúng ta sẽ bỏ kiếm sang một bên chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Người của bạn có thể đi qua, nhưng họ sẽ bị theo dõi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Việt Nam không tồn tại lâu như vậy chỉ để giặc ngoại xâm tràn vào đất nước của chúng ta! Không!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Bạn sẽ cho phép người của tôi đi qua? </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LADY_TRIEU_ANY">
+			<Text>Việt Nam sẽ không bị đe dọa. Di chuyển quân đội của bạn. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_LADY_TRIEU_ANY">
+			<Text>tôi không cần phải lắng nghe bạn. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_LADY_TRIEU_ANY">
+			<Text>Quân chúng tôi hò hét hùng mạnh. Chúng tôi không cố ý làm bạn sợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Bạn có nghĩ rằng bạn đã đánh bại tôi? Tôi sẽ thăng thiên, và trở thành tinh thần bất tử trong cuộc kháng chiến của chúng tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Nhu cầu của người dân của tôi phải được đặt lên hàng đầu. Tôi không thể chấp nhận điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Đề nghị của bạn sẽ mang lại lợi ích cho người dân của tôi.</Text>
+		</Replace>
 		<!-- Kublai China-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Oh, prince of friends! The grasses sing of you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>I have enough friends. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Come, enjoy good wine and low-voiced songs, let us drink and let the sun and moon come and go!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Oh, prince of friends! The grasses sing of you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>You have rejected the Khan's offer of friendship. Let that sink in.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>I have gathered soldiers from every corner of my realm. Be honored that I take such pains to go to war with you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>The clouds of dust on the horizon are thousands of horsemen, coming with war. Prepare yourself!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>I challenged your delegates to a wrestling match. They may be a bit bruised today.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>We have poetry, composite bows, and horse milk. We don't need your leftovers.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>A camel train approaches your borders, bearing silks and spices, horse milk and mutton, and tales of the great Khan.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Whether you acted through ignorance or intent, the result is the same. You have annoyed me for too long, and I will no longer stand your insolence.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>A day is coming when your kingdom will be consumed like grass in a wildfire. On that day, I shall rejoice. (Denounces You).</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>I am Kublai. In time, the whole world shall know me as emperor and great khan.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>In my capital, I have arranged a wrestling match between our two strongest warriors. Come and drink fermented mare's milk with me!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Yes.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>May I tell you of the pearl of the Silk Road? And might you tell me of your lands?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_GREETING_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Greetings.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>You show wisdom and might working in harmony, like well-alloyed steel. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>If you cannot rule well, a better ruler will come and overthrow you. All of history teaches us this.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Let us ride together! You go first.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>The bow of war is broken. Let our horses get fat.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>My khans still hunger for war.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ôi, hoàng tử của những người bạn! Những ngọn cỏ hát về bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Tôi có đủ bạn rồi. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Hãy đến, thưởng thức rượu ngon cùng những bài hát, chúng ta hãy uống và để mặt trời và mặt trăng đến và đi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ôi, hoàng tử của những người bạn! Những ngọn cỏ hát về bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bạn đã từ chối lời đề nghị kết bạn của Hốt Tất Liệt. Hãy để điều đó nhấn chìm bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Tôi đã tập hợp binh lính từ mọi nơi trong vương quốc của mình. Hãy vinh dự khi tôi chịu đau đớn để tham chiến với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Những đám mây bụi ở chân trời là hàng ngàn kỵ binh, đến với chiến tranh. Chuẩn bị cho mình!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Tôi đã thách đấu các đại biểu của bạn trong một trận đấu vật. Họ có thể bị bầm tím một chút ngày hôm nay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Chúng tôi có thơ ca, cung tổng hợp và sữa ngựa. Chúng tôi không cần thức ăn thừa của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Một đoàn lạc đà tiến đến biên giới của bạn, mang theo tơ lụa và gia vị, sữa ngựa và thịt cừu, cùng những câu chuyện về vị Hãn vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Cho dù bạn đã hành động vì thiếu hiểu biết hay cố ý, kết quả là như nhau. Bạn đã làm phiền tôi quá lâu, và tôi sẽ không còn chịu đựng được sự xấc xược của bạn nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Sẽ có ngày vương quốc của bạn bị thiêu rụi như cỏ trong lửa rừng. Vào ngày đó, tôi sẽ vui mừng. (Tố Cáo Bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Tôi là Hốt Tất Liệt. Trong thời gian, cả thế giới sẽ biết ta là hoàng đế và đại hãn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Tại thủ đô của tôi, tôi đã sắp xếp một trận đấu vật giữa hai chiến binh mạnh nhất của chúng ta. Hãy đến và uống sữa ngựa lên men với tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Đúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Tôi có thể kể cho bạn về viên ngọc của Con đường tơ lụa không? Và bạn có thể cho tôi biết về vùng đất của bạn?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Chào mừng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bạn thể hiện sự khôn ngoan và có thể làm việc hài hòa, giống như thép hợp kim. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Nếu bạn không thể cai trị tốt, một người cai trị tốt hơn sẽ đến và lật đổ bạn. Tất cả lịch sử đều dạy chúng ta điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Hãy để chúng tôi đi cùng nhau! Bạn đi trước đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Cung chiến bị gãy. Hãy để những con ngựa của chúng ta béo lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Hốt Tất Liệt vẫn khao khát chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
 			<Text>Our horses grow thin and their riders sing of home.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Your horses are welcome to ride the steppes of the Mongolian Empire and the roads of the lands the Mongolian Empire has conquered.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Borders are there for a reason. These are here to keep you out.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>To be caged is to perish. If we are given borders, we die. May we pass? </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Your troops obstruct the view across the steppes. Move them.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>You do not give orders to a khan.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>You fear us. I understand. We will ride elsewhere.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Now go; leave me to my sorrow.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>The Golden Horde did not become golden with deals like this.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Yes. May profits pour in from all sides.</Text>
-		</Row>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ngựa của bạn được chào đón trên thảo nguyên của Đế chế Mông Cổ và những con đường nằm trong vùng đất Đế chế Mông Cổ đã chinh phục.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Biên giới chính là lý do. Để bạn không thể vượt qua..</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bị nhốt là chết. Nếu chúng ta bị đưa qua biên giới, chúng ta sẽ chết. Chúng ta có thể vượt qua? </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Quân đội của bạn cản trở tầm nhìn trên thảo nguyên. Di chuyển chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bạn không ra lệnh cho Hốt Tất Liệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bạn sợ chúng tôi. Tôi hiểu. Chúng tôi sẽ di chuyển sang nơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Đi ngay; để lại tôi với nỗi buồn của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Hãn quốc Kim Trướng đã không trở thành vàng với những giao dịch như thế này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Đúng. Có thể lợi nhuận đổ vào từ mọi phía.</Text>
+		</Replace>
 		<!-- Kublai Mongolia-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Oh, prince of friends! The grasses sing of you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>I have enough friends. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Come, enjoy good wine and low-voiced songs, let us drink and let the sun and moon come and go!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Oh, prince of friends! The grasses sing of you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>You have rejected the Khan's offer of friendship. Let that sink in.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>I have gathered soldiers from every corner of my realm. Be honored that I take such pains to go to war with you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>The clouds of dust on the horizon are thousands of horsemen, coming with war. Prepare yourself!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>I challenged your delegates to a wrestling match. They may be a bit bruised today.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>We have poetry, composite bows, and horse milk. We don't need your leftovers.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>A camel train approaches your borders, bearing silks and spices, horse milk and mutton, and tales of the great Khan.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Whether you acted through ignorance or intent, the result is the same. You have annoyed me for too long, and I will no longer stand your insolence.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>A day is coming when your kingdom will be consumed like grass in a wildfire. On that day, I shall rejoice. (Denounces You).</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>I am Kublai. In time, the whole world shall know me as emperor and great khan.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>In my capital, I have arranged a wrestling match between our two strongest warriors. Come and drink fermented mare's milk with me!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Yes.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>May I tell you of the pearl of the Silk Road? And might you tell me of your lands?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_GREETING_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Greetings.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>You show wisdom and might working in harmony, like well-alloyed steel. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>If you cannot rule well, a better ruler will come and overthrow you. All of history teaches us this.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Let us ride together! You go first.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>The bow of war is broken. Let our horses get fat.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>My khans still hunger for war.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Ôi, hoàng tử của những người bạn! Những ngọn cỏ hát về bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Tôi có đủ bạn rồi. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Hãy đến, thưởng thức rượu ngon cùng những bài hát, chúng ta hãy uống và để mặt trời và mặt trăng đến và đi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Ôi, hoàng tử của những người bạn! Những ngọn cỏ hát về bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bạn đã từ chối lời đề nghị kết bạn của Hốt Tất Liệt. Hãy để điều đó nhấn chìm bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Tôi đã tập hợp binh lính từ mọi nơi trong vương quốc của mình. Hãy vinh dự khi tôi chịu đau đớn để tham chiến với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Những đám mây bụi ở chân trời là hàng ngàn kỵ binh, đến với chiến tranh. Chuẩn bị cho mình!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Tôi đã thách đấu các đại biểu của bạn trong một trận đấu vật. Họ có thể bị bầm tím một chút ngày hôm nay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Chúng tôi có thơ ca, cung tổng hợp và sữa ngựa. Chúng tôi không cần thức ăn thừa của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Một đoàn lạc đà tiến đến biên giới của bạn, mang theo tơ lụa và gia vị, sữa ngựa và thịt cừu, cùng những câu chuyện về vị Hãn vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Cho dù bạn đã hành động vì thiếu hiểu biết hay cố ý, kết quả là như nhau. Bạn đã làm phiền tôi quá lâu, và tôi sẽ không còn chịu đựng được sự xấc xược của bạn nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Sẽ có ngày vương quốc của bạn bị thiêu rụi như cỏ trong lửa rừng. Vào ngày đó, tôi sẽ vui mừng. (Tố Cáo Bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Tôi là Hốt Tất Liệt. Trong thời gian, cả thế giới sẽ biết ta là hoàng đế và đại hãn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Tại thủ đô của tôi, tôi đã sắp xếp một trận đấu vật giữa hai chiến binh mạnh nhất của chúng ta. Hãy đến và uống sữa ngựa lên men với tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Đúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Tôi có thể kể cho bạn về viên ngọc của Con đường tơ lụa không? Và bạn có thể cho tôi biết về vùng đất của bạn?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Chào mừng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bạn thể hiện sự khôn ngoan và có thể làm việc hài hòa, giống như thép hợp kim. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Nếu bạn không thể cai trị tốt, một người cai trị tốt hơn sẽ đến và lật đổ bạn. Tất cả lịch sử dạy chúng ta điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Hãy để chúng tôi đi cùng nhau! Bạn đi trước đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Cung chiến bị gãy. Hãy để những con ngựa của chúng ta béo lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Hốt Tất Liệt vẫn khao khát chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
 			<Text>Our horses grow thin and their riders sing of home.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Your horses are welcome to ride the steppes of the Mongolian Empire and the roads of the lands the Mongolian Empire has conquered.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Borders are there for a reason. These are here to keep you out.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>To be caged is to perish. If we are given borders, we die. May we pass? </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Your troops obstruct the view across the steppes. Move them.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>You do not give orders to a khan.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>You fear us. I understand. We will ride elsewhere.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Now go; leave me to my sorrow.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>The Golden Horde did not become golden with deals like this.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Yes. May profits pour in from all sides.</Text>
-		</Row>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Ngựa của bạn được chào trên thảo nguyên của Đế chế Mông Cổ và những con đường nằm trong vùng đất mà Đế chế Mông Cổ đã chinh phục.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Biên giới chính là lý do. Để bạn không thể vượt qua..</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bị nhốt là chết. Nếu chúng ta bị đưa qua biên giới, chúng ta sẽ chết. Chúng ta có thể vượt qua? </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Quân đội của bạn cản trở tầm nhìn trên thảo nguyên. Di chuyển chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bạn không ra lệnh cho Hốt Tất Liệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bạn sợ chúng tôi. Tôi hiểu. Chúng tôi sẽ di chuyển sang nơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Đi ngay; để lại tôi với nỗi buồn của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Hãn quốc Kim Trướng đã không trở thành vàng với những giao dịch như thế này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Đúng. Có thể lợi nhuận đổ vào từ mọi phía.</Text>
+		</Replace>
 		<!-- Agenda Text -->
-		<Row Tag="LOC_AGENDA_TRIEU_DEFENDER_NAME">
-			<Text>Defender of the Homeland</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_TRIEU_DEFENDER_DESCRIPTION">
-			<Text>Likes Civilizations who have not declared war on her. Dislikes Civilizations that have declared war on her. For these, her opinion decreases further each turn the war progresses, and this decreased opinion never decays.</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER_POSITIVE">
-			<Text>Trieu likes those who have been at peace with her for a long time</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER_NEGATIVE">
-			<Text>Trieu dislikes those who have fought with her</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER">
-			<Text>Trieu likes civilizations who do not fight with her</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_LADY_TRIEU_ANY">
-			<Text>We are friends with those who do not fight us</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_LADY_TRIEU_ANY">
-			<Text>Fighting us is a mistake we will never forgive</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_KUBLAI_PAX_NAME">
-			<Text>Pax Mongolica</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_KUBLAI_PAX_DESCRIPTION">
-			<Text>Likes Civilizations that have a strong military and high Gold yield per turn. Dislikes Civilizations with a weak military or low income.</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX_POSITIVE">
-			<Text>Kublai Khan respects your strength and income</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX_NEGATIVE">
-			<Text>Kublai Khan heaps scorn on the weak and the poor</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX">
-			<Text>Kublai Khan likes rich and strong civilizations</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_KUBLAI_KHAN_CHINA_ANY">
-			<Text>Your strength and riches do you credit</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_KUBLAI_KHAN_CHINA_ANY">
-			<Text>The poor and the weak exist to be trampled underfoot</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>Your strength and riches do you credit</Text>
-		</Row>
-		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_KUBLAI_KHAN_MONGOLIA_ANY">
-			<Text>The poor and the weak exist to be trampled underfoot</Text>
-		</Row>
-	</EnglishText>
+		<Replace Language='en_US' Tag="LOC_AGENDA_TRIEU_DEFENDER_NAME">
+			<Text>Người bảo vệ Tổ quốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_TRIEU_DEFENDER_DESCRIPTION">
+			<Text>Thích các nền văn minh mà chưa tuyên chiến với bà. Không thích các nền văn minh đã tuyên chiến với bà. Đối với những điều này, ý kiến ​​của bà ngày càng giảm đi sau mỗi lượt chiến tranh diễn ra, và ý kiến ​​giảm sút này không bao giờ suy giảm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER_POSITIVE">
+			<Text>Bà Triệu thích những người hòa bình với bà trong một thời gian dài</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER_NEGATIVE">
+			<Text>Bà Triệu không thích những kẻ chiến đấu với bà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER">
+			<Text>Bà Triệu thích những nền văn minh không chiến đấu với bà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_KUDO_EXIT_LADY_TRIEU_ANY">
+			<Text>Chúng tôi là bạn với những kẻ không chống lại chúng tôi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_WARNING_EXIT_LADY_TRIEU_ANY">
+			<Text>Chống lại chúng tôi là một sai lầm và chúng tôi sẽ không bao giờ tha thứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_KUBLAI_PAX_NAME">
+			<Text>Pax Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_KUBLAI_PAX_DESCRIPTION">
+			<Text>Thích các Nền văn minh có quân đội mạnh và sản lượng Vàng cao mỗi lượt. Không thích các nền văn minh có quân đội yếu hoặc thu nhập thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX_POSITIVE">
+			<Text>Hốt Tất Liệt tôn trọng sức mạnh và thu nhập của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX_NEGATIVE">
+			<Text>Hốt Tất Liệt coi thường kẻ yếu và người nghèo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX">
+			<Text>Hốt Tất Liệt thích các nền văn minh giàu mạnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_KUDO_EXIT_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bạn tin vào sức mạnh và sự giàu có của mình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_WARNING_EXIT_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Người nghèo và kẻ yếu tồn tại để bị chà đạp dưới chân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_KUDO_EXIT_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bạn tin vào sức mạnh và sự giàu có của mình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_WARNING_EXIT_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Người nghèo và kẻ yếu tồn tại để bị chà đạp dưới chân</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>
