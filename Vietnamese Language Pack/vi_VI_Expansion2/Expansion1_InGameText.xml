@@ -1497,12 +1497,12 @@
 			<Text>The Target will receive reduced War Weariness when at war with Members.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EMERGENCY_TAB_COMPLETED">
-			<Text>Completed</Text>
+			<Text>Hoàn thành</Text>
 		</Replace>
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 		<!--Spy-->
 		<Replace Language='en_US' Tag="LOC_UNITOPERATION_SPY_FABRICATE_SCANDAL_DESCRIPTION">
-			<Text>Fabricate Scandal</Text>
+			<Text>Bịa đặt vụ bê bối</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITOPERATION_SPY_FOMENT_UNREST_DESCRIPTION">
 			<Text>Foment Unrest</Text>
@@ -1538,10 +1538,10 @@
 			<Text>{1_Amount} turns</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME">
-			<Text>Smear Campaign</Text>
+			<Text>Chiến dịch bôi nhọ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_COVERT_ACTION_NAME">
-			<Text>Covert Action</Text>
+			<Text>Hành động bí mật</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME">
 			<Text>License to Kill</Text>
@@ -1603,7 +1603,7 @@
 			<Text>Assign Governor to...</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNOR_SELECT_A_CITY">
-			<Text>Select a city...</Text>
+			<Text>Chọn thành phố...</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNOR_NO_PREVIOUS_GOVERNOR">
 			<Text>No Previous Governor</Text>
@@ -1612,16 +1612,16 @@
 			<Text>Number of turns before the governor will be established.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNOR_SKILL_TREE">
-			<Text>Skill Tree</Text>
+			<Text>Cây kỹ năng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTE">
 			<Text>Promote</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_BUTTON_ASSIGN_GOVERNOR">
-			<Text>Assign</Text>
+			<Text>Giao phó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_BUTTON_REASSIGN_GOVERNOR">
-			<Text>Reassign</Text>
+			<Text>Chỉ định lại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_ABILITIES">
 			<Text>ABILITIES</Text>
@@ -1672,7 +1672,7 @@
 			<Text>Desire for independence</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
-			<Text>Happiness level</Text>
+			<Text>Mức độ hạnh phúc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
 			<Text>Other effects here</Text>
@@ -1743,7 +1743,7 @@
 		</Replace>
 		<!-- Scoring -->
 		<Replace Language='en_US' Tag="LOC_CATEGORY_ERA_SCORE_NAME">
-			<Text>Era Score</Text>
+			<Text>Điểm thời đại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
 			<Text>Civilizations that have assigned their Diplomat [ICON_Governor] Governor to this city-state:</Text>
@@ -1776,28 +1776,28 @@
 			<Text>+1 [ICON_Food] Food from the Plantation improvement.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_NEW_FEATURES">
-			<Text>New Features</Text>
+			<Text>Các tính năng mới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
 			<Text>Review the new features in the current expansion.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_XP1_INTRO_NEXT">
-			<Text>Next</Text>
+			<Text>Tiếp theo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_XP1_INTRO_PREVIOUS">
-			<Text>Previous</Text>
+			<Text>Trở về</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_XP1_INTRO_CONTINUE">
-			<Text>Continue</Text>
+			<Text>Tiếp tục</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_XP_INTRO_HIDETHIS">
-			<Text>Don't show this again</Text>
+			<Text>Không hiển thị lần sau</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_END_GAME_MENU_HISTORIAN_BUTTON">
-			<Text>View Timeline</Text>
+			<Text>Xem dòng thời gian</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_END_GAME_MENU_EXPORT_HISTORIAN_BUTTON">
-			<Text>Export Timeline</Text>
+			<Text>Xuất dòng thời gian</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOYALTY_CITY_IS_LOYAL_TO_TT">
 			<Text>City is Loyal to {1_CivName}</Text>
@@ -1827,7 +1827,7 @@
 			<Text>City is fully Loyal and gaining Loyalty per turn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOYALTY_NO_CHANGE_TT">
-			<Text>No change</Text>
+			<Text>Không thay đổi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOYALTY_RISING_LOYALTY_TT">
 			<Text>Rising {1_LoyaltyPerTurn}</Text>
@@ -1840,7 +1840,7 @@
 			<Text>Era Score per-turn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_GOVERNORS_NAME">
-			<Text>Total Governors</Text>
+			<Text>Tổng thống đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_GOVERNORTITLES_NAME">
 			<Text>Total Governor Titles</Text>
@@ -1855,7 +1855,7 @@
 			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Yields 1 [ICON_Food] Food, +0.5 [ICON_Housing] Housing, +1 additional [ICON_Food] Food if adjacent to a sea resource. +1 [ICON_PRODUCTION] Production if in a city with a Surveyor Governor with the Aquaculture promotion. Must be built on a coastal plot.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
-			<Text>City Park</Text>
+			<Text>Công viên thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
 			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Yields 2 Appeal and 1 [ICON_Culture] Culture. +1 [ICON_Amenities] Amenity if adjacent to water. +3 [ICON_CULTURE] Culture if in a city with a Surveyor Governor with the  Parks and Recreation promotion. Cannot be adjacent to another City Park.</Text>

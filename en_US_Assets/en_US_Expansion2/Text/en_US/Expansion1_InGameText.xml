@@ -1776,7 +1776,7 @@
 			<Text>+1 [ICON_Food] Food from the Plantation improvement.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_NEW_FEATURES">
-			<Text>New Features</Text>
+			<Text>Các tính năng mới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
 			<Text>Review the new features in the current expansion.</Text>
