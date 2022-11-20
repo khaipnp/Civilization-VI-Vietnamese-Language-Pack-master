@@ -1,915 +1,915 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_BASE_TEMPLATE">
+  <BaseGameText>
+    <Row Tag="LOC_UNITNAME_BASE_TEMPLATE">
       <Text>{1_Prefix} {2_Suffix}</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_RANDOMIZE_BUTTON_TEXT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_RANDOMIZE_BUTTON_TEXT">
       <Text>Randomize</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_CHOOSE_NAME">
+    </Row>
+    <Row Tag="LOC_UNITNAME_CHOOSE_NAME">
       <Text>Choose a title for this unit:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_CONFIRM">
+    </Row>
+    <Row Tag="LOC_UNITNAME_CONFIRM">
       <Text>Confirm Name</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_RANDOM_FIRST">
+    </Row>
+    <Row Tag="LOC_UNITNAME_RANDOM_FIRST">
       <Text>Randomize First Name</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_RANDOM_SECOND">
+    </Row>
+    <Row Tag="LOC_UNITNAME_RANDOM_SECOND">
       <Text>Randomize Second Name</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_1ST">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_1ST">
       <Text>The 1st</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_2ND">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_2ND">
       <Text>The 2nd</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_3RD">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_3RD">
       <Text>The 3rd</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_4TH">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_4TH">
       <Text>The 4th</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_AIMED">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_AIMED">
       <Text>The Aimed</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ALPHA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ALPHA">
       <Text>The Alpha</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ALPINE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ALPINE">
       <Text>The Alpine</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ANGEL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ANGEL">
       <Text>The Angel</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ARMORED">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ARMORED">
       <Text>The Armored</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BIG_RED">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BIG_RED">
       <Text>The Red</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BLACK">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLACK">
       <Text>The Black</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BLOOD">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLOOD">
       <Text>The Blood</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BLOODY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLOODY">
       <Text>The Bloody</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BRAVE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BRAVE">
       <Text>The Brave</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BULL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BULL">
       <Text>The Bull</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_CELESTIAL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_CELESTIAL">
       <Text>The Celestial</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_COLONIAL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_COLONIAL">
       <Text>The Colonial</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_CRAZY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_CRAZY">
       <Text>The Crazy</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DEAD_CENTER">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEAD_CENTER">
       <Text>The Center</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DEADLY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEADLY">
       <Text>The Deadly</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DEATHS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEATHS">
       <Text>The Death's</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DELTA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DELTA">
       <Text>The Delta</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DESERT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DESERT">
       <Text>The Desert</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DIRTY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DIRTY">
       <Text>The Dirty</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DRAGON">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DRAGON">
       <Text>The Dragon</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_DRAWN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DRAWN">
       <Text>The Drawn</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ELITE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ELITE">
       <Text>The Elite</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_FIGHTING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_FIGHTING">
       <Text>The Fighting</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_FLYING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_FLYING">
       <Text>The Flying</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GALLOPING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GALLOPING">
       <Text>The Galloping</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GHOST">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GHOST">
       <Text>The Ghost</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GLORY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GLORY">
       <Text>The Glory</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GOLDEN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GOLDEN">
       <Text>The Golden</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GREAT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GREAT">
       <Text>The Great</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GREEN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GREEN">
       <Text>The Green</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GRIM">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GRIM">
       <Text>The Grim</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_HADES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HADES">
       <Text>The Hades</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_HELLISH">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HELLISH">
       <Text>The Hellish</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_HELLS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HELLS">
       <Text>The Hells</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_HOLY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HOLY">
       <Text>The Holy</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_INVINCIBLE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_INVINCIBLE">
       <Text>The Invincible</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_IRON">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_IRON">
       <Text>The Iron</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_JUNGLE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_JUNGLE">
       <Text>The Jungle</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_KINGS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_KINGS">
       <Text>The King's</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_LAVA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LAVA">
       <Text>The Lava</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_LIGHT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LIGHT">
       <Text>The Light</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_LIGHTNING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LIGHTNING">
       <Text>The Lightning</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_LION">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LION">
       <Text>The Lion</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_LONG">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LONG">
       <Text>The Long</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_MAGNIFICENT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MAGNIFICENT">
       <Text>The Magnificent</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_MOUNTAIN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MOUNTAIN">
       <Text>The Mountain</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_MOUNTED">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MOUNTED">
       <Text>The Mounted</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_NOMADIC">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_NOMADIC">
       <Text>The Nomadic</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_OLD">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_OLD">
       <Text>The Old</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ORPHAN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ORPHAN">
       <Text>The Orphan</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_PARTISAN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_PARTISAN">
       <Text>The Partisan</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_PRESIDENTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_PRESIDENTS">
       <Text>The President's</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_QUEENS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_QUEENS">
       <Text>The Queen's</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_RAGGED">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RAGGED">
       <Text>The Ragged</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_RAINING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RAINING">
       <Text>The Raining</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_REVOLUTIONARY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_REVOLUTIONARY">
       <Text>The Revolutionary</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_RIVER">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RIVER">
       <Text>The River</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ROCK">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ROCK">
       <Text>The Rock</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ROYAL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ROYAL">
       <Text>The Royal</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SACRED">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SACRED">
       <Text>The Sacred</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SALTY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SALTY">
       <Text>The Salty</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SCREAMING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SCREAMING">
       <Text>The Screaming</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SEA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SEA">
       <Text>The Sea</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SHARP">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SHARP">
       <Text>The Sharp</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SILENT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SILENT">
       <Text>The Silent</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SOARING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SOARING">
       <Text>The Soaring</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_STONE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STONE">
       <Text>The Stone</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_STONEWALL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STONEWALL">
       <Text>The Stonewall</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_STORM">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STORM">
       <Text>The Storm</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_TALL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TALL">
       <Text>The Tall</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_TEN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TEN">
       <Text>The Ten</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_TERRIBLE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TERRIBLE">
       <Text>The Terrible</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_THUNDERING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_THUNDERING">
       <Text>The Thundering</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_TIMBER">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TIMBER">
       <Text>The Timber</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_TROPIC">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TROPIC">
       <Text>The Tropic</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_TUNDRA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TUNDRA">
       <Text>The Tundra</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_WALKING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WALKING">
       <Text>The Walking</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_WAR">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WAR">
       <Text>The War</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_WHITE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WHITE">
       <Text>The White</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_WILD">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WILD">
       <Text>The Wild</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_WINDING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WINDING">
       <Text>The Winding</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ARTISTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARTISTS">
       <Text>Artists</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BANNER">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BANNER">
       <Text>Banner</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BASTARDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BASTARDS">
       <Text>Bastards</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BATTALION">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BATTALION">
       <Text>Battalion</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BERETS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BERETS">
       <Text>Berets</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BODYGUARDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BODYGUARDS">
       <Text>Bodyguards</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BOOTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOOTS">
       <Text>Boots</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BOYS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOYS">
       <Text>Boys</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BRAVES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BRAVES">
       <Text>Braves</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BRIGADE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BRIGADE">
       <Text>Brigade</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BROTHERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BROTHERS">
       <Text>Brothers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BUTCHERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BUTCHERS">
       <Text>Butchers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CAPS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CAPS">
       <Text>Caps</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CHAMPIONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CHAMPIONS">
       <Text>Champions</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CIRCUS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CIRCUS">
       <Text>Circus</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_COMPANY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMPANY">
       <Text>Company</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_COMRADES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMRADES">
       <Text>Comrades</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CROSSES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CROSSES">
       <Text>Crosses</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CROWS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CROWS">
       <Text>Crows</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DEAD">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEAD">
       <Text>Dead</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DEMONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEMONS">
       <Text>Demons</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DEVILS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEVILS">
       <Text>Devils</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DOGS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DOGS">
       <Text>Dogs</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DOZEN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DOZEN">
       <Text>Dozen</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DRAGONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DRAGONS">
       <Text>Dragons</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_EAGLES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EAGLES">
       <Text>Eagles</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_EXCELLERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EXCELLERS">
       <Text>Excellers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FORCE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FORCE">
       <Text>Force</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FUSILIERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FUSILIERS">
       <Text>Fusiliers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GAMBLERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GAMBLERS">
       <Text>Gamblers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GANG">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GANG">
       <Text>Gang</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GARDE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GARDE">
       <Text>Garde</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GIANTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GIANTS">
       <Text>Giants</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GOONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GOONS">
       <Text>Goons</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GRENADIERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GRENADIERS">
       <Text>Grenadiers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GUARD">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUARD">
       <Text>Guard</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GUARDIANS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUARDIANS">
       <Text>Guardians</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HATS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HATS">
       <Text>Hats</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HELMETS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HELMETS">
       <Text>Helmets</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HORDE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORDE">
       <Text>Horde</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HOUNDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HOUNDS">
       <Text>Hounds</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HUNTERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HUNTERS">
       <Text>Hunters</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_IMMORTALS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IMMORTALS">
       <Text>Immortals</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_INFANTRY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INFANTRY">
       <Text>Infantry</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_IRONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IRONS">
       <Text>Irons</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_KILLERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KILLERS">
       <Text>Killers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_KINGS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KINGS">
       <Text>Kings</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_LADS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LADS">
       <Text>Lads</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_LAMBS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LAMBS">
       <Text>Lambs</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_LEGION">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LEGION">
       <Text>Legion</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_LIBERATORS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LIBERATORS">
       <Text>Liberators</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_LINE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LINE">
       <Text>Line</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_LIONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LIONS">
       <Text>Lions</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_MARTYRS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARTYRS">
       <Text>Martyrs</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ONE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ONE">
       <Text>Ones</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_OWN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_OWN">
       <Text>Own</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PANTHERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PANTHERS">
       <Text>Panthers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PEACEMAKERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PEACEMAKERS">
       <Text>Peacemakers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PHANTOMS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PHANTOMS">
       <Text>Phantoms</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PROFESSIONALS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PROFESSIONALS">
       <Text>Professionals</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RAIDERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAIDERS">
       <Text>Raiders</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RAMPAGERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAMPAGERS">
       <Text>Rampagers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_REDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REDS">
       <Text>Reds</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_REGIMENT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REGIMENT">
       <Text>Regiment</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RELIABLES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RELIABLES">
       <Text>Reliables</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SAINTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SAINTS">
       <Text>Saints</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SAVAGES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SAVAGES">
       <Text>Savages</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SEEKERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SEEKERS">
       <Text>Seekers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SHIELDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHIELDS">
       <Text>Shields</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SHIRTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHIRTS">
       <Text>Shirts</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SONS">
       <Text>Sons</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_TIGERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TIGERS">
       <Text>Tigers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_TIMBERWOLVES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TIMBERWOLVES">
       <Text>Timberwolves</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_TOUGHS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TOUGHS">
       <Text>Toughs</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_TROOP">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TROOP">
       <Text>Troop</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_VOLUNTEERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VOLUNTEERS">
       <Text>Volunteers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WARLORDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARLORDS">
       <Text>Warlords</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WATCH">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WATCH">
       <Text>Watch</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WIDOWMAKERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WIDOWMAKERS">
       <Text>Widowmakers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WOLFHOUNDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WOLFHOUNDS">
       <Text>Wolfhounds</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WOLVES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WOLVES">
       <Text>Wolves</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_APES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_APES">
       <Text>Apes</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BLADES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BLADES">
       <Text>Blades</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_COMMANDOS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMMANDOS">
       <Text>Commandos</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_EYES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EYES">
       <Text>Eyes</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_JACKETS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_JACKETS">
       <Text>Jackets</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_KNIVES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNIVES">
       <Text>Knives</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_MARAUDERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARAUDERS">
       <Text>Marauders</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_NOMADS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_NOMADS">
       <Text>Nomads</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_OUTLAWS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_OUTLAWS">
       <Text>Outlaws</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PATHFINDERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PATHFINDERS">
       <Text>Pathfinders</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RANGERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RANGERS">
       <Text>Rangers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RECON">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RECON">
       <Text>Recon</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RUNNERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RUNNERS">
       <Text>Runners</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SCOUTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SCOUTS">
       <Text>Scouts</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SNAKES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SNAKES">
       <Text>Snakes</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WANDERERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WANDERERS">
       <Text>Wanderers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ARROWS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARROWS">
       <Text>Arrows</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ARTILLERY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARTILLERY">
       <Text>Artillery</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BATTERY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BATTERY">
       <Text>Battery</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BLAZERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BLAZERS">
       <Text>Blazers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BOMBARDIERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOMBARDIERS">
       <Text>Bombardiers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BOWS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOWS">
       <Text>Bows</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DEATH">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEATH">
       <Text>Death</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FIRE_BREATHERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FIRE_BREATHERS">
       <Text>Breathers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GUNNERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUNNERS">
       <Text>Gunners</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_KNOCKERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNOCKERS">
       <Text>Knockers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_MARKSMEN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARKSMEN">
       <Text>Marksmen</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RAIN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAIN">
       <Text>Rain</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SHARPS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARPS">
       <Text>Sharps</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SHARPSHOOTERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARPSHOOTERS">
       <Text>Sharpshooters</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SLINGERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SLINGERS">
       <Text>Slingers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SNIPERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SNIPERS">
       <Text>Snipers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_STRIKERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STRIKERS">
       <Text>Strikers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DRAGOONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DRAGOONS">
       <Text>Dragoons</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FEATHERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FEATHERS">
       <Text>Feathers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FOXES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FOXES">
       <Text>Foxes</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HAMMER">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HAMMER">
       <Text>Hammer</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HORSE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORSE">
       <Text>Horse</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HORSEMEN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORSEMEN">
       <Text>Horsemen</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HUSSARS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HUSSARS">
       <Text>Hussars</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_KNIGHTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNIGHTS">
       <Text>Knights</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_KORPS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KORPS">
       <Text>Korps</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_LANCERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LANCERS">
       <Text>Lancers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PONIES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PONIES">
       <Text>Ponies</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RIDERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RIDERS">
       <Text>Riders</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_STEEDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STEEDS">
       <Text>Steeds</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_VANGUARD">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VANGUARD">
       <Text>Vanguard</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WARHORSES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARHORSES">
       <Text>Warhorses</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ARMADA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARMADA">
       <Text>Armada</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BOUNTY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOUNTY">
       <Text>Bounty</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BUCCANEERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BUCCANEERS">
       <Text>Buccaneers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CONQUEROR">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CONQUEROR">
       <Text>Conqueror</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_DREADNOUGHT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DREADNOUGHT">
       <Text>Dreadnought</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_EEL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EEL">
       <Text>Eel</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ENDEAVOR">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ENDEAVOR">
       <Text>Endeavor</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FLAGSHIP">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FLAGSHIP">
       <Text>Flagship</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FLOTILLA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FLOTILLA">
       <Text>Flotilla</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_INTREPID">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INTREPID">
       <Text>Intrepid</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_INVINCIBLE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INVINCIBLE">
       <Text>Invincible</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_IRONSIDES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IRONSIDES">
       <Text>Ironsides</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_NARWHAL">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_NARWHAL">
       <Text>Narwhal</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ORCA">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ORCA">
       <Text>Orca</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_REDOUBTABLE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REDOUBTABLE">
       <Text>Redoubtable</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_RESOLUTION">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RESOLUTION">
       <Text>Resolution</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_REVENGE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REVENGE">
       <Text>Revenge</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SEAWOLVES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SEAWOLVES">
       <Text>Seawolves</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SHARK">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARK">
       <Text>Shark</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_STRIKE_GROUP">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STRIKE_GROUP">
       <Text>Group</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_TRIDENT">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TRIDENT">
       <Text>Trident</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_VICTORY">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VICTORY">
       <Text>Victory</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WHALE">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WHALE">
       <Text>Whale</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ACES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ACES">
       <Text>Aces</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_AIRMEN">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_AIRMEN">
       <Text>Airmen</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ANGELS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ANGELS">
       <Text>Angels</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_BIRDS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BIRDS">
       <Text>Birds</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FALCONS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FALCONS">
       <Text>Falcons</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FLYERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FLYERS">
       <Text>Flyers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GUNFIGHTERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUNFIGHTERS">
       <Text>Gunfighters</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GUNS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUNS">
       <Text>Guns</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HAWKS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HAWKS">
       <Text>Hawks</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HORNETS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORNETS">
       <Text>Hornets</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_INTERCEPTORS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INTERCEPTORS">
       <Text>Interceptors</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_INTRUDERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INTRUDERS">
       <Text>Intruders</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_NIGHTSTALKERS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_NIGHTSTALKERS">
       <Text>Nightstalkers</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SQUADRON">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SQUADRON">
       <Text>Squadron</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_THUNDERBOLTS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_THUNDERBOLTS">
       <Text>Thunderbolts</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_VAMPIRES">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VAMPIRES">
       <Text>Vampires</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WARHAWKS">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARHAWKS">
       <Text>Warhawks</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WING">
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WING">
       <Text>Wing</Text>
-    </Replace>
+    </Row>
 
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_HEAVENLY">
+	  <Row Tag="LOC_UNITNAME_PREFIX_HEAVENLY">
 		  <Text>The Heavenly</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BRIGHT">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_BRIGHT">
 		  <Text>The Bright</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_HIDDEN">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_HIDDEN">
 		  <Text>The Hidden</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_JADE">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_JADE">
 		  <Text>The Jade</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_CRIMSON">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_CRIMSON">
 		  <Text>The Crimson</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SPIRIT">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_SPIRIT">
 		  <Text>The Spirit</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_ETERNAL">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_ETERNAL">
 		  <Text>The Eternal</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_NORTHERN">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_NORTHERN">
 		  <Text>The Northern</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SOUTHERN">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_SOUTHERN">
 		  <Text>The Southern</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_EASTERN">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_EASTERN">
 		  <Text>The Eastern</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_WESTERN">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_WESTERN">
 		  <Text>The Western</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_EARTHEN">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_EARTHEN">
 		  <Text>The Earthen</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_GALE">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_GALE">
 		  <Text>The Gale</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_FIRE">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_FIRE">
 		  <Text>The Fire</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_METAL">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_METAL">
 		  <Text>The Metal</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_WATER">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_WATER">
 		  <Text>The Water</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_BOXING">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_BOXING">
 		  <Text>The Boxing</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_OPEN">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_OPEN">
 		  <Text>The Open</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_RAGING">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_RAGING">
 		  <Text>The Raging</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_CALM">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_CALM">
 		  <Text>The Calm</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_PREFIX_SLEEPING">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_SLEEPING">
 		  <Text>The Sleeping</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FLAMES">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FLAMES">
 		  <Text>Flames</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_WINDS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_WINDS">
 		  <Text>Winds</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FLOODS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FLOODS">
 		  <Text>Floods</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_MONKEYS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MONKEYS">
 		  <Text>Monkeys</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CRANES">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_CRANES">
 		  <Text>Cranes</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_MANTIS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MANTIS">
 		  <Text>Mantis</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PANDAS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_PANDAS">
 		  <Text>Pandas</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_ORDER">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_ORDER">
 		  <Text>Order</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_HAND">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_HAND">
 		  <Text>Hand</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FIST">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FIST">
 		  <Text>Fist</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_CLAW">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_CLAW">
 		  <Text>Claw</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_STARS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_STARS">
 		  <Text>Stars</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PALM">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_PALM">
 		  <Text>Palm</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_MENDICANTS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MENDICANTS">
 		  <Text>Mendicants</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_PILGRIMS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_PILGRIMS">
 		  <Text>Pilgrims</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_TEACHERS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_TEACHERS">
 		  <Text>Teachers</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_MASTERS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MASTERS">
 		  <Text>Masters</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_SWEEPERS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_SWEEPERS">
 		  <Text>Sweepers</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_FOOT">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FOOT">
 		  <Text>Foot</Text>
-	  </Replace>
-	  <Replace Language='en_US' Tag="LOC_UNITNAME_SUFFIX_GRASSHOPPERS">
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_GRASSHOPPERS">
 		  <Text>Grasshoppers</Text>
-	  </Replace>
-  </LocalizedText>
+	  </Row>
+  </BaseGameText>
 </GameData>

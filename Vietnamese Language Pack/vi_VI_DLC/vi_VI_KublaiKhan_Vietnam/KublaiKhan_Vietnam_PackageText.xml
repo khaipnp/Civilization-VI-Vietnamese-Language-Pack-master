@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_TITLE">
+			<Text>Gói Việt Nam và Hốt Tất Liệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_TEASER">
+			<Text>Nền văn minh mới và các nhà lãnh đạo - Việt Nam, và Hốt Tất Liệt, một nhà lãnh đạo thay thế cho Trung Quốc và Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_DESCRIPTION">
+			<Text>Chứa một nền văn minh mới, hai nhà lãnh đạo mới, một quận mới, hai tòa nhà mới và chế độ trò chơi Monopolies và Corporations.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

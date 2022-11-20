@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Dawn of Man text -->
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_CHINA">
+			<Text>Hốt Tất Liệt, cháu trai của Thành Cát Tư Hãn, bạn sẽ xây dựng một đế chế để cạnh tranh với ông ta. Bạn biết khi nào nên uốn cong và khi nào nên tấn công để giành lợi thế. Trí thông minh và năng lực chính trị của bạn sẽ phục vụ bạn, cũng như kỹ năng võ thuật của bạn trong các cuộc chinh phục của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_MONGOLIA">
+			<Text>Hốt Tất Liệt, cháu trai của Thành Cát Tư Hãn, bạn sẽ xây dựng một đế chế để cạnh tranh với ông ta. Bạn biết khi nào nên uốn cong và khi nào nên tấn công để giành lợi thế. Trí thông minh và năng lực chính trị của bạn sẽ phục vụ bạn, cũng như kỹ năng võ thuật của bạn trong các cuộc chinh phục của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_LADY_TRIEU">
+			<Text>Bà Triệu ơi, thần dân nhớ đến bà. Hãy đứng lên chống lại những kẻ cố gắng kiềm chế cơn bão của bạn, và hãy giương cao thanh kiếm của bạn để thách thức. Cả gia đình và kẻ thù sẽ không giữ bạn lại.</Text>
+		</Replace>
+		<!-- Kublai Khan: Leader Info -->
+		<Replace Language='en_US' Tag="LOC_LEADER_KUBLAI_KHAN_C_NAME">
+			<Text>Hốt Tất Liệt (Trung Quốc)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_KUBLAI_KHAN_NAME">
+			<Text>Hốt Tất Liệt (Mông Cổ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KUBLAI_NAME">
+			<Text>Gerege</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KUBLAI_DESCRIPTION">
+			<Text>One extra Economic policy slot in any government. Receive a random [ICON_TechBoosted] Eureka and [ICON_CivicBoosted] Inspiration when establishing a [ICON_TradingPost] Trading Post in another Civilization's city for the first time.</Text>
+		</Replace>
+		<!-- Vietnam: District Info -->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_THANH_NAME">
+			<Text>Thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_THANH_DESCRIPTION">
+			<Text>Một quận duy nhất của Việt Nam thay thế Encampment. +2 [ICON_CULTURE] Văn hóa cho mỗi quận lân cận. Sau khi nghiên cứu Chuyến bay, nhận được [ICON_TOURISM] Du lịch bằng với [ICON_CULTURE] đầu ra Văn hóa. Quận này không yêu cầu dân số, xây dựng rẻ hơn, không thể xây dựng liền kề với trung tâm thành phố, không cung cấp điểm [ICON_GreatPerson] Great People và không phải là quận đặc biệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_DISTRICT_CULTURE_MAJOR">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Replace>
+		<!-- Vietnam: Civilization Info -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VIETNAM_NAME">
+			<Text>Vietnam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>Vietnamese Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VIETNAM_ADJECTIVE">
+			<Text>Vietnamese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_NAME">
+			<Text>Nine Dragon River Delta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>All land specialty districts can only be built on Rainforest, Marsh, or Woods. Receive the following yields for every building on these features: +1 [ICON_CULTURE] Culture in Woods, +1 [ICON_SCIENCE] Science in Rainforest and +1 [ICON_PRODUCTION] Production in Marsh. Woods can be planted with the Medieval Faires civic.</Text>
+		</Replace>
+		<!-- Vietnam: Leader Info -->
+		<Replace Language='en_US' Tag="LOC_LEADER_LADY_TRIEU_NAME">
+			<Text>Bà Triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_TRIEU_NAME">
+			<Text>Đánh đuổi quân xâm lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_TRIEU_DESCRIPTION">
+			<Text>+5 [ICON_Strength] sức mạnh chiến đấu cho các đơn vị chiến đấu trong ô rừng nhiệt đới, đầm lầy hoặc gỗ. +1 [ICON_Movement] di chuyển nếu họ bắt đầu lượt của mình ở đó. Cả hai phần thưởng này đều được nhân đôi nếu ô xếp là lãnh thổ của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRIEU_FEATURES_NAME">
+			<Text>Đánh đuổi quân xâm lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRIEU_FEATURES_DESCRIPTION">
+			<Text>+5 [ICON_Strength] sức mạnh chiến đấu cho các đơn vị chiến đấu trong ô rừng nhiệt đới, đầm lầy hoặc gỗ. +1 [ICON_Movement] di chuyển nếu họ bắt đầu lượt của mình ở đó. Cả hai phần thưởng này đều được nhân đôi nếu ô xếp là lãnh thổ của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRIEU_FRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} sức mạnh chiến đấu khi đánh đuổi quân xâm lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRIEU_UNFRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} sức mạnh chiến đấu khi đánh đuổi quân xâm lược</Text>
+		</Replace>
+		<!-- Vietnam: Unit Info -->
+		<Replace Language='en_US' Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_NAME">
+			<Text>Voi Chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_DESCRIPTION">
+			<Text>Đơn vị tầm xa độc đáo của Việt Nam thời Trung Cổ thay thế cho Nỏ. Các đơn vị này có thêm chuyển động và có thể di chuyển sau khi tấn công. Chúng cũng mạnh hơn khi phòng thủ, đắt hơn và có tầm nhìn tốt hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VOI_CHIEN_NAME">
+			<Text>Voi Chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VOI_CHIEN_DESCRIPTION">
+			<Text>Có thể di chuyển sau khi tấn công.</Text>
+		</Replace>
+		<!-- Preserve text-->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_PRESERVE_NAME">
+			<Text>Preserve</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_PRESERVE_DESCRIPTION">
+			<Text>Grants up to 3 [ICON_Housing] Housing based on Appeal. Culture bombs adjacent neutral tiles, and increases their Appeal by 1.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GROVE_NAME">
+			<Text>Grove</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GROVE_DESCRIPTION">
+			<Text>Grants +1 [ICON_FOOD] Food and +1 [ICON_FAITH] Faith to adjacent unimproved Charming tiles.  Increased to +2 [ICON_FOOD] Food, +2 [ICON_FAITH] Faith, +2 [ICON_CULTURE] Culture for adjacent unimproved Breathtaking tiles.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SANCTUARY_NAME">
+			<Text>Sanctuary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SANCTUARY_DESCRIPTION">
+			<Text>Grants +1 [ICON_SCIENCE] Science and +1 [ICON_GOLD] Gold to adjacent unimproved Charming tiles.  Increased to +2 [ICON_SCIENCE] Science, +2 [ICON_GOLD] Gold, +2 [ICON_PRODUCTION] Production for adjacent unimproved Breathtaking tiles.</Text>
+		</Replace>
+		<!--Monopolies-->
+		<Replace Language='en_US' Tag="LOC_GAMEMODE_MONOPOLIES_NAME">
+			<Text>Monopolies and Corporations Mode</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAMEMODE_MONOPOLIES_DESCRIPTION">
+			<Text>Control, improve, and expand upon your Luxury resources! The Monopolies and Corporations mode enables you to build profitable Industries around Luxury resources, found Corporations to further their development, and manufacture unique Products to secure your place in capitalist history.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

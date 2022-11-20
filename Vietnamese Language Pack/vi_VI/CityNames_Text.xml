@@ -437,7 +437,7 @@
 			<Text>Shedet</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_IWNW">
-			<Text>ỉwnw</Text>
+			<Text>Iwnw</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_SWENETT">
 			<Text>Swenett</Text>

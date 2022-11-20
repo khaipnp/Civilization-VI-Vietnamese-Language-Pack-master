@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Named Rivers -->
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DONG_NA_RIVER_NAME">
+			<Text>Sông Đồng Nai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BLACK_RIVER_NAME">
+			<Text>Sông Đà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_CA_RIVER_NAME">
+			<Text>Sông Cả</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MA_RIVER_NAME">
+			<Text>Sông Mã</Text>
+		</Replace>
+		<!-- Named Volcanoes -->
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_TOROENG_PRONG_NAME">
+			<Text>Toroeng Prong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_BAS_DONG_NAI_NAME">
+			<Text>Đồng Nai Hạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HAUT_DONG_NAI_NAME">
+			<Text>Đồng Nai Thượng</Text>
+		</Replace>
+		<!-- Named Mountains -->
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BA_VI_MOUNTAINS_NAME">
+			<Text>Núi Ba Vì</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BAY_NUI_MOUNTAINS_NAME">
+			<Text>Dãy Bảy Núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MARBLE_MOUNTAINS_NAME">
+			<Text>Núi Ngũ Hành</Text>
+		</Replace>
+		<!-- Named Deserts -->
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_SAND_DUNES_OF_MUI_NE_NAME">
+			<Text>Đồi Cát Mũi Né</Text>
+		</Replace>
+		<!-- Named Lakes -->
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BA_BE_LAKE_NAME">
+			<Text>Hồ Ba Bể</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HO_TAY_NAME">
+			<Text>Hồ Tây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAK_LAKE_NAME">
+			<Text>Hồ Lắk</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
