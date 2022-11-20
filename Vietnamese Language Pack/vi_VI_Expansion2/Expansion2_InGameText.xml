@@ -1,13 +1,13 @@
 <GameData>
 	<LocalizedText>
     <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION_XP2">
-      <Text>Occupation ([ICON_GRIEVANCE] Grievances with City Founder)</Text>
+      <Text>Nghề nghiệp ([ICON_GRIEVANCE] Khiếu nại với người sáng lập thành phố)</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_CLIMATE">
       <Text>[ICON_GOSSIP_CLIMATE] Climate</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_Grievances_XP2">
-      <Text>Grievances with City Founder</Text>
+      <Text>Khiếu nại với người sáng lập thành phố</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_BANNER_POWERED_CITY">
 			<Text>{1_PowerRequired} [ICON_Power] Power can be used to enhance this city, and it is fully powered.[NEWLINE][ICON_Bullet]{2_PowerFromFreeSources} [ICON_Power] Power from local renewable sources[NEWLINE][ICON_Bullet]{3_PowerFromResources} [ICON_Power] Power from resources consumed this turn</Text>
@@ -19,10 +19,10 @@
 			<Text>[ICON_Bullet]Full [ICON_Power] Power from the city's active project</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_HUD_CITY_POWER_TOOLTIP">
-      <Text>Power</Text>
+      <Text>Nguồn năng lượng</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_FAVOR">
-			<Text>Diplomatic Favor balance</Text>
+			<Text>Cán cân ưu đãi ngoại giao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POWER_REQUIREMENT_MISC">
       <Text>{LOC_PROJECT_TERRESTRIAL_LASER_SHORT_NAME}</Text>
@@ -61,7 +61,7 @@
       <Text>Geothermal</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_FREE_POWER_SOURCE_SOLAR">
-      <Text>Solar</Text>
+      <Text>Năng lượng mặt trời</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_FREE_POWER_SOURCE_WATER">
       <Text>Hydroelectric</Text>
@@ -520,41 +520,41 @@
 			<Text>Likes civs who have not captured capitals</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ZEALOT">
-			<Text>Likes civs that have adopted their religion</Text>
+			<Text>Thích những công dân đã chấp nhận tôn giáo của họ</Text>
 		</Replace>
 		<!-- Climate Screen -->
 		<Replace Language='en_US' Tag="LOC_LAUNCHBAR_CLIMATE_PROGRESS_TOOLTIP">
-			<Text>World Climate[NEWLINE][NEWLINE]View the world's climate and weather.</Text>
+			<Text>Khí hậu thế giới[NEWLINE][NEWLINE]Xem khí hậu và thời tiết của thế giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_CLIMATE_PROGRESS_TOOLTIP">
-			<Text>World Climate[NEWLINE][NEWLINE]View the world's climate and weather.</Text>
+			<Text>Khí hậu thế giới[NEWLINE][NEWLINE]Xem khí hậu và thời tiết của thế giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TITLE">
-			<Text>World Climate</Text>
+			<Text>Khí hậu thế giới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CLIMATE_CHANGE_PHASE_0">
-			<Text>Climate Change - None</Text>
+			<Text>Biến đổi khí hậu - Không có</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_NORTHEAST">
-			<Text>HEADING NE</Text>
+			<Text>HƯỚNG ĐÔNG BẮC</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_EAST">
-			<Text>HEADING E</Text>
+			<Text>HƯỚNG ĐÔNG</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_SOUTHEAST">
-			<Text>HEADING SE</Text>
+			<Text>HƯỚNG ĐÔNG NAM</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_SOUTHWEST">
-			<Text>HEADING SW</Text>
+			<Text>HƯỚNG TÂY NAM</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_WEST">
-			<Text>HEADING W</Text>
+			<Text>HƯỚNG TÂY</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_NORTHWEST">
-			<Text>HEADING NW</Text>
+			<Text>HƯỚNG TÂY BẮC</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_WATER">
-			<Text>Water</Text>
+			<Text>Nước</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_CLIMATE_SCREEN_GLOBAL">
 			<Text>Global</Text>
@@ -566,55 +566,55 @@
 			<Text>( {1_Location}, {2_Direction} )</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REALISM_SETTING_MINIMAL_NAME">
-			<Text>Minimal</Text>
+			<Text>Tối thiểu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REALISM_SETTING_LIGHT_NAME">
-			<Text>Light</Text>
+			<Text>Nhẹ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REALISM_SETTING_MODERATE_NAME">
-			<Text>Moderate</Text>
+			<Text>Vừa phải</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REALISM_SETTING_HEAVY_NAME">
-			<Text>Heavy</Text>
+			<Text>Nặng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REALISM_SETTING_HYPERREAL_NAME">
-			<Text>Hyperreal</Text>
+			<Text>Siêu thực</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DROUGHT_TOOLTIP_STRING">
 			<Text>{1_DroughtName} ({2_Turns} more turns)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TAB_OVERVIEW">
-			<Text>Overview</Text>
+			<Text>Tổng quan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TAB_CO2_LEVELS">
-			<Text>CO2 Levels</Text>
+			<Text>Mức độ CO2</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TAB_EVENT_HISTORY">
-			<Text>Event History</Text>
+			<Text>Sự kiện lịch sử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TAB_CO2_BY_CIVILIZATION">
-			<Text>CO2 By Civilization</Text>
+			<Text>CO2 theo nền văn minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TAB_CO2_BY_RESOURCE">
-			<Text>CO2 By Resource</Text>
+			<Text>CO2 theo tài nguyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TAB_DEFORESTATION">
-			<Text>Deforestation</Text>
+			<Text>Phá rừng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CONTRIBUTING_TO_CLIMATE_CHANGE">
-			<Text>Contributing To Climate Change</Text>
+			<Text>Góp Phần Thay Đổi Khí Hậu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_FORECAST">
 			<Text>Forecast</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CO2_LEVELS">
-			<Text>CO2 Levels</Text>
+			<Text>Mức độ CO2</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_GLOBAL_TEMPERATURE">
-			<Text>Global Temperature</Text>
+			<Text>Nhiệt độ toàn cầu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_WORLD_SETTINGS">
-			<Text>World Settings</Text>
+			<Text>Cấu hình thế giới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TODO">
 			<Text>[WIP] ???</Text>
@@ -623,97 +623,97 @@
 			<Text>+{1_TEMP}°</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TEMPERATURE_SUBTEXT">
-			<Text>(change in Celsius from Ancient Era)</Text>
+			<Text>(thay đổi theo độ C từ thời đại cổ đại)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TEMPERATURE_TOOLTIP">
-			<Text>Deforestation Level: {1_Level}[NEWLINE][NEWLINE]{2_Description}[NEWLINE][NEWLINE]Due to this level of deforestation, the rate of global temperature increase as CO2 is emitted has been altered by {3_CO2Mod}%.</Text>
+			<Text>Mức độ phá rừng: {1_Level}[NEWLINE][NEWLINE]{2_Description}[NEWLINE][NEWLINE]Do mức độ phá rừng này, tốc độ tăng nhiệt độ toàn cầu khi CO2 được thải ra đã bị thay đổi bởi {3_CO2Mod}%.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_WORLD_AGE">
-			<Text>World Age: {1_Name}</Text>
+			<Text>Thời đại thế giới: {1_Name}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_REALISM">
-			<Text>Disaster Intensity: {1_NAME}</Text>
+			<Text>Cường độ thiên tai: {1_NAME}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SHOW_ON_MAP">
-			<Text>Show on Map</Text>
+			<Text>Hiển thị trên bản đồ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_AMOUNT_FROM_CLIMATE_CHANGE">
-			<Text>({1_Amount}% from Climate Change)</Text>
+			<Text>({1_Amount}% từ biến đổi khí hậu)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CHANCE_OF_STORMS">
-			<Text>Storms</Text>
+			<Text>Bão</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CHANCE_OF_RIVER_FLOOD">
-			<Text>River Flooding</Text>
+			<Text>Lũ lụt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANIC_ACTIVITY">
-			<Text>Volcanic Activity</Text>
+			<Text>Hoạt động núi lửa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_DROUGHTS">
-			<Text>Droughts</Text>
+			<Text>Hạn hán</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_VOLATILE">
-			<Text>Volatile</Text>
+			<Text>Bay hơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_INACTIVE">
-			<Text>Inactive</Text>
+			<Text>Không hoạt động</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_ACTIVE">
-			<Text>Active</Text>
+			<Text>Hoạt động</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_ERUPTED">
-			<Text>Erupted</Text>
+			<Text>Phun trào</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_VOLATILE_NUM">
-			<Text>{1_Num} Volatile</Text>
+			<Text>{1_Num} Bay hơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_INACTIVE_NUM">
-			<Text>{1_Num} Inactive</Text>
+			<Text>{1_Num} Không hoạt động</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_ACTIVE_NUM">
-			<Text>{1_Num} Active</Text>
+			<Text>{1_Num} Hoạt động</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_VOLCANO_ERUPTED_NUM">
-			<Text>{1_Num} Erupted</Text>
+			<Text>{1_Num} Phun trào</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_POLAR_ICE">
-			<Text>Polar Ice</Text>
+			<Text>Băng cực</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_LOST">
-			<Text>{1_Amount}% Lost</Text>
+			<Text>Mất {1_Amount}%</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SEA_LEVEL">
-			<Text>Sea Level</Text>
+			<Text>Mực nước biển</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_COASTAL_TILES_FLOODED_NUM">
-			<Text>Coastal Tiles Flooded: {1_Num}</Text>
+			<Text>Bờ biển ngập nước: {1_Num}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_COASTAL_TILES_SUBMERGED_NUM">
-			<Text>Submerged: {1_Num}</Text>
+			<Text>Ngập nước: {1_Num}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CLIMATE_CHANGE_POINTS_TOOLTIP">
-			<Text>Climate Change Points {1_Current}/{2_Required}</Text>
+			<Text>Điểm biến đổi khí hậu {1_Current}/{2_Required}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_FROM_WORLD_REALISM_NUM_TOOLTIP">
-			<Text>[ICON_Bullet]{1_Num} from Disaster Intensity</Text>
+			<Text>[ICON_Bullet]{1_Num} từ Cường độ thiên tai</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_FROM_GLOBAL_TEMPERATURE_NUM_TOOLTIP">
-			<Text>[ICON_Bullet]{1_Num} from Global Temperature</Text>
+			<Text>[ICON_Bullet]{1_Num} từ Nhiệt độ toàn cầu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_EFFECTS_ADDED_THIS_PHASE_TOOLTIP">
 			<Text>Effects added this Phase</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CHANCE_OF_STORMS_TOOLTIP">
-			<Text>Chance of Storms</Text>
+			<Text>Nguy cơ cơn bão</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_CHANCE_OF_RIVER_FLOODING_TOOLTIP">
-			<Text>Chance of River Flooding</Text>
+			<Text>Nguy cơ lũ lụt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_INCREASE_NUM_TOOLTIP">
-			<Text>Increases +{1_Num}%</Text>
+			<Text>Tăng +{1_Num}%</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SEA_LEVEL_RISE">
-			<Text>+{1_Num} Meters</Text>
+			<Text>+{1_Num} mét</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SEA_LEVEL_RISES_NUM_TOOLTIP">
 			<Text>Sea Level rises +{1_Num} meters</Text>
@@ -725,10 +725,10 @@
 			<Text>[NEWLINE]Lowland tiles will be submerged at or below:[NEWLINE]{1_Name}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_POLAR_ICE_MELT_TOOLTIP">
-			<Text>Polar Ice Melt {1_Num}%</Text>
+			<Text>Băng tan {1_Num}%</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_PERCENT_CHANCE">
-			<Text>{1_Num}% Chance</Text>
+			<Text>{1_Num}% Cơ hội</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_STORM_EVENT_DESCRIPTION_TOOLTIP">
 			<Text>STORM EVENT[NEWLINE][NEWLINE]When event occurs:[NEWLINE]- One of four possible storms (blizzard, dust storm, hurricane, or tornado) spawns based upon the terrain at the storm's origin.[NEWLINE]- Storms then move across the map for two more turns, causing damage to buildings and improvements and possibly adding fertility to affected tiles.[NEWLINE][NEWLINE]As the global temperature rises from greenhouse gas emissions into the atmosphere, the chance that a storm will occur increases. Using cleaner sources of energy reduces the global temperature increase and thus mitigates the chance of storms.</Text>
@@ -749,16 +749,16 @@
 			<Text>Polar Ice melt recently updated due to climate change.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SEA_LEVEL_RISE_DESCRIPTION_TOOLTIP">
-			<Text>SEA LEVEL RISE[NEWLINE][NEWLINE]Sea Levels have risen {1_Num} meters as a result of climate change.[NEWLINE][NEWLINE]Rising Sea Levels cause more and more tiles to be subjected to coastal flooding.</Text>
+			<Text>MỰC NƯỚC BIỂN TĂNG[NEWLINE][NEWLINE]Mực nước biển đã dâng cao {1_Num} mét do biến đổi khí hậu.[NEWLINE][NEWLINE]Mực nước biển dâng cao khiến ngày càng nhiều gạch lát ven biển bị ngập lụt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_SEA_LEVEL_RISE_ALERT_TOOLTIP">
 			<Text>Sea Level recently updated due to climate change.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_GLOBAL_CONTRIBUTIONS">
-			<Text>Global Contributions</Text>
+			<Text>Đóng góp toàn cầu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_YOUR_CO2_CONTRIBUTION">
-			<Text>Your CO2 Contribution</Text>
+			<Text>Đóng góp CO2 của bạn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_RESOURCE_CONSUMPTION_NUM_NAME">
 			<Text>from consuming {1_Amount} of {2_ResourceName}</Text>
@@ -770,16 +770,16 @@
 			<Text>{1_CivName} (You)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TOTAL_NUM">
-			<Text>Total: {1_Num}</Text>
+			<Text>Tổng cộng: {1_Num}</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_CLIMATE_TOTAL_NUM_W_MOD">
-      <Text>Total: {1_Num} ({2_Modifier}%)</Text>
+      <Text>Tổng cộng: {1_Num} ({2_Modifier}%)</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_EVENT_HISTORY">
-			<Text>Event History</Text>
+			<Text>Sự kiện lịch sử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TOP_CONTRIBUTOR_NUM">
-			<Text>Top Contributor: {1_Num}</Text>
+			<Text>Đóng góp hàng đầu: {1_Num}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_MY_CONTRIBUTION_NUM">
 			<Text>My Contribution: {1_Num}</Text>
@@ -788,10 +788,10 @@
 			<Text>Event</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_COLUMN_NAME">
-			<Text>Name</Text>
+			<Text>Tên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_COLUMN_SEVERITY_LEVEL">
-			<Text>Severity Level</Text>
+			<Text>Mức độ nghiêm trọng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_COLUMN_LOCATION">
 			<Text>Location</Text>
@@ -903,10 +903,10 @@
 			<Text>This [ICON_Tourism] Tourism generated from this show has been applied against the player who owns this concert venue.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ROCK_CONCERT_RESULT_ALBUMS">
-			<Text>Albums Sold</Text>
+			<Text>Album đã bán</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ROCK_CONCERT_RESULT_ALBUMS_TOOLTIP">
-			<Text>Increases in album sales boost the base [ICON_Tourism] Tourism this band will earn from future concerts.</Text>
+			<Text>Việc tăng doanh số bán album thúc đẩy cơ sở [ICON_Tourism] Du lịch mà ban nhạc này sẽ kiếm được từ các buổi hòa nhạc trong tương lai.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ROCK_CONCERT_RESULT_PROMOTION">
 			<Text>Promotion Available!</Text>
@@ -915,13 +915,13 @@
 			<Text>Band may select one of the randomly offered promotions to improve their abilities before their next show.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ROCK_CONCERT_RESULT_LEVEL_UP">
-			<Text>Leveled Up!</Text>
+			<Text>Lên cấp!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ROCK_CONCERT_RESULT_LEVEL_UP_TOOLTIP">
 			<Text>Gaining a level will increase this band's chance of a favorable result in future concerts.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ROCK_CONCERT_RESULT_UNIT_LOST">
-			<Text>Unit Lost</Text>
+			<Text>Đơn vị bị mất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ROCK_CONCERT_RESULT_UNIT_LOST_TOOLTIP">
 			<Text>Bummer man!</Text>
@@ -1071,10 +1071,10 @@
 			<Text>Completing the Training Athletes project</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EMERGENCY_SCORE_STADIUMS_DESC">
-			<Text>Maintaining Stadiums</Text>
+			<Text>Duy trì sân vận động</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EMERGENCY_SCORE_AQUATIC_CENTERS_DESC">
-			<Text>Maintaining Aquatic Centers</Text>
+			<Text>Duy trì các trung tâm dưới nước</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EMERGENCY_FLAVOR_GREAT_ARTISTS">
 			<Text>"Art transcends nationality, blessing us all.  Let us honor those who give us glimpses of heaven and hell."</Text>
@@ -1429,10 +1429,10 @@
 		</Replace>
 		<!--Diplomacy UI-->
 		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DENOUNCE_NO_GRIEVANCE">
-			<Text>Denounce</Text>
+			<Text>Tố cáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DENOUNCE">
-			<Text>[SIZE_16]Denounce[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Tố cáo[NEWLINE][SIZE_12]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_US">
 			<Text>{1_DiploState},[NEWLINE][COLOR_RED]{2_Grievances} [ICON_STAT_GRIEVANCE] Grievances against us.[ENDCOLOR]</Text>
@@ -1616,10 +1616,10 @@
 			<Text>This is Diplomatic Favor, a currency for buying votes.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_INTRO_TITLE">
-			<Text>WELCOME TO THE WORLD CONGRESS</Text>
+			<Text>CHÀO MỪNG ĐẠI HỘI THẾ GIỚI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SPECIAL_CONGRESS_INTRO_TITLE">
-			<Text>SPECIAL SESSION OF THE WORLD CONGRESS</Text>
+			<Text>PHIÊN ĐẶC BIỆT CỦA ĐẠI HỘI THẾ GIỚI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_IS_CURRENTLY_IN_SESSION">
 			<Text>The World Congress is currently in session.</Text>
@@ -2108,7 +2108,7 @@
 		</Replace>
 		<!-- Drought -->
 		<Replace Language='en_US' Tag="LOC_UNITOPERATION_REPAIR_BLOCKED_BY_DROUGHT">
-			<Text>This improvement cannot be repaired while a drought is in progress.</Text>
+			<Text>Cải thiện này không thể sửa chữa trong khi hạn hán đang diễn ra.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITOPERATION_IMPROVEMENT_BLOCKED_BY_DROUGHT">
 			<Text>This improvement cannot be built while a drought is in progress.</Text>
@@ -2124,7 +2124,7 @@
 			<Text>Increases [ICON_VisLimited] Diplomatic Visibility by 1 level (2 if Secret Agent or above)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITOPERATION_SPY_BREACH_DAM_DESCRIPTION">
-			<Text>Breach Dam</Text>
+			<Text>Đập vỡ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ESPIONAGE_BREACH_DAM_REWARD">
 			<Text>pillages the Dam waters to flood the river valley</Text>
@@ -2170,10 +2170,10 @@
 			<Text>Exoplanet Expedition is traveling {1_LightYearsPerTurn} light {1_LightYearsPerTurn : plural 1?year; other?years;} per turn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_SCIENCE_LIGHT_YEARS">
-			<Text>light years.</Text>
+			<Text>năm ánh sáng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_SCIENCE_LIGHT_YEARS_PER_TURN">
-			<Text>light years per turn.</Text>
+			<Text>năm ánh sáng/lượt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_4">
 			<Text>Launch an Exoplanet Expedition.</Text>
@@ -2192,7 +2192,7 @@
 			<Text>Louis XV</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
-			<Text>After me, the flood.</Text>
+			<Text>Sau tôi, lũ lụt.</Text>
 		</Replace>
 		<!--Power Panel of City Details screen-->
 		<Replace Language='en_US' Tag="LOC_CITY_PANEL_POWER_HEADER">
@@ -2202,7 +2202,7 @@
 			<Text>Generated</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_PANEL_POWER_REQUIRED_POWER">
-			<Text>Required</Text>
+			<Text>Cần thiết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_PANEL_POWER_FULLY_POWERED_STATUS">
 			<Text>This city is fully powered. All city constructions that use [ICON_Power] Power are operating at full strength.</Text>

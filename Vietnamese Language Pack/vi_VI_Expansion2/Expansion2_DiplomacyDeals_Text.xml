@@ -33,19 +33,19 @@
 			<Text>Intel Report: Grievances Log</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GRIEVANCE_LOG_COMING_SOON">
-			<Text>Grievances log, coming soon...</Text>
+			<Text>Nhật ký khiếu nại, sắp ra mắt...</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_GRIEVANCES">
-			<Text>Grievances</Text>
+			<Text>Khiếu nại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_AMOUNT">
-			<Text>Amount</Text>
+			<Text>Số lượng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_TURN">
-			<Text>Turn</Text>
+			<Text>Lượt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REASON">
-			<Text>Reason</Text>
+			<Text>Lý do</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_NO_GRIEVANCES">
 			<Text>There is no history of [ICON_STAT_GRIEVANCE] Grievances with this leader.</Text>
@@ -70,7 +70,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
 			<Text>Used to declare war on a power that borders your empire. Must have 2 of your cities within 10 tiles of 2 opponents' cities. 25% reduction in [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_DESCRIPTION">
 			<Text>Used to declare war on a player while you are in a Golden Age with a "To Arms!" Dedication. Can be used right after Denouncing a civilization, without waiting the normal amount of turns. No restrictions on which cities you may capture. 75% reduction in [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
 		</Replace>
@@ -81,10 +81,10 @@
 			<Text>Used to declare war on a player who is in a different Tier 3 government. No restrictions on which cities you may capture. Half the usual [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEAL_PLAYER_HAS_NO_CAP_ROOM">
-			<Text>You already have the maximum amount of this item.</Text>
+			<Text>Bạn đã có số lượng tối đa của mặt hàng này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEAL_AI_HAS_NO_CAP_ROOM">
-			<Text>They already have the maximum amount of this item.</Text>
+			<Text>Họ đã có số lượng tối đa của mặt hàng này.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

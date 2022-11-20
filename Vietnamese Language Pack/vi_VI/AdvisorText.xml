@@ -205,8 +205,8 @@
 		<Replace Language='en_US' Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
 			<Text>Trong Civilization VI, ngài có thể có được khoảnh khắc Eureka giúp thúc đẩy Công Nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
 		</Replace>
-		
-		
+
+
 		<!-- Listener lines -->
 		<Replace Language='en_US' Tag="ADVISOR_LINE_LISTENER_1">
 			<Text>Qua khám phá chúng ta tìm thấy một kỳ quan thiên nhiên của thế giới. Chắc chắn nó cung cấp nhiều lợi ích cho Dân Di Cư lập thành phố xung quanh nó.</Text>
@@ -466,8 +466,8 @@
 		<Replace Language='en_US' Tag="ADVISOR_LINE_LISTENER_90">
 			<Text>Công trình Bảo Tàng Khảo Cổ sẽ cho phép ta đào tạo Nhà Khảo Cổ. Có rất nhiều thứ cần học từ thế giới, và họ sẽ giúp chúng ta có được các kiến thức này.</Text>
 		</Replace>
-		
-		
+
+
 		<!---->
 		<!-- META TEXT -->
 		<!---->
@@ -790,16 +790,16 @@
 			<Text>Thêm một đơn vị Bắn Ná vào hàng chờ sản xuất của thành phố và kết thúc lượt của ngài ngay khi sản xuất hoàn thành.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_46_BODY">
-			<Text>Như thông thường trong lịch sử, công nghệ mới phát triển dựa vào công nghệ cũ. Trong trò chơi, điều này được mô phỏng ở CÂY CÔNG NGHỆ. Nhấn CÂY CÔNG NGHỆ để mở và xem nó.</Text>
+			<Text>Như thông thường trong lịch sử, công nghệ mới phát triển dựa vào công nghệ cũ. Trong trò chơi, điều này được mô phỏng ở Cây công nghệ. Nhấn Cây công nghệ để mở và xem nó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_46a_HEAD">
-			<Text>Mở CÂY CÔNG NGHỆ</Text>
+			<Text>Mở Cây công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_46a_BODY">
-			<Text>Click để mở CÂY CÔNG NGHỆ</Text>
+			<Text>Click để mở Cây công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_47_BODY">
-			<Text>CÂY CÔNG NGHỆ hiển thị tất cả công nghệ từ thời CỔ ĐẠI cho đến kỷ nguyên THÔNG TIN.</Text>
+			<Text>Cây công nghệ hiển thị tất cả công nghệ từ thời CỔ ĐẠI cho đến kỷ nguyên THÔNG TIN.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_48_BODY">
 			<Text>Những phần màu vàng đại diện cho những công nghệ ngài đã hoàn tất nghiên cứu. Ngài vừa mới hoàn tất nghiên cứu Đồ Gốm, vì vậy nó đã được đánh dấu hoàn tất.</Text>
@@ -829,13 +829,13 @@
 			<Text>Ví dụ, khi nghiên cứu xong VIẾT, ngài có thể xây dựng THƯ VIỆN. Khu Tri Thức và Thư Viện sẽ giúp tăng [ICON_Science] Khoa học trên mỗi lượt, cho phép ngài nghiên cứu nhanh hơn nữa!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_54_BODY">
-			<Text>Khi định hướng xong. Nhấn X để đóng CÂY CÔNG NGHỆ.</Text>
+			<Text>Khi định hướng xong. Nhấn X để đóng Cây công nghệ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_54a_HEAD">
 			<Text>Đóng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_54a_BODY">
-			<Text>Đóng CÂY CÔNG NGHỆ</Text>
+			<Text>Đóng Cây công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_55_BODY">
 			<Text>Tiếp tục di chuyển dân di cư của ngài đến vị trí được hiển thị.</Text>
@@ -868,7 +868,7 @@
 			<Text>Trong Civilization VI, có rất nhiều loại Đặc Khu khác nhau có thể xây dựng trong thành phố, mỗi Đặc Khu đều có một mục đích cụ thể.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_78_BODY">
-			<Text>Bằng cách hoàn tất nghiên cứu Viết Lách, ngài có thể xây dựng khu Khu Tri Thức trong thành phố.[NEWLINE][NEWLINE]Khu tri thức giúp tăng [ICON_Science] KHOA HỌC  cho thành phố có chứa nó.</Text>
+			<Text>Bằng cách hoàn tất nghiên cứu Viết Lách, ngài có thể xây dựng khu Khu Tri Thức trong thành phố.[NEWLINE][NEWLINE]Khu tri thức giúp tăng [ICON_Science] khoa học  cho thành phố có chứa nó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_79_BODY">
 			<Text>Nhiều Đặc Khu trong game cũng được một tiền thưởng tùy vào nơi chúng được đặt trong thành phố. Khu Tri Thức thường được thưởng khi xây cạnh Núi hoặc Rừng.</Text>
@@ -883,7 +883,7 @@
 			<Text>Khi xây một Đặc Khu, bản đồ có thêm chút thông tin để giúp tìm được vị trí lý tưởng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_82_BODY">
-			<Text>Mỗi một viền cạnh núi sẽ cung cấp +1 [ICON_Science] KHOA HỌC. Đây là nơi lý tưởng để đặt Khu Tri Thức.</Text>
+			<Text>Mỗi một viền cạnh núi sẽ cung cấp +1 [ICON_Science] khoa học. Đây là nơi lý tưởng để đặt Khu Tri Thức.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_83_BODY">
 			<Text>Click vào ô để đặt Khu Tri Thức ở đây.</Text>
@@ -952,7 +952,7 @@
 			<Text>Bây giờ cần lựa chọn Hành Chính mới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_99b_HEAD">
-			<Text>CÂY HÀNH CHÍNH</Text>
+			<Text>Cây hành chính</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_99b_BODY">
 			<Text>Mở Cây Hành Chính bằng cách click vào nút Cây Hành Chính nằm góc trên bên phải của màn hình.</Text>
@@ -1048,7 +1048,7 @@
 			<Text>Để HOÀN THÀNH hướng dẫn:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOAL_GENERAL_3">
-			<Text>Để CHIẾN THẮNG hướng dẫn:</Text>
+			<Text>Để Chiến thắng hướng dẫn:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOAL_1">
 			<Text>KHÁM PHÁ: Khám phá ra những khu vực chưa được phát hiện.</Text>
@@ -1087,7 +1087,7 @@
 			<Text>Sử dụng một Thợ Xây để xây công trình xung quanh thành phố mới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOAL_7">
-			<Text>KHOA HỌC: Xây dựng một Khu Tri Thức bên trong Thủ Đô của ngài.</Text>
+			<Text>khoa học: Xây dựng một Khu Tri Thức bên trong Thủ Đô của ngài.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOAL_TOOLTIP_7">
 			<Text>Hoàn thành xây dựng Khu Tri Thức bên trong Thủ Đô của ngài.</Text>
@@ -1120,7 +1120,7 @@
 			<Text>Đào tạo 5 đơn vị quân sự bao gồm ít nhất một Cung Thủ hoặc một Xe Phá Cổng. [NOT IMPLEMENTED].</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOAL_17">
-			<Text>ĐỂ CHIẾN THẮNG: Hạ gục nền văn minh khác bằng cách chiếm lấy Thủ Đô.</Text>
+			<Text>ĐỂ Chiến thắng: Hạ gục nền văn minh khác bằng cách chiếm lấy Thủ Đô.</Text>
 		</Replace>
 		<!---->
 		<!--CITY PANEL BUILT-IN ADVISOR MESSAGES-->
@@ -1330,7 +1330,7 @@
 			<Text>Đây là bảng điều chỉnh THƯƠNG MẠI, cho thấy những thành phố mà ngài có thể giao dịch. THƯƠNG GIA có một phạm vị giới hạn cho nên cần phải tạo những cầu nối để liên kết được xa hơn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_145_BODY">
-			<Text>Tùy thuộc vào công trình và Đặc Khu đang đứng, ví dụ ở nước ngoài thì có thể kiếm được [ICON_Science] KHOA HỌC, [ICON_Faith] Đức Tin, [ICON_Culture] VĂN MINH, hoặc [ICON_Gold] VÀNG mỗi lượt. Đối với điểm đến trong nước, có thể kiếm được [ICON_Food] THỰC PHẨM và [ICON_Production] SẢN PHẨM.</Text>
+			<Text>Tùy thuộc vào công trình và Đặc Khu đang đứng, ví dụ ở nước ngoài thì có thể kiếm được [ICON_Science] khoa học, [ICON_Faith] Đức Tin, [ICON_Culture] văn minh, hoặc [ICON_Gold] VÀNG mỗi lượt. Đối với điểm đến trong nước, có thể kiếm được [ICON_Food] THỰC PHẨM và [ICON_Production] SẢN PHẨM.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_145b_BODY">
 			<Text>Lựa chọn đích đến từ danh sách thành phố sẵn có.</Text>
@@ -1415,7 +1415,7 @@
 		</Replace>
 		<!---->
 		<!--ROCCO LINES-->
-		<!---->		
+		<!---->
 		<Replace Language='en_US' Tag="ADVISOR_LINE_FTUE_1ALT_1">
 			<Text>Chào mừng Cleopatra. Vận mệnh người dân của chúng tôi nằm trong tay người. Thât tuyệt vời khi trách nhiệm này được đặt vào người. Tôi có thể sẽ phục vụ người.</Text>
 		</Replace>
@@ -1661,7 +1661,7 @@
 		</Replace>
 		<!---->
 		<!--EDIT BELOW-->
-		<!---->		
+		<!---->
 		<Replace Language='en_US' Tag="ADVISOR_LINE_2_ALT">
 			<Text>Có vẻ hình như cuối cùng chúng ta đã tìm thấy được nguồn gốc của quân man di gây rắc rối cho thành phố. Cần phải phá hủy nếu không muốn bị tấn công trong tương lai.</Text>
 		</Replace>

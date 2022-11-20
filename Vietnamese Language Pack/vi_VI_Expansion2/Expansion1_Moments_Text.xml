@@ -12,10 +12,10 @@
 			<Text>As the dirt is brushed away, the {GreatWorkName} sees the light of sun after ages. It will grace the museums of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} for years to come.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST">
-			<Text>First Shipwreck Excavated</Text>
+			<Text>Con tàu đắm đầu tiên được khai quật</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_DESCRIPTION">
-			<Text>Your archaeologists have excavated their first shipwreck.</Text>
+			<Text>Các nhà khảo cổ học của bạn đã khai quật được con tàu đắm đầu tiên của họ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_INSTANCE_DESCRIPTION">
 			<Text>Encrusted with barnacles, but still recognizable, the {GreatWorkName} proves marine archeology can link us with the past.</Text>
@@ -24,19 +24,19 @@
 			<Text>World's First Shipwreck Excavated</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD_DESCRIPTION">
-			<Text>Your archaeologists have completed the world's first excavation of a shipwreck.</Text>
+			<Text>Các nhà khảo cổ học của bạn đã hoàn thành cuộc khai quật một con tàu đắm đầu tiên trên thế giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 			<Text>The world’s first expedition in marine archeology produces the {GreatWorkName}, and shows that the sea cannot hide the secrets of history any longer!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED">
-			<Text>Barbarian Camp Destroyed</Text>
+			<Text>Trại man di đã bị phá hủy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_DESCRIPTION">
-			<Text>A hostile barbarian camp was leveled to the ground by a unit, spreading peace through the area.</Text>
+			<Text>Một trại man rợ thù địch đã bị san bằng bởi một đơn vị, mang lại hòa bình cho khu vực.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_INSTANCE_DESCRIPTION">
-			<Text>Our forces clear a barbarian camp, and a threat to our growing civilization is vanquished.</Text>
+			<Text>Lực lượng của chúng tôi dọn sạch một trại man di, do đó mối đe dọa đối với nền văn minh của chúng tôi đã bị tiêu diệt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY">
 			<Text>Threatening Camp Destroyed</Text>
@@ -45,10 +45,10 @@
 			<Text>A hostile barbarian camp within 6 tiles of one of your cities was destroyed by a unit.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_INSTANCE_DESCRIPTION">
-			<Text>The danger on the doorstep of {CityName} has been defeated! The barbarians are driven away.</Text>
+			<Text>Mối nguy hiểm trước ngưỡng cửa của {CityName} đã bị đánh bại! Quân man di đã bị xua đuổi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_BATTLE_FOUGHT">
-			<Text>Battle Fought</Text>
+			<Text>Trận đánh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_BATTLE_FOUGHT_DESCRIPTION">
 			<Text>A battle was fought between adversaries. Used by the Archaeology system to potentially generate [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Site resources.</Text>
@@ -159,7 +159,7 @@
 			<Text>A city is placed within 5 tiles of another civilization's city.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_INSTANCE_DESCRIPTION">
-			<Text>The bureaucrats of {TargetPlayerCivName} are piqued by our boldness in settling {CityName} so near their own city of {OtherCityName}.</Text>
+			<Text>Các quan chức của {TargetPlayerCivName} rất phấn khích trước sự táo bạo của chúng tôi trong việc định cư {CityName} gần thành phố {OtherCityName} của họ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT">
 			<Text>City on New Continent</Text>
@@ -456,7 +456,7 @@
 			<Text>Your civilization discovers this natural wonder for the first time.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_INSTANCE_DESCRIPTION">
-			<Text>Explorers of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} discover the majesty of {FeatureType}.</Text>
+			<Text>Những nhà thám hiểm {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} khám phá sự hùng vĩ của {FeatureType}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD">
 			<Text>First Discovery of a Natural Wonder</Text>
@@ -465,22 +465,22 @@
 			<Text>Our civilization's explorers are the first in the world to behold this natural wonder.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
-			<Text>Explorers of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} are the first from a major civilization to set eyes on {FeatureType}!</Text>
+			<Text>Nhà thám hiểm {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} là những người đầu tiên của một nền văn minh lớn để mắt tới {FeatureType}!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD">
-			<Text>First Discovery of a New Continent</Text>
+			<Text>Khám phá đầu tiên về một lục địa mới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_DESCRIPTION">
-			<Text>Our civilization's explorers are the first in the world to find this continent.</Text>
+			<Text>Những nhà thám hiểm của nền văn minh chúng ta là những người đầu tiên trên thế giới tìm thấy lục địa này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
-			<Text>Explorers of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} are the first from a major civilization to set foot on the continent of {ContinentName}!</Text>
+			<Text>Nhữnh nhà thám hiểm {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} là những người đầu tiên của một nền văn minh lớn đặt chân lên lục địa {ContinentName}!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST">
-			<Text>First Armada</Text>
+			<Text>Hạm đội đầu tiên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_DESCRIPTION">
-			<Text>Your civilization's first Armada is formed.</Text>
+			<Text>Hạm đội đầu tiên của nền văn minh được hình thành.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_INSTANCE_DESCRIPTION">
 			<Text>From the deck of the {UnitType}, one can see the ships of our first Armada stretching off into distance, each flying our civilization's flag.</Text>
@@ -825,7 +825,7 @@
 			<Text>Your people adopt Belief in a Pantheon.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_INSTANCE_DESCRIPTION">
-			<Text>Could this numinous moment be what those other prophets were talking about?</Text>
+			<Text>Có thể khoảnh khắc quan trọng này là điều mà những nhà tiên tri khác đang nói đến?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD">
 			<Text>World's First Pantheon</Text>
@@ -891,25 +891,25 @@
 			<Text>Having finally met the people of {TargetPlayerCivName}, we have a funny feeling that there are no remaining civilizations out there.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD">
-			<Text>World's First to Meet All Civilizations</Text>
+			<Text>Người đầu tiên trên thế giới gặp gỡ mọi nền văn minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_DESCRIPTION">
-			<Text>You are the first to meet all living civilizations in the world.</Text>
+			<Text>Bạn là người đầu tiên gặp gỡ tất cả các nền văn minh đang sống trên thế giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
-			<Text>We met the people of {TargetPlayerCivName}, and became the first to meet all the civilizations of the world.</Text>
+			<Text>Chúng tôi đã gặp những người của {TargetPlayerCivName} và trở thành những người đầu tiên gặp tất cả các nền văn minh trên thế giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR">
-			<Text>Met New Civilization</Text>
+			<Text>Gặp nền văn minh mới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR_DESCRIPTION">
-			<Text>You have made contact with a new civilization.</Text>
+			<Text>Bạn đã tiếp xúc với một nền văn minh mới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR_INSTANCE_DESCRIPTION">
-			<Text>Wary welcomes and curious stares mark the moment of our meeting with the people of {TargetPlayerCivName}.</Text>
+			<Text>Sự chào đón thận trọng và những cái nhìn tò mò đánh dấu khoảnh khắc chúng tôi gặp gỡ những người của {TargetPlayerCivName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE">
-			<Text>Overcame Dark Age</Text>
+			<Text>Vượt qua thời kỳ đen tối</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_DESCRIPTION">
 			<Text>Your civilization has earned enough Era Score to overcome its Dark Age early, and rise into a Normal Age! The next Golden Age you earn will be extra powerful.</Text>
@@ -1032,16 +1032,16 @@
 			<Text>In a secret underground room, you thank {UnitCitizenName} for a successful career of service before the next mission begins.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST">
-			<Text>First Technology of New Era</Text>
+			<Text>Công nghệ đầu tiên của kỷ nguyên mới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_DESCRIPTION">
 			<Text>You have completed your civilization's first technology from a new era of discovery.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
-			<Text>Many dispute the actual start of the {PlayerEraType}, but you know it was when {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} discovered {TechnologyType}.</Text>
+			<Text>Nhiều người tranh cãi về thời điểm bắt đầu thực sự của {PlayerEraType}, nhưng bạn biết đó là khi {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} đã phát hiện ra {TechnologyType}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD">
-			<Text>World's First Technology of New Era</Text>
+			<Text>Công nghệ đầu tiên trên thế giới của kỷ nguyên mới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
 			<Text>You have completed the world's first technology from a new era of discovery.</Text>

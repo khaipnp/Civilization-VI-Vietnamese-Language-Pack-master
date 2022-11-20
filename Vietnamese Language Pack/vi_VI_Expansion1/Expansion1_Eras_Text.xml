@@ -22,7 +22,7 @@
 			<Text>ĐEN TỐI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_CURRENT_AGE_BY_CIV">
-			<Text>THỜI HIỆN TẠI CỦA NỀN VĂN MINH:</Text>
+			<Text>THỜI HIỆN TẠI CỦA NỀN văn minh:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_TO_EARN_AGE_NEXT_ERA">
 			<Text>KIẾM MỘT THỜI MỚI VÀO THỜI KẾ TIẾP:</Text>

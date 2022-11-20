@@ -351,7 +351,7 @@
 			<Text>Candidates</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_BUTTON_APPOINT_GOVERNOR">
-			<Text>Appoint</Text>
+			<Text>Bổ nhiệm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_DETAILS">
 			<Text>Details</Text>
@@ -411,7 +411,7 @@
 			<Text>({1_Turns} more {1_Turns : plural 1?turn; other?turns;})</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
-			<Text>Governor Candidate</Text>
+			<Text>Ưng cử viên thống đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ASSIGN_TO">
 			<Text>Assign {1_GovernorName} to:</Text>
@@ -1150,7 +1150,7 @@
 			<Text>Governors[NEWLINE][NEWLINE]View or manage [Icon_Governor] Governors in your civilization.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_LAUNCHBAR_HISTORIAN_BUTTON">
-			<Text>History Timeline[NEWLINE][NEWLINE]View the timeline of Historic Moments achieved by your civilization.</Text>
+			<Text>Dòng thời gian lịch sử[NEWLINE][NEWLINE]Xem dòng thời gian của Khoảnh khắc Lịch sử mà nền văn minh của bạn đạt được.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_CULTURE_TOOLTIP">
 			<Text>Loyalty and Governors</Text>
@@ -1639,13 +1639,13 @@
 			<Text>GOVERNOR TITLES AVAILABLE: {1_PointsAvailable}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNOR_GOVERNOR_TITLES_SPENT">
-			<Text>SPENT: {1_PointsSpent}</Text>
+			<Text>ĐÃ SỬ DỤNG: {1_PointsSpent}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HISTORY_TIMELINE_TITLE">
 			<Text>History of the {1_PlayerCiv}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HISTORY_NEW_MOMENT">
-			<Text>{1_PlayerCiv} Makes History</Text>
+			<Text>{1_PlayerCiv} Làm Nên Lịch Sử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HISTORY_MOMENT_EFFECTS">
 			<Text>{1_MomentDate}    \|    Turn {2_MomentTurn}    \|    {3_MomentScore} Era Score</Text>

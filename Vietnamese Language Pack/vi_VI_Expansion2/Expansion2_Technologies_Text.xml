@@ -61,7 +61,7 @@
 			<Text>Now that you have finished a wonder of the classical world, what will your architects build next?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_REFINING">
-			<Text>Build 2 Coal Power Plants</Text>
+			<Text>Xây dựng 2 nhà máy điện than</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_REFINING">
 			<Text>Your nation is now powered. However your scientists are already hard at work on developing alternative energy sources.</Text>

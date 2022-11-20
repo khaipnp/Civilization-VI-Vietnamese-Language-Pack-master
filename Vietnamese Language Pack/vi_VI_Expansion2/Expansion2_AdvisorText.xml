@@ -9,10 +9,10 @@
 			<Text>We have been summoned to this Special Session of the World Congress. An Emergency demands the World's attention.[NEWLINE][NEWLINE]Special Sessions may be called every 15 turns (Standard Speed) by players who have been negatively affected by conditions that would give rise to an Emergency.  This might be another player (such as in a Military Emergency) or the environment (such as in a Request for Aid).  During this stage, players who might be involved in the Emergency must vote on the related Discussion.  If the Discussion passes, those players who voted for it will join the Emergency.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_OVER">
-			<Text>World Congress is over. It will meet again soon, but in the meantime, take advantage of the new game rules in effect! You can view them by going into Diplomacy and clicking on the top-most icon on the left.</Text>
+			<Text>Đại hội thế giới đã kết thúc. Sẽ sớm gặp lại nhau, nhưng trong khi chờ đợi, hãy tận dụng các quy tắc trò chơi mới có hiệu lực! Bạn có thể xem chúng bằng cách vào Ngoại giao và nhấp vào biểu tượng trên cùng bên trái.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_FLOODPLAIN_REVEAL">
-			<Text>This River has floodplains, which means it has flooded before and might burst its banks again. A Flood along this river might happen at any point in the future. This presents us with risks, but potentially benefits, too.[NEWLINE][NEWLINE]A Flood might affect any tile along the River. A flooded tile will pillage or destroy Improvements and pillage Districts on the tile, but it might also increase the yields for the tile as a result.</Text>
+			<Text>Con sông này có vùng ngập lũ, có nghĩa là nó đã từng bị ngập lụt trước đây và có thể bị vỡ bờ lần nữa. Lũ lụt dọc theo con sông này có thể xảy ra bất cứ lúc nào trong tương lai. Điều này mang đến cho chúng ta những rủi ro, nhưng cũng có thể mang lại lợi ích.[NEWLINE][NEWLINE]Lũ lụt có thể ảnh hưởng đến bất kỳ ô nào dọc theo Sông. Một ô bị ngập nước sẽ cướp hoặc phá hủy Cải tiến và cướp bóc các Quận trên ô, nhưng nó cũng có thể làm tăng sản lượng cho ô.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_VOLCANO_REVEAL">
 			<Text>This Volcano is quiet now, but it could erupt again at some point in the future. It might be a danger to our people—or an unexpected blessing.[NEWLINE][NEWLINE]An Eruption might affect any tile adjacent to the Volcano. The Eruption will pillage or destroy improvements and pillage districts on the tile, but it might also increase the yields on the tile as a result.</Text>
@@ -185,7 +185,7 @@
     </Replace>
     <Replace Language='en_US' Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3">
       <Text>But the world at large still pays attention to the overall [ICON_STAT_GRIEVANCE] Grievances that other players have against you.  If you have grieved others more than they have grieved you, third-parties will notice, and it will impact their opinion of you.</Text>
-    </Replace>    
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT">
 			<Text>In Civilization VI: Gathering Storm, the environment around you is more alive than ever before. Natural disasters like floods, storms, and volcanoes can pillage or destroy your Improvements and Districts—but they might refresh and enrich the lands after they pass.</Text>
 		</Replace>

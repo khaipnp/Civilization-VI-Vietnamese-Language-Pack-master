@@ -226,7 +226,7 @@
 			<Text>+4 [ICON_Housing] Housing and +2 [ICON_Amenities] Amenities to all cities with at least 3 specialty districts.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION_XP2">
-			<Text>+2 [ICON_Culture] Culture and +4 [ICON_Gold] Gold from each Research Lab, Military Academy, Coal Power Plant, Oil Power Plant, and Nuclear Power Plant.</Text>
+			<Text>+2 [ICON_Culture] Văn hóa và +4 [ICON_Gold] Vàng từ mỗi Phòng thí nghiệm nghiên cứu, Học viện quân sự, Nhà máy điện than, Nhà máy điện dầu và Nhà máy điện hạt nhân.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION_XP2">
 			<Text>Accumulate 25% less war weariness than usual. Cities with a garrisoned unit get +4 Loyalty per turn.</Text>

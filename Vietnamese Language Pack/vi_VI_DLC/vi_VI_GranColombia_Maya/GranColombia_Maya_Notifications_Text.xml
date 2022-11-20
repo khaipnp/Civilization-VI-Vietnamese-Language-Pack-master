@@ -3,19 +3,19 @@
 	<LocalizedText>
 		<!--Improvements-->
 		<Replace Language='en_US' Tag="LOC_FIRE_STARTED">
-			<Text>Fire Started</Text>
+			<Text>Đám cháy bắt đầu</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_FIRE_STARTED_DESC">
       <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} begun. {UnitsLost} {UnitsLost : plural 1?unit was; other?units were;} damaged.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_FIRE_CONTINUED">
-      <Text>Fire Ended</Text>
+      <Text>Đám cháy kết thúc</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_FIRE_CONTINUED_DESC">
       <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} ended. The tiles are now safe for traversal, but the trees will take time to regrow.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_FIRE_JUNGLE_OVER">
-      <Text>Rainforest Regrown</Text>
+      <Text>Rừng nhiệt đới mọc lại</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_FIRE_JUNGLE_OVER_DESC">
       <Text>After being destroyed by fires, {FertilityAdded} {FertilityAdded : plural 1?rainforest has; other?rainforests have;} regrown.</Text>

@@ -20,7 +20,7 @@
 			<Text>Báo cáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VICTORY">
-			<Text>CHIẾN THẮNG!</Text>
+			<Text>Chiến thắng!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_DEFEAT">
 			<Text>[COLOR_RED]THẤT BẠI[ENDCOLOR]</Text>
@@ -72,7 +72,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_UNKNOWN">
 			<Text>không xác định</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HIGHLIGHTS">
 			<Text>Điểm nổi bật</Text>
 		</Replace>
@@ -84,7 +84,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LEADERPROGRESS">
 			<Text>Lãnh đạo tiến bộ</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_SCORE">
 			<Text>Điểm</Text>
 		</Replace>
@@ -100,7 +100,7 @@
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_SETTINGS">
 			<Text>Cài đặt</Text>
 		</Replace>
-	
+
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VIEWDETAILS">
 			<Text>Chi tiết trò chơi</Text>
 		</Replace>
@@ -115,15 +115,15 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LOADCONFIGURATION">
 			<Text>Tải cấu hình</Text>
-		</Replace>	
-		
+		</Replace>
+
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_NOREPORTDATA">
 			<Text>Không có dữ liệu báo cáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_NOGRAPHDATA">
 			<Text>Không có dữ liệu đồ thị</Text>
 		</Replace>
-		
+
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_GENERAL">
 			<Text>Chung</Text>
 		</Replace>

@@ -3,7 +3,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FIRE_NAME">
-			<Text>Fire Goddess</Text>
+			<Text>Nữ thần lửa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
 			<Text>+2 [ICON_FAITH] Faith from Geothermal Fissures and Volcanic Soil.</Text>

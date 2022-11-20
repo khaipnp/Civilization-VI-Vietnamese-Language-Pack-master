@@ -3,7 +3,7 @@
 	<LocalizedText>
 		<!--Agenda Names-->
 		<Replace Language='en_US' Tag="LOC_AGENDA_GOSSIP_NAME">
-			<Text>Gossip</Text>
+			<Text>Mách lẻo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_SYCOPHANT_NAME">
 			<Text>Sycophant</Text>

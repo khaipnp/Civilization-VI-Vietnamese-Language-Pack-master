@@ -8,22 +8,22 @@
 			<Text>CURRENT SCORE:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_CURRENT_AGE">
-			<Text>CURRENT AGE:</Text>
+			<Text>THỜI ĐẠI HIỆN TẠI:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_HEROIC">
 			<Text>HEROIC</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_GOLDEN">
-			<Text>GOLDEN</Text>
+			<Text>HOÀNG KIM</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_NORMAL">
-			<Text>NORMAL</Text>
+			<Text>BÌNH THƯỜNG</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_DARK">
-			<Text>DARK</Text>
+			<Text>ĐEN TỐI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_CURRENT_AGE_BY_CIV">
-			<Text>CURRENT AGE BY CIVILIZATION:</Text>
+			<Text>THỜI ĐẠI HIỆN NAY THEO NỀN VĂN MINH:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_TO_EARN_AGE_NEXT_ERA">
 			<Text>TO EARN A NEW AGE NEXT ERA:</Text>
@@ -35,7 +35,7 @@
 			<Text>Era Score requirements have been increased</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_TITLE">
-			<Text>Era Progress</Text>
+			<Text>Tiến độ kỷ nguyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_NEW_ERA_THRESHOLD">
 			<Text>THRESHOLDS FOR NEXT ERA</Text>
@@ -44,7 +44,7 @@
 			<Text>{1_EraName} Effects</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_THE_ERA">
-			<Text>THE {1_EraName : upper}</Text>
+			<Text>{1_EraName : upper}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA">
 			<Text>Time to Next Era:</Text>
@@ -56,7 +56,7 @@
 			<Text>{1_Turns} {1_Turns : plural 1?Turn; other?Turns;}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_CHANGE_TITLE">
-			<Text>THE WORLD ENTERS THE:</Text>
+			<Text>THẾ GIỚI VÀO:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_HEROIC_AGE">
 			<Text>Heroic Age</Text>
@@ -77,7 +77,7 @@
 			<Text>Era Score:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_ERA_PROGRESS_TOOLTIP">
-			<Text>Era Progress[NEWLINE][NEWLINE]View current Era Score and Dedications.</Text>
+			<Text>Tiến độ kỷ nguyên[NEWLINE][NEWLINE]Xem Điểm Kỷ nguyên và Cống hiến hiện tại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_GOLDEN_THRESHOLD">
 			<Text>Threshold for Golden Age:</Text>
@@ -95,7 +95,7 @@
 			<Text>Dedication</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION_SUBHEADER">
-			<Text>Make your Dedication for the {1_EraName}</Text>
+			<Text>Hãy cống hiến cho {1_EraName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_COMMEMORATION_POPUP_CONFIRM">
 			<Text>Confirm {1_NumSelected}/{2_NeededSelected}</Text>
@@ -104,28 +104,28 @@
 			<Text>THE WORLD HAS ENTERED[NEWLINE]THE {1_EraName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE">
-			<Text>You are in a Heroic Age!</Text>
+			<Text>Bạn đang trong Thời đại Anh hùng!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE">
-			<Text>You are in a Golden Age!</Text>
+			<Text>Bạn đang trong một Thời đại Hoàng kim!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE">
-			<Text>You are in a Dark Age!</Text>
+			<Text>Bạn đang trong Thời đại Đen tối!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE">
-			<Text>You are in a Normal Age.</Text>
+			<Text>Bạn đang trong Thời đại Bình thường!</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_LABEL">
-      <Text>[ICON_GLORY_SUPER_GOLDEN_AGE] HEROIC AGE</Text>
+      <Text>[ICON_GLORY_SUPER_GOLDEN_AGE] THỜI ĐẠI ANH HÙNG</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_LABEL">
-			<Text>[ICON_GLORY_GOLDEN_AGE] GOLDEN AGE</Text>
+			<Text>[ICON_GLORY_GOLDEN_AGE] THỜI ĐẠI HOÀNG KIM</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_LABEL">
-			<Text>[ICON_GLORY_DARK_AGE] DARK AGE</Text>
+			<Text>[ICON_GLORY_DARK_AGE] THỜI ĐẠI ĐEN TỐI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_LABEL">
-			<Text>[ICON_GLORY_NORMAL_AGE] NORMAL AGE</Text>
+			<Text>[ICON_GLORY_NORMAL_AGE] THỜI ĐẠI BÌNH THƯỜNG</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT">
 			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]You may make 3 Dedications, each of which will provide a powerful gameplay bonus during the Age.</Text>
@@ -294,31 +294,31 @@
 			<Text>Golden Ages are earned by triggering Historic Moments, and provide powerful bonuses.[NEWLINE]These players have earned a Golden Age for this era:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_DARK_AGE_DESCRIPTION">
-			<Text>Dark Ages are possible beginning in the Medieval era and pose challenges to large or underdeveloped civilizations. -1 [ICON_Amenities] Amenity and -50% Growth in all cities. If a player gets a Dark Age again in the next era, half of their cities will fall into ruin and become barbarian camps.[NEWLINE]These players have entered a Dark Age for this era:</Text>
+			<Text>Thời kỳ Đen tối có thể bắt đầu từ thời Trung cổ và đặt ra những thách thức đối với các nền văn minh lớn hoặc kém phát triển. -1 [ICON_Amenities] Tiện nghi và -50% Tăng trưởng ở tất cả các thành phố. Nếu một người chơi lại rơi vào Thời kỳ Đen tối trong thời kỳ tiếp theo, một nửa số thành phố của họ sẽ bị hủy hoại và trở thành trại của những kẻ man rợ.[NEWLINE]Những người chơi này đã bước vào Thời kỳ Đen tối cho thời đại này:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_NO_MET_PLAYERS">
-			<Text>(No players you have met)</Text>
+			<Text>(Không có người chơi nào bạn đã gặp)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_HEROIC_AGE_ACHIEVED">
-			<Text>Because you earned a Heroic Age, you may make three Dedications.</Text>
+			<Text>Bởi vì bạn đã đạt được Thời đại Anh hùng, bạn có thể thực hiện một lần Cống hiến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_GOLDEN_AGE_ACHIEVED">
-			<Text>Because you earned a Golden Age, you may make one Dedication.</Text>
+			<Text>Bởi vì bạn đã đạt được Thời đại Hoàng kim, bạn có thể thực hiện một lần Cống hiến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_DARK_AGE_ACHIEVED">
-			<Text>Because you earned a Dark Age, you may make one Dedication.</Text>
+			<Text>Bởi vì bạn đã đạt được Thời đại Đen tối, bạn có thể thực hiện một lần Cống hiến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_NORMAL_AGE_ACHIEVED">
-			<Text>Because you earned a Normal Age, you may make one Dedication.</Text>
+			<Text>Bởi vì bạn đã đạt được Thời đại Bình thường, bạn có thể thực hiện một lần Cống hiến.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_PREVIOUS_ERA_TOTAL_SCORE">
 			<Text>Total score from previous eras</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_EFFECTS_ACTIVE_THIS_AGE">
-			<Text>EFFECTS ACTIVE THIS AGE:</Text>
+			<Text>HIỆU ỨNG HOẠT ĐỘNG CỦA THỜI ĐẠI NÀY:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ERAS_YOU_WILL_EARN_BLANK_AGE_NEXT_ERA">
-			<Text>You will earn a {1_AgeName} next Era</Text>
+			<Text>Bạn sẽ kiếm được {1_AgeName} Kỷ nguyên tiếp theo</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

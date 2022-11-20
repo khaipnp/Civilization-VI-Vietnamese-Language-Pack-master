@@ -527,7 +527,7 @@
       <Text>{1_Value : number #.##}</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_MINIMAP_SIZE">
-			<Text>Kích thước bản đồ nhỏmap:</Text>
+			<Text>Kích thước bản đồ nhỏ:</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
       <Text>Trì hoãn chú thích:</Text>

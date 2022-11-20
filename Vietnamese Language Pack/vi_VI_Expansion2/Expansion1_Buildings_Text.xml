@@ -88,7 +88,7 @@
 			<Text>Cung cấp 1 [ICON_TOURISM] Du lịch sau khi tiến tới Khu bảo tồn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
-			<Text>Phần thưởng [ICON_Amologists] Tiện ích mở rộng đến từng trung tâm thành phố trong vòng 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp phần thưởng bổ sung. +1 [ICON_SCIENCE] Khoa học cho từng khu rừng nhiệt đới và đầm lầy trong thành phố này.</Text>
+			<Text>Phần thưởng [ICON_Amologists] Tiện nghi mở rộng đến từng trung tâm thành phố trong vòng 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp phần thưởng bổ sung. +1 [ICON_SCIENCE] Khoa học cho từng khu rừng nhiệt đới và đầm lầy trong thành phố này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
 			<Text>Phần thưởng [ICON_Amword] Các tiện ích mở rộng đến từng trung tâm thành phố trong vòng 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp phần thưởng bổ sung. +2 [ICON_Tourism] Du lịch nếu dân số thành phố [ICON_CITIZEN] từ 10 trở lên và +5 [ICON_Tourism] Du lịch nếu dân số thành phố [ICON_CITIZEN] là 20 hoặc cao hơn.</Text>

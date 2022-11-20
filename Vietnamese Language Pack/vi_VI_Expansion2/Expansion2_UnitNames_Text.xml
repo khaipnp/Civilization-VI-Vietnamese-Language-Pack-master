@@ -637,10 +637,10 @@
 			<Text>Goats</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
-			<Text>Gold</Text>
+			<Text>Vàng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
-			<Text>Gossip</Text>
+			<Text>Mách lẻo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
 			<Text>Governors</Text>

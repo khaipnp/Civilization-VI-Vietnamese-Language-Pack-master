@@ -374,7 +374,7 @@
 			<Text>CHỌN LỘ TRÌNH TRỐN THOÁT</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CLAIM_GREAT_PERSON">
-			<Text>NHẬN VĨ NHÂN</Text>
+			<Text>NHẬN Vĩ nhân</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CONSIDER_GOVERNMENT_CHANGE">
 			<Text>CÓ CHÍNH PHỦ MỚI</Text>
@@ -404,7 +404,7 @@
 			<Text>CHỌN VỊ THẦN</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_NEEDS_RELIGION">
-			<Text>CHỌN TÔN GIÁO</Text>
+			<Text>CHỌN Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_NEEDS_RESEARCH">
 			<Text>CHỌN NGHIÊN CỨU</Text>
@@ -1064,13 +1064,13 @@
 			<Text>Tiện nghi từ Công trình:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_DISTRICTS">
-			<Text>Tiện ích từ các đặc khu:</Text>
+			<Text>Tiện nghi từ các đặc khu:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_NATURAL_WONDERS">
 			<Text>Các tiện ích từ Kỳ quan thiên nhiên:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_TRAITS">
-			<Text>Tiện ích từ Đặc điểm:</Text>
+			<Text>Tiện nghi từ Đặc điểm:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_WAR_WEARINESS">
 			<Text>Tiện nghi từ chiến tranh dai dẳng:</Text>
@@ -2288,7 +2288,7 @@
 			<Text>Hoàn tất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_TREE_HEADER">
-			<Text>CÂY CÔNG NGHỆ</Text>
+			<Text>Cây công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_TREE_TURNS">
 			<Text>{1_Turns : plural 1?{1_Turns} lượt; other? {1_Turn} LƯỢT;}</Text>
@@ -3640,7 +3640,7 @@
 			<Text>Quan hệ đối ngoại với {1_CivName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOPANEL_CIV_HEADER">
-			<Text>NỀN VĂN MINH</Text>
+			<Text>NỀN văn minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOPANEL_CAPITAL_HEADER">
 			<Text>Thủ Đô</Text>
@@ -3711,22 +3711,22 @@
 			<Text>Tôn giáo cho {1_CivName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RELIGIONPANEL_MY_RELIGION">
-			<Text>[COLOR_LIGHTBLUE]TÔN GIÁO CỦA TÔI:[ENDCOLOR]   {1_ReligionName}</Text>
+			<Text>[COLOR_LIGHTBLUE]Tôn giáo CỦA TÔI:[ENDCOLOR]   {1_ReligionName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RELIGIONPANEL_NO_RELIGION">
 			<Text>không có tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RELIGIONPANEL_PANTHEON_LABEL">
-			<Text>[COLOR_LIGHTBLUE]TÍN NGƯỠNG VỊ THẦN:[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]Tín ngưỡng vị thần:[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RELIGIONPANEL_BELIEF_LABEL">
-			<Text>[COLOR_LIGHTBLUE]TÍN NGƯỠNG TÔN GIÁO ĐẦY ĐỦ:[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]Tín ngưỡng tôn giáo đầy đủ:[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RELIGIONPANEL_NEXT_STEP_LABEL">
-			<Text>[COLOR_LIGHTBLUE]BƯỚC TIẾP:[ENDCOLOR]  {1_NextStepText}</Text>
+			<Text>[COLOR_LIGHTBLUE]Bước tiếp:[ENDCOLOR]  {1_NextStepText}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RELIGIONPANEL_NEXT_STEP_FOUND_PANTHEON">
-			<Text>Tích lũy {1_Number} [ICON_Faith] Đức Tin để tìm thấy một vị thần.</Text>
+			<Text>Tích lũy {1_Number} [ICON_Faith] Đức tin để tìm thấy một vị thần.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RELIGIONPANEL_NEXT_STEP_CHOOSE_PANTHEON">
 			<Text>Chọn tín ngưỡng của vị thần.</Text>
@@ -4016,19 +4016,19 @@
 			<Text>Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY">
-			<Text>CHIẾN THẮNG ĐIỂM</Text>
+			<Text>Chiến thắng ĐIỂM</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_SCIENCE_VICTORY">
-			<Text>CHIẾN THẮNG KHOA HỌC</Text>
+			<Text>Chiến thắng khoa học</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY">
-			<Text>CHIẾN THẮNG NỀN VĂN MINH</Text>
+			<Text>Chiến thắng NỀN văn minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_DOMINATION_VICTORY">
-			<Text>CHIẾN THẮNG THỐNG TRỊ</Text>
+			<Text>Chiến thắng thống trị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_RELIGION_VICTORY">
-			<Text>CHIẾN THẮNG TÔN GIÁO</Text>
+			<Text>Chiến thắng Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_OVERVIEW_SCIENCE_NUM_TECHS">
 			<Text>Công nghệ đã nghiên cứu: {1_Num}</Text>
@@ -4058,7 +4058,7 @@
 			<Text>Chiến thắng [COLOR:NeutralCS]ĐIỂM[ENDCOLOR] xảy ra khi không có bất kỳ nền văn mình nào đạt được chiến thắng khác ở cuối trò chơi. Trong trường hợp này, nền văn minh có tổng [COLOR:NeutralCS]ĐIỂM[ENDCOLOR] cao nhất sẽ chiến thắng!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_SCIENCE_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResScienceLabelCS]KHOA HỌC[ENDCOLOR], bạn phải hoàn thành 3 cột mốc quan trọng:</Text>
+			<Text>Để chiến thắng [COLOR:ResScienceLabelCS]khoa học[ENDCOLOR], bạn phải hoàn thành 3 cột mốc quan trọng:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_1">
 			<Text>Phóng vệ tinh.</Text>
@@ -4088,7 +4088,7 @@
 			<Text>Khả năng thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] của bạn đến với nền văn minh là một công thức được tính bởi hiệu số của sản lượng [ICON_Culture] Văn minh của bạn với số lượng [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] của nền văn minh mà bạn đang cố gắng thu hút.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResCultureLabelCS]VĂN MINH[ENDCOLOR], bạn phải thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] bằng cách tạo ra lượng lớn [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch. Chiến thắng có được khi bạn thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] tới nền văn minh của bạn nhiều hơn [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] ở nhà của các nền văn minh khác.</Text>
+			<Text>Để chiến thắng [COLOR:ResCultureLabelCS]văn minh[ENDCOLOR], bạn phải thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] bằng cách tạo ra lượng lớn [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch. Chiến thắng có được khi bạn thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] tới nền văn minh của bạn nhiều hơn [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] ở nhà của các nền văn minh khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURE_DETAILS_DOMESTIC_TOURISTS">
 			<Text>[COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] là khách du lịch từ nền văn minh của bạn đang rất vui vẻ hưởng thụ trong biên giới.</Text>
@@ -4145,7 +4145,7 @@
 			<Text>Có tổng [ICON_Capital] Thủ Đô.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResMilitaryLabelCS]THỐNG TRỊ[ENDCOLOR], bạn phải chinh phục [ICON_Capital] Thủ Đô gốc của các nền văn minh khác.[NEWLINE][NEWLINE]Khuyến cáo sức mạnh quân sự hùng hậu.</Text>
+			<Text>Để chiến thắng [COLOR:ResMilitaryLabelCS]thống trị[ENDCOLOR], bạn phải chinh phục [ICON_Capital] Thủ Đô gốc của các nền văn minh khác.[NEWLINE][NEWLINE]Khuyến cáo sức mạnh quân sự hùng hậu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_DOMINATION_SUMMARY">
 			<Text>Đã chiếm {1_NumCaptured : plural 1?{1_NumCaptured} Thủ Đô; other?{1_NumCaptured} Thủ Đô;}</Text>
@@ -4154,7 +4154,7 @@
 			<Text>Tôn giáo đã cải giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_RELIGION_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResFaithLabelCS]TÔN GIÁO[ENDCOLOR], tôn giáo của bạn phải chiếm [COLOR:ResFaithLabelCS]ƯU THẾ[ENDCOLOR] hơn mỗi nền văn minh khác trong game.[NEWLINE][NEWLINE]Một tôn giáo được coi là [COLOR:ResFaithLabelCS]ƯU THÉ[ENDCOLOR] khi có hơn 50% cư dân đi theo đạo này ở trong mỗi nền văn minh.</Text>
+			<Text>Để chiến thắng [COLOR:ResFaithLabelCS]Tôn giáo[ENDCOLOR], tôn giáo của bạn phải chiếm [COLOR:ResFaithLabelCS]ƯU THẾ[ENDCOLOR] hơn mỗi nền văn minh khác trong game.[NEWLINE][NEWLINE]Một tôn giáo được coi là [COLOR:ResFaithLabelCS]ƯU THÉ[ENDCOLOR] khi có hơn 50% cư dân đi theo đạo này ở trong mỗi nền văn minh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_RELIGION_CONVERT_SUMMARY">
 			<Text>{1_NumConverts} nước theo {2_ReligionName}</Text>
@@ -4649,13 +4649,13 @@
 			<Text>Lịch sử chiêu mộ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_PEOPLE_TAB_GREAT_PEOPLE">
-			<Text>VĨ NHÂN</Text>
+			<Text>Vĩ nhân</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_PEOPLE_TAB_PREVIOUSLY_RECRUITED">
 			<Text>Chiêu mộ trước đó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_PEOPLE_TITLE">
-			<Text>VĨ NHÂN</Text>
+			<Text>Vĩ nhân</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_PEOPLE_PERSON_ACTIVATED">
 			<Text>Vĩ nhân đã được kích hoạt!</Text>
@@ -4808,7 +4808,7 @@
 			<Text>Du lịch</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_WORKS_NEW_GREAT_WORK">
-			<Text>NỀN VĂN MINH CỦA BẠN ĐÃ TẠO RA MỘT THÀNH TỰU VĨ ĐẠI!</Text>
+			<Text>NỀN văn minh CỦA BẠN ĐÃ TẠO RA MỘT THÀNH TỰU VĨ ĐẠI!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_WORKS_VIEW_GREAT_WORKS">
 			<Text>Xem Thành Tựu Vĩ Đại</Text>
@@ -5119,10 +5119,10 @@
 			<Text>không</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORYSTATUS_RELIGION_FOUNDED_HEADER">
-			<Text>SÁNG LẬP TÔN GIÁO</Text>
+			<Text>SÁNG LẬP Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORYSTATUS_RELIGION_PREDOMINANT_HEADER">
-			<Text>TÔN GIÁO CHIẾM ƯU THẾ</Text>
+			<Text>Tôn giáo CHIẾM ƯU THẾ</Text>
 		</Replace>
 		<!-- Multiplayer Last Remaining Player Popup -->
 		<Replace Language='en_US' Tag="TXT_KEY_MP_LAST_PLAYER">
@@ -5153,7 +5153,7 @@
       <Text>Thông báo</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_GOSSIP">
-      <Text>Gossip</Text>
+      <Text>Mách lẻo</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_YIELDS">
       <Text>Sản lượng</Text>
@@ -5174,19 +5174,19 @@
 			<Text>Đi ra [ICON_TradeRoute] Tuyến đường thương mại (hoạt động / tổng)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_TECHTREE_TOOLTIP">
-			<Text>CÂY CÔNG NGHỆ</Text>
+			<Text>Cây công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CIVICSTREE_TOOLTIP">
-			<Text>CÂY HÀNH CHÍNH</Text>
+			<Text>Cây hành chính</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_RELIGION_TOOLTIP">
-			<Text>TÔN GIÁO</Text>
+			<Text>Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_GREATWORKS_TOOLTIP">
 			<Text>THÀNH TỰU VĨ ĐẠI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_GREATPEOPLE_TOOLTIP">
-			<Text>VĨ NHÂN</Text>
+			<Text>Vĩ nhân</Text>
 		</Replace>
 		<!-- ==================== REPORTS =================== -->
 				<Replace Language='en_US' Tag="LOC_REPORTS_LIST_EMPIRE">
@@ -5466,7 +5466,7 @@
       <Text>Thông báo</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_HUD_REPORTS_TAB_GOSSIP">
-      <Text>Gossip</Text>
+      <Text>Mách lẻo</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_TAB_RESOURCES">
 			<Text>Tài nguyên</Text>
@@ -6292,19 +6292,19 @@
       <Text>Name</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PRODUCTION_MANAGER_FILTER_POPULATION">
-      <Text>Population</Text>
+      <Text>Dân số</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_PRODUCTION_QUEUE_BEHAVIOR_TT">
 			<Text>Use the options menu to change the default show/hide behavior of the production queue.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_FULLSCREEN_MAP">
-      <Text>Show Fullscreen Map</Text>
+      <Text>Hiển thị bản đồ toàn màn hình</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_VIEW_PAST_GOSSIP">
 			<Text>View Past Gossip</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_VIEW_GOSSIP">
-			<Text>View Gossip</Text>
+			<Text>Xem mách lẻo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_VIEW_PAST_RUMORS">
 			<Text>View Past Rumors</Text>
@@ -6313,16 +6313,16 @@
 			<Text>View Rumors</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_TURN">
-			<Text>Turn</Text>
+			<Text>Lượt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_RUMOR">
-			<Text>Rumor</Text>
+			<Text>Tin đồn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_GOSSIP">
-			<Text>Gossip</Text>
+			<Text>Mách lẻo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_GOSSIP_CLOSE">
-			<Text>Close</Text>
+			<Text>Đóng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_COLLAPSE_LIST">
 			<Text>Bấm để thu gọn danh sách</Text>

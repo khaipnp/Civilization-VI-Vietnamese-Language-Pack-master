@@ -25,7 +25,7 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_MOD">
 			<Text>Phụ thuộc</Text>
 		</Replace>
-		
+
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_TEXT">
 			<Text>Văn bản</Text>
 		</Replace>
@@ -53,7 +53,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
 			<Text>Đức tin</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
 			<Text>Thiệt hại Đồn Trú</Text>
 		</Replace>
@@ -74,7 +74,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
 			<Text>Tài nguyên</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
 			<Text>Lượng tài nguyên</Text>
 		</Replace>
@@ -185,7 +185,7 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
 			<Text>Chiều rộng</Text>
 		</Replace>
-		
+
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
 			<Text>Chiều dài</Text>
 		</Replace>
@@ -465,7 +465,7 @@
 			<Text>Thay đổi thành công vòng xoay của tiện ích</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_FAILURE_FEATURE_ROTATION">
-			<Text>Tiện ích này không thể được đặt ở đây trong vòng xoay đã chọn</Text>
+			<Text>Tiện nghi này không thể được đặt ở đây trong vòng xoay đã chọn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_STATUS_STARTUP">
 			<Text>Chào mừng bạn đến với World Builder!</Text>
@@ -717,7 +717,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_WORLDBUILDER_WORLDWRAP">
 			<Text>World Wrap</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_MAP_NAME_DESC">
 			<Text>The name of the map.  This can be changed later.</Text>
 		</Replace>
@@ -730,7 +730,7 @@
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_MENU_NAME">
 			<Text>Menu</Text>
 		</Replace>
-		
+
 		<!-- World Builder Maps -->
 		<Replace Language='en_US' Tag="LOC_MAP_WORLDBUILDER_EMPTY">
 			<Text>Empty Map</Text>
@@ -738,8 +738,8 @@
 		<Replace Language='en_US' Tag="LOC_MAP_WORLDBUILDER_EMPTY_DESCRIPTION">
 			<Text>A blank canvas.</Text>
 		</Replace>
-		
-		
+
+
 		<!-- Misc strings -->
 		<Replace Language='en_US' Tag="LOC_LEADER_FREE_CITIES_NAME">
 			<Text>Free Cities Leader</Text>

@@ -1850,37 +1850,37 @@
 			<Text>Chiến thắng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_HEADER">
-			<Text>CHIẾN THẮNG!</Text>
+			<Text>Chiến thắng!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEFEATED_SUBHEADER">
-			<Text>THẤT BẠI</Text>
+			<Text>Thất bại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ELIMINATED_SUBHEADER">
-			<Text>LOẠI BỎ</Text>
+			<Text>Loại bỏ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_SCORE_SUBHEADER">
-			<Text>CHIẾN THẮNG ĐIỂM</Text>
+			<Text>Chiến thắng điểm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
-			<Text>CHIẾN THẮNG KHOA HỌC</Text>
+			<Text>Chiến thắng khoa học</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_CULTURE_SUBHEADER">
-			<Text>CHIẾN THẮNG VĂN MINH</Text>
+			<Text>Chiến thắng văn minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
-			<Text>CHIẾN THẮNG THỐNG TRỊ</Text>
+			<Text>Chiến thắng thống trị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
-			<Text>CHIẾN THẮNG TÔN GIÁO</Text>
+			<Text>Chiến thắng Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
-			<Text>CHIẾN THẮNG: {1_ScenarioName}</Text>
+			<Text>Chiến thắng: {1_ScenarioName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
 			<Text>{1_ScenarioVictoryType}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
-			<Text>CHIẾN THẮNG</Text>
+			<Text>Chiến thắng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_SCORE_NAME">
 			<Text>Điểm</Text>
@@ -1959,28 +1959,28 @@
 		</Replace>
 		<!-- File Errors -->
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
-			<Text>Save không thể load trong phiên bản game này.</Text>
+			<Text>Lưu không thể tải trong phiên bản game này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
-			<Text>Không thể mở save.</Text>
+			<Text>Không thể mở tệp lưu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
-			<Text>Không thể ghi save.</Text>
+			<Text>Không thể lưu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
-			<Text>Không thể đọc save.</Text>
+			<Text>Không thể đọc tệp lưu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
-			<Text>Không thể xóa save.</Text>
+			<Text>Không thể xóa tệp lưu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
 			<Text>File này không phải là save game.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
-			<Text>Save game bị hỏng.</Text>
+			<Text>Lưu trò chơi bị hỏng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
-			<Text>Tải save lỗi.</Text>
+			<Text>Tải tệp lưu bị lỗi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
 			<Text>Không thể phục hồi trạng thái game.</Text>
