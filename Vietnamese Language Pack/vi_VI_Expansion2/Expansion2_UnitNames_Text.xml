@@ -544,7 +544,7 @@
 			<Text>Crows</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
-			<Text>Culture</Text>
+			<Text>Văn hóa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
 			<Text>Dates</Text>
