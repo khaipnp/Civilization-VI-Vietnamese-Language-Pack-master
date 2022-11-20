@@ -507,7 +507,7 @@
 			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
-			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ trong Rừng, Đồi hoặc Đầm lầy.</Text>
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ trong Rừng, Đồi hoặc đầm lầy.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
 			<Text>Đơn vị lân cận của các loại khác nhau được +10 [ICON_Strength] Sức mạnh đấu với kỵ binh.</Text>

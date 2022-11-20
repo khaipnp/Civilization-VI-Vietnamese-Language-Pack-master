@@ -135,7 +135,7 @@
 			<Text>-1: Mỗi Khu Công Nghiệp, Khu Quân Sự, Sân bay hoặc Trạm không gian liền kề</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_15">
-			<Text>-1: Mỗi Rừng nhiệt đới, Đầm lầy hoặc Vùng lũ liền kề</Text>
+			<Text>-1: Mỗi Rừng nhiệt đới, đầm lầy hoặc Vùng lũ liền kề</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_16">
 			<Text>-1: Mỗi ô đã bị cướp liền kề</Text>
@@ -426,7 +426,7 @@
 			<Text>Cướp bóc một đặc khu cần 3 điểm di chuyển, hoặc tất cả điểm di chuyển của bạn. Mỗi kiến trúc trong đặc khu phải thực hiện cướp riêng, và phần thưởng cho hành động loại cướp bóc trong đặc khu (xem bên dưới). Khi cướp bóc, một kiến trúc không thể bị cướp một lần nữa cho đến khi nó được sửa chữa bởi người sở hữu nó (thực hiện thông qua Bảng Sản Xuất và mất 25% [ICON_Production] Sản Phẩm để sửa chữa kiến trúc đó đó).[NEWLINE]Cướp bóc Khu Tri Thức thưởng [ICON_Science] Khoa học.[NEWLINE]Cướp bóc Thánh Địa thưởng [ICON_Faith] Đức Tin.[NEWLINE]Cướp bóc Khu Thương Mại thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Khu Nghệ Thuật thưởng [ICON_Culture] Văn minh.[NEWLINE]Cướp bóc Khu Cảng Biển thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Khu Công Nghiệp thưởng [ICON_Science] Khoa học.[NEWLINE]Cướp bóc Khu Hàng Không thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Khu Thủy Lợi thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Trạm Không Gian thưởng [ICON_Science] Khoa học.[NEWLINE]Cướp bóc Khu giải trí được hồi máu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_3">
-			<Text>Cướp bóc là một công trình tiêu tốn 3 điểm di chuyển, hoặc tất cả điểm di chuyển (nếu điểm [ICON_Movement] Di chuyển của bạn ít hơn 3). Ô đó sẽ được đánh dấu là "cướp bóc". Khi cướp bóc, nơi đó không thể bị cướp một lần nữa cho đến khi nó được đưa trở lại bản đồ bởi người chơi (mất 1 lượt để thợ xây sửa chữa lại và không tốn bất kỳ chi phí nào).[NEWLINE]Cướp bóc Nông Trại sẽ được hồi máu.[NEWLINE]Cướp bóc Mỏ thưởng [ICON_Science] Khoa học.[NEWLINE]Cướp bóc Mỏ Đá thưởng [ICON_Culture] Văn minh.[NEWLINE]Cướp bóc Thuyền Đánh Cá sẽ được hồi máu.[NEWLINE]Cướp bóc Bãi Chăn thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Vườn Ươm thưởng [ICON_Faith] Đức Tin.[NEWLINE]Cướp bóc Trại thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Xưởng Gỗ [ICON_Science] Khoa học.</Text>
+			<Text>Cướp bóc là một công trình tiêu tốn 3 điểm di chuyển, hoặc tất cả điểm di chuyển (nếu điểm [ICON_Movement] Di chuyển của bạn ít hơn 3). Ô đó sẽ được đánh dấu là "cướp bóc". Khi cướp bóc, nơi đó không thể bị cướp một lần nữa cho đến khi nó được đưa trở lại bản đồ bởi người chơi (mất 1 lượt để thợ xây sửa chữa lại và không tốn bất kỳ chi phí nào).[NEWLINE]Cướp bóc Nông Trại sẽ được hồi máu.[NEWLINE]Cướp bóc Mỏ thưởng [ICON_Science] Khoa học.[NEWLINE]Cướp bóc Mỏ Đá thưởng [ICON_Culture] Văn minh.[NEWLINE]Cướp bóc Thuyền Đánh Cá sẽ được hồi máu.[NEWLINE]Cướp bóc Bãi Chăn thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Vườn Ươm thưởng [ICON_Faith] Đức Tin.[NEWLINE]Cướp bóc Trại thưởng [ICON_Gold] Vàng.[NEWLINE]Cướp bóc Xưởng đồi [ICON_Science] Khoa học.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MOVEMENT_NAME">
 			<Text>Khả năng di chuyển của đơn vị</Text>

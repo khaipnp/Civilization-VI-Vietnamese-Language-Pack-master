@@ -280,7 +280,7 @@
 		</Replace>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Replace Language='en_US' Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
-			<Text>+1 [ICON_Production] Sản phẩm từ Đầm lầy, Ốc đảo và Vùng lũ.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm từ đầm lầy, Ốc đảo và Vùng lũ.</Text>
 		</Replace>
 		<!--Pantheon - Local Resource Bonuses-->
 		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">

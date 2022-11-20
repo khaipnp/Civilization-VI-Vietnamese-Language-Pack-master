@@ -795,7 +795,7 @@
 			<Text>Du khách</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_TRAVELER_DESCRIPTION">
-			<Text>Nhanh hơn khi [ICON_Movement] Di chuyển trong Rừng, Rừng Nhiệt đới, Đồi, hoặc Đầm lầy.</Text>
+			<Text>Nhanh hơn khi [ICON_Movement] Di chuyển trong Rừng, Rừng Nhiệt đới, Đồi, hoặc đầm lầy.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_NAME">
 			<Text>Nhà Truyền bá</Text>
@@ -819,7 +819,7 @@
 			<Text>Nhà Giả kim</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_DESCRIPTION">
-			<Text>+7 [ICON_Religion] Sức mạnh Tôn giáo trong Chiến tranh Thần học phòng thủ trong Rừng, Rừng Nhiệt đới, Đồi, hoặc Đầm lầy.</Text>
+			<Text>+7 [ICON_Religion] Sức mạnh Tôn giáo trong Chiến tranh Thần học phòng thủ trong Rừng, Rừng Nhiệt đới, Đồi, hoặc đầm lầy.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_NAME">
 			<Text>Nhà Diễn giả</Text>
