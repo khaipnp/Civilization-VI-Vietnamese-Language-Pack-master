@@ -2,13 +2,13 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_UNIT_SKIRMISHER_NAME">
-			<Text>Skirmisher</Text>
+			<Text>Người giao tranh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_SKIRMISHER_DESCRIPTION">
 			<Text>Medieval Era recon unit.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_COURSER_NAME">
-			<Text>Courser</Text>
+			<Text>Người học</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_COURSER_DESCRIPTION">
 			<Text>Medieval Era light cavalry unit.</Text>

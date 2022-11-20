@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
-			<Text>Have a level 2 Alliance.</Text>
+			<Text>Có Liên minh cấp 2.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

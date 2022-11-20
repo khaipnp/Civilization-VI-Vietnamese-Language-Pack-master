@@ -2,10 +2,10 @@
 	<LocalizedText>
     <!--New for XP2-->
     <Replace Language='en_US' Tag="LOC_ROUTE_RAILROAD_NAME">
-      <Text>Railroad</Text>
+      <Text>Đường sắt</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_ROUTE_RAILROAD_DESCRIPTION">
-      <Text>Can only be constructed by Military Engineers. Does not cost a charge, but does cost 1 [ICON_RESOURCE_IRON] Iron and 1 [ICON_RESOURCE_COAL] Coal. Greatly improves [ICON_Movement] Movement speed of any unit moving from one Railroad tile to another. [ICON_TradeRoute] Trade Routes traveling over Railroads can multiply the [ICON_Gold] Gold they get from districts at their destination.</Text>
+      <Text>Chỉ có thể được xây dựng bởi Kỹ sư quân sự. Không tốn phí, nhưng tốn 1 [ICON_RESOURCE_IRON] Sắt và 1 [ICON_RESOURCE_COAL] Than. Cải thiện đáng kể [ICON_Movement] Tốc độ di chuyển của bất kỳ đơn vị nào di chuyển từ ô Đường sắt này sang ô Đường sắt khác. [ICON_TradeRoute] Các Tuyến giao dịch đi qua Đường sắt có thể nhân số vàng [ICON_Gold] mà họ nhận được từ các quận tại điểm đến của họ.</Text>
     </Replace>
 	</LocalizedText>
 </GameData>

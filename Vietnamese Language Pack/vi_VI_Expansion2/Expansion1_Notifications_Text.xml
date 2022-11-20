@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
-			<Text>Historic Moment</Text>
+			<Text>Khoảnh khắc lịch sử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
 			<Text>Your people celebrate a Historic Moment! {1_MomentDescription} (+{2_EraScoreAmount} Era Score)</Text>
@@ -26,7 +26,7 @@
 			<Text>Promote an existing [ICON_Governor] Governor, or Appoint a new Governor to your civilization.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
-			<Text>Governor Title</Text>
+			<Text>Chức danh thống đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
 			<Text>Promote an existing Governor, or Appoint a new Governor to your civilization.</Text>
@@ -250,7 +250,7 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
 			<Text>Make Dedication</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY"> 
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY">
 			<Text>Since the game has entered a new era, you are able to make a Dedication to guide your people towards the desired future for your civilization.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">

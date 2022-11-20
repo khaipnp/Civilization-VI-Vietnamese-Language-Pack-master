@@ -3,10 +3,10 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_SOURCE_VENDOR">
-			<Text>A vendor at your trading post heard that</Text>
+			<Text>Một nhà cung cấp tại điểm giao dịch của bạn đã nghe nói rằng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VIZSOURCE_TRADING_POST_TRAIT">
-			<Text>Mongolia's Örtöö effect</Text>
+			<Text>Hiệu ứng Örtöö của Mông Cổ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VIZSOURCE_ACTION_TRADING_POST_TRAIT">
 			<Text>Establish [ICON_TradingPost] Trading Posts as Mongolia</Text>

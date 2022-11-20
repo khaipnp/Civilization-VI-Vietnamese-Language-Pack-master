@@ -9,13 +9,13 @@
 			<Text>(Alliance)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
-			<Text>+{1_Value} Recent Diplomatic Change</Text>
+			<Text>+{1_Value} thay đổi ngoại giao gần đây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
 			<Text>+{1_Value} Intel on opponent's movements</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
-			<Text>+{1_Value} Garrison Commander</Text>
+			<Text>+{1_Value} chỉ huy đồn trú</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
 			<Text>+{1_Value} from Military Alliance</Text>
@@ -39,10 +39,10 @@
 			<Text>-{1_Value} Less effective vs naval units</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REPORTS_LOYALTY">
-			<Text>Loyalty</Text>
+			<Text>Lòng trung thành</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REPORTS_GOVERNOR">
-			<Text>Governor</Text>
+			<Text>Thống đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
 			<Text>[COLOR_LIGHTBLUE]+{1_Num} Loyalty[ENDCOLOR]</Text>
@@ -57,7 +57,7 @@
 			<Text>Occupied: {1_LoyalityStatus}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNORS_TITLE">
-			<Text>GOVERNORS</Text>
+			<Text>Thống đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NO_GOVERNORS_TITLE_AVAILABLE">
 			<Text>No Governor Titles Available</Text>
