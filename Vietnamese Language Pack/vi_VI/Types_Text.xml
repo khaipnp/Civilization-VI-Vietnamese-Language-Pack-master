@@ -994,7 +994,7 @@
 			<Text>Rừng nhiệt đới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FEATURE_MARSH_NAME">
-			<Text>Đầm lầy</Text>
+			<Text>đầm lầy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FEATURE_OASIS_NAME">
 			<Text>Ốc đảo</Text>

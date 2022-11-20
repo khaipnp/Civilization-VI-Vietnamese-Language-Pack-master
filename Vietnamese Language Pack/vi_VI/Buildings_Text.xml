@@ -139,7 +139,7 @@
 			<Text>Có 2 Tông Đồ. Phải xây trên Rừng gần Thánh Địa có Đền thờ, và đã sáng lập ra một tôn giáo.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
-			<Text>Tất cả Tông Đồ có thêm khả năng hi sinh (Tạo di tích nếu chết trong chiến tranh thần thánh). Phải xây trên vùng lũ hoặc Đầm lầy.</Text>
+			<Text>Tất cả Tông Đồ có thêm khả năng hi sinh (Tạo di tích nếu chết trong chiến tranh thần thánh). Phải xây trên vùng lũ hoặc đầm lầy.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
 			<Text>Mua vĩ nhân giảm giá 25% [ICON_Faith] Đức Tin. Đặc Khu trong thành phố này +2 điểm [ICON_GreatPerson] Vĩ nhân cho mỗi loại (ví dụ [ICON_GreatWriter] Nhà văn vĩ đại cho khu nghệ thuật). Phải xây trên đồi.</Text>

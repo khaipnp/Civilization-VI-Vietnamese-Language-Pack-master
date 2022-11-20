@@ -48,7 +48,7 @@
 			<Text>Đồng bằng sông Cửu Long</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION">
-			<Text>Tất cả các quận đặc biệt trên đất liền chỉ có thể được xây dựng trên ô rừng nhiệt đới, đầm lầy hoặc gỗ. Nhận sản lượng sau cho mỗi tòa nhà trên các tính năng này: +1 [ICON_CULTURE] Văn hóa trong rừng, +1 [ICON_SCIENCE] Khoa học trong rừng nhiệt đới và +1 [ICON_PRODUCTION] Sản xuất ở đầm lầy. Có thể trồng rừng bằng công dân hội chợ thời trung cổ.</Text>
+			<Text>Tất cả các quận đặc biệt trên đất liền chỉ có thể được xây dựng trên ô Rừng nhiệt đới, đầm lầy hoặc đồi. Nhận sản lượng sau cho mỗi tòa nhà trên các tính năng này: +1 [ICON_CULTURE] Văn hóa trong rừng, +1 [ICON_SCIENCE] Khoa học trong rừng nhiệt đới và +1 [ICON_PRODUCTION] Sản xuất ở đầm lầy. Có thể trồng rừng bằng công dân hội chợ thời trung cổ.</Text>
 		</Replace>
 		<!-- Vietnam: Leader Info -->
 		<Replace Language='en_US' Tag="LOC_LEADER_LADY_TRIEU_NAME">

@@ -874,7 +874,7 @@
 			<Text>Vịnh Người chết Ubsunur</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION">
-			<Text>Kỳ quan thiên nhiên chiếm bốn ô. Một Đầm lầy và cung cấp +2 [ICON_FAITH] Đức tin, +1 [ICON_FOOD] Thực phẩm và +1 [ICON_PRODUCTION] Sản xuất.</Text>
+			<Text>Kỳ quan thiên nhiên chiếm bốn ô. Một đầm lầy và cung cấp +2 [ICON_FAITH] Đức tin, +1 [ICON_FOOD] Thực phẩm và +1 [ICON_PRODUCTION] Sản xuất.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FEATURE_UBSUNUR_HOLLOW_QUOTE">
 			<Text>"Thế giới đang trỗi dậy từ vùng nước tăm tối và sâu thẳm, chiến thắng hư không và vô hữu hình vô hạn."[NEWLINE]–John Milton</Text>

@@ -80,7 +80,7 @@
       <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_LOADING_INFO_LEADER_LADY_TRIEU]Bà Triệu, your people will remember you as a goddess. Stand against those who would try to rein in your storm, and raise your sword in defiance. Neither family nor foe will hold you back.</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION" Language="zh_Hans">
-      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION]All land specialty districts can only be built on Rainforest, Marsh, or Woods. Receive the following yields for every building on these features: +1 [ICON_CULTURE] Culture in Woods, +1 [ICON_SCIENCE] Science in Rainforest and +1 [ICON_PRODUCTION] Production in Marsh. Woods can be planted with the Medieval Faires civic.</Text>
+      <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION]Tất cả các đặc khu trên đất liền chỉ có thể được xây dựng trên Rừng nhiệt đới, đầm lầy hoặc đồi. Nhận sản lượng sau cho mỗi tòa nhà trên các tính năng này: +1 [ICON_CULTURE] Văn hóa trong rừng, +1 [ICON_SCIENCE] Khoa học trong rừng nhiệt đới và +1 [ICON_PRODUCTION] Sản xuất ở đầm lầy. Có thể trồng rừng bằng công dân ở hội chợ thời trung cổ.</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_NAME" Language="zh_Hans">
       <Text>[COLOR_RED]TRANSLATION MISSING[ENDCOLOR][LOC_TRAIT_CIVILIZATION_VIETNAM_NAME]Nine Dragon River Delta</Text>
