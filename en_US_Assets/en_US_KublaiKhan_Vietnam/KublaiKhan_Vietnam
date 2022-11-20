@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="A3F42CD4-6C3E-4F5A-BC81-BE29E0C0B87C" version="1">
+	<Properties>
+		<Name>LOC_KUBLAIKHAN_VIETNAM_MOD_TITLE</Name>
+		<Teaser>LOC_KUBLAIKHAN_VIETNAM_MOD_TEASER</Teaser>
+		<Description>LOC_KUBLAIKHAN_VIETNAM_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<References>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</References>
+	<ActionCriteria>
+		<Criteria id="KublaiKhanVietnam_Expansion1Enabled">
+			<ModIsEnabled>1B28771A-C749-434B-9053-D1380C553DE9</ModIsEnabled>
+		</Criteria>
+		<Criteria id="KublaiKhanVietnam" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_LADY_TRIEU,Players:Expansion1_Players::LEADER_LADY_TRIEU,Players:Expansion2_Players::LEADER_LADY_TRIEU</LeaderPlayable>
+			<LeaderPlayable>Players:StandardPlayers::LEADER_KUBLAI_KHAN_CHINA,Players:Expansion1_Players::LEADER_KUBLAI_KHAN_CHINA,Players:Expansion2_Players::LEADER_KUBLAI_KHAN_CHINA</LeaderPlayable>
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_KUBLAI_KHAN_MONGOLIA,Players:Expansion2_Players::LEADER_KUBLAI_KHAN_MONGOLIA</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="KublaiKhanVietnam_Base" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_KUBLAI_KHAN_CHINA, Players:StandardPlayers::LEADER_LADY_TRIEU</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD</RuleSetInUse>
+		</Criteria>
+		<Criteria id="KublaiKhanVietnam_Mongolia" any="1">
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_KUBLAI_KHAN_MONGOLIA</LeaderPlayable>
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_KUBLAI_KHAN_MONGOLIA</LeaderPlayable>
+		</Criteria>
+		<Criteria id="KublaiKhanVietnam_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_KUBLAI_KHAN_MONGOLIA, Players:Expansion1_Players::LEADER_KUBLAI_KHAN_CHINA, Players:Expansion1_Players::LEADER_LADY_TRIEU</LeaderPlayable>
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_KUBLAI_KHAN_MONGOLIA, Players:Expansion2_Players::LEADER_KUBLAI_KHAN_CHINA, Players:Expansion2_Players::LEADER_LADY_TRIEU</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="KublaiKhanVietnam_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_KUBLAI_KHAN_CHINA, Players:Expansion2_Players::LEADER_KUBLAI_KHAN_MONGOLIA, Players:Expansion2_Players::LEADER_LADY_TRIEU</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="Monopolies_Mode">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_MONOPOLIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Monopolies_Mode_Base">
+			<RuleSetInUse>RULESET_STANDARD</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_MONOPOLIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Monopolies_Mode_GranColombiaMaya">
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_MONOPOLIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+			<ModInUse>9DE86512-DE1A-400D-8C0A-AB46EBBF76B9</ModInUse>
+		</Criteria>
+		<Criteria id="Monopolies_Mode_Expansion1">
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_MONOPOLIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+		<Criteria id="Monopolies_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_MONOPOLIES</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="KublaiKhanArt" criteria="KublaiKhanVietnam">
+			<File>KublaiKhan_Vietnam.dep</File>
+		</UpdateArt>
+		<UpdateAudio id="KublaiKhanAudio" criteria="KublaiKhanVietnam">
+			<File>Platforms/Windows/Audio/XP3_DLC5Banks.ini</File>
+		</UpdateAudio>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay" criteria="KublaiKhanVietnam">
+			<File>Data/KublaiKhan_Vietnam_Civilizations.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Districts.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Leaders.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Modifiers.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Units.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="KublaiKhanVietnamColors" criteria="KublaiKhanVietnam">
+			<File>Data/KublaiKhan_Vietnam_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay_MODE_Base" criteria="Monopolies_Mode_Base">
+			<File>Data/KublaiKhan_Vietnam_GameCapabilities.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Monopolies_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay_MODE_GranColombiaMaya" criteria="Monopolies_Mode_GranColombiaMaya">
+			<File>Data/KublaiKhan_Vietnam_Monopolies_GranColombiaMaya_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay_MODE_Expansion1" criteria="Monopolies_Mode_Expansion1">
+			<File>Data/KublaiKhan_Vietnam_GameCapabilities.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Monopolies_MODE.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Monopolies_XP1_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay_MODE_Expansion2" criteria="Monopolies_Mode_Expansion2">
+			<File>Data/KublaiKhan_Vietnam_GameCapabilities.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Monopolies_MODE.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Monopolies_XP1_MODE.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Monopolies_XP2_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay_Mongolia" criteria="KublaiKhanVietnam_Mongolia">
+			<File>Data/KublaiKhan_Vietnam_Mongolia.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay_XP1" criteria="KublaiKhanVietnam_Expansion1">
+			<File>Data/KublaiKhan_Vietnam_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="KublaiKhanVietnamGameplay_XP2" criteria="KublaiKhanVietnam_Expansion2">
+			<File>Data/KublaiKhan_Vietnam_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="KublaiKhanVietnamIcons" criteria="KublaiKhanVietnam">
+			<File>Data/KublaiKhan_Vietnam_Icons_Buildings.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Civilizations.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Districts.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Leaders.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Units.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_UnitPortraits.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="KublaiKhanVietnamIcons_MODE" criteria="Monopolies_Mode">
+			<File>Data/KublaiKhan_Vietnam_Icons_MODE.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Resources_MODE.xml</File>
+		</UpdateIcons>
+		<UpdateLogitechARX id="KublaiKhanVietnamARX" criteria="KublaiKhanVietnam">
+			<File>Data/ARX/Civ_LEADER_LADY_TRIEU.png</File>
+			<File>Data/ARX/Civ_LEADER_KUBLAI_KHAN_CHINA.png</File>
+			<File>Data/ARX/Civ_LEADER_KUBLAI_KHAN_MONGOLIA.png</File>
+		</UpdateLogitechARX>
+		<UpdateText id="KublaiKhanVietnamText" criteria="KublaiKhanVietnam">
+			<File Priority="3">Text/KublaiKhan_Vietnam_RemoveText.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_PackageText.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_CitizenNames_Text.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_CityNames_Text.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_Diplomacy_Text.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_NamedPlaces_Text.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_Civilopedia_Text.xml</File>
+			<File>Text/KublaiKhan_Vietnam_Translations_PackageText.xml</File>
+			<File>Text/KublaiKhan_Vietnam_Translations_ConfigText.xml</File>
+			<File>Text/KublaiKhan_Vietnam_Translations_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="KublaiKhanVietnamText_MODE" criteria="Monopolies_Mode">
+			<File Priority="2">Text/KublaiKhan_Vietnam_RemoveText_MODE.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_Monopolies_Text_MODE.xml</File>
+			<File>Text/en_US/KublaiKhan_Vietnam_CorporationNames_Text.xml</File>
+			<File>Text/en_US/KublaiKhan_Vietnam_Monopolies_Civilopedia_Text_MODE.xml</File>
+			<File>Text/KublaiKhan_Vietnam_Translations_Text_MODE.xml</File>
+		</UpdateText>
+		<AddUserInterfaces id="KublaiKhanVietnam_MODE_InGameUI" criteria="Monopolies_Mode">
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+			<File>UI/Additions/CreateCorporationPopup.xml</File>
+		</AddUserInterfaces>
+		<ReplaceUIScript id="KublaiKhanVietnam_DistrictPlotIconManager" criteria="KublaiKhanVietnam">
+			<Properties>
+				<LuaContext>DistrictPlotIconManager</LuaContext>
+				<LuaReplace>UI/Replacements/DistrictPlotIconManager_KublaiKhan_Vietnam.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="KublaiKhanVietnam_GlobalResourcePopup" criteria="Monopolies_Mode">
+			<Properties>
+				<LuaContext>GlobalResourcePopup</LuaContext>
+				<LuaReplace>UI/Replacements/GlobalResourcePopup_KublaiKhanVietnam_MODE.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ImportFiles id="KublaiKhanVietnam_Files" criteria="KublaiKhanVietnam">
+			<File>UI/Replacements/DistrictPlotIconManager_KublaiKhan_Vietnam.lua</File>
+			<File>UI/Replacements/GlobalResourcePopup_KublaiKhanVietnam_MODE.lua</File>
+			<File>UI/Replacements/GlobalResourcePopup.xml</File>
+			<File>UI/Loaders/TutorialLoader_KublaiKhan_Vietnam.lua</File>
+		</ImportFiles>
+		<ImportFiles id="KublaiKhanVietnam_Files_MODE_Base" criteria="Monopolies_Mode_Base">
+			<File>UI/Replacements/CityLoyaltyInstances.xml</File>
+		</ImportFiles>
+		<ImportFiles id="KublaiKhanVietnam_Files_MODE" criteria="Monopolies_Mode">
+			<File>UI/Additions/CreateCorporationPopup.lua</File>
+			<File>UI/Additions/CreateCorporationPopup.xml</File>
+			<File>UI/Replacements/CityBannerManager_KublaiKhanVietnam_MODE.lua</File>
+			<File>UI/Replacements/CityBannerInstances.xml</File>
+			<File>UI/Replacements/DiplomacyDealView_KublaiKhanVietnam_MODE.lua</File>
+			<File>UI/Replacements/GreatWorksOverview_KublaiKhanVietnam_Monopolies.lua</File>
+			<File>UI/Replacements/GreatWorkShowcase_KublaiKhan_Vietnam_MODE.lua</File>
+		</ImportFiles>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="KublaiKhanSettingsArt">
+			<File>KublaiKhan_Vietnam.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="KublaiKhanVietnamSettings">
+			<File>Data/KublaiKhan_Vietnam_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="KublaiKhanVietnamSettings_Mongolia" criteria="KublaiKhanVietnam_Expansion1Enabled">
+			<File>Data/KublaiKhan_Vietnam_ConfigData_Mongolia.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="KublaiKhanVietnamColors">
+			<File>Data/KublaiKhan_Vietnam_Colors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="KublaiKhanVietnamSettingsIcons">
+			<File>Data/KublaiKhan_Vietnam_Icons_Buildings.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Civilizations.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Districts.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Leaders.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_Units.xml</File>
+			<File>Data/KublaiKhan_Vietnam_Icons_UnitPortraits.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="KublaiKhanVietnamSettingsIcons_MODE">
+			<File>Data/KublaiKhan_Vietnam_Icons_MODE.xml</File>
+		</UpdateIcons>
+		<UpdateText id="KublaiKhanVietnamSettingsText">
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_PackageText.xml</File>
+			<File Priority="1">Text/en_US/KublaiKhan_Vietnam_ConfigText.xml</File>
+			<File>Text/KublaiKhan_Vietnam_Translations_PackageText.xml</File>
+			<File>Text/KublaiKhan_Vietnam_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<LocalizedText>
+		<File>Text/en_US/KublaiKhan_Vietnam_PackageText.xml</File>
+		<File>Text/KublaiKhan_Vietnam_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>KublaiKhan_Vietnam.dep</File>
+		<File>Data/KublaiKhan_Vietnam_Colors.xml</File>
+		<File>Data/KublaiKhan_Vietnam_ConfigData.xml</File>
+		<File>Data/KublaiKhan_Vietnam_ConfigData_Mongolia.xml</File>
+		<File>Data/KublaiKhan_Vietnam_GameCapabilities.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Civilizations.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Districts.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Expansion1.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Expansion2.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_Buildings.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_Civilizations.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_Districts.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_Leaders.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_MODE.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_Resources_MODE.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_Units.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Icons_UnitPortraits.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Leaders.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Modifiers.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Units.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Mongolia.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Monopolies_MODE.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Monopolies_GranColombiaMaya_MODE.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Monopolies_XP1_MODE.xml</File>
+		<File>Data/KublaiKhan_Vietnam_Monopolies_XP2_MODE.xml</File>
+		<File>Data/ARX/Civ_LEADER_LADY_TRIEU.png</File>
+		<File>Data/ARX/Civ_LEADER_KUBLAI_KHAN_CHINA.png</File>
+		<File>Data/ARX/Civ_LEADER_KUBLAI_KHAN_MONGOLIA.png</File>
+		<File>Text/KublaiKhan_Vietnam_RemoveText.xml</File>
+		<File>Text/KublaiKhan_Vietnam_RemoveText_MODE.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_CitizenNames_Text.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_CityNames_Text.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_ConfigText.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_Diplomacy_Text.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_PackageText.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_NamedPlaces_Text.xml</File>
+		<File>Text/KublaiKhan_Vietnam_Translations_PackageText.xml</File>
+		<File>Text/KublaiKhan_Vietnam_Translations_ConfigText.xml</File>
+		<File>Text/KublaiKhan_Vietnam_Translations_Text.xml</File>
+		<File>Text/KublaiKhan_Vietnam_Translations_Text_MODE.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_Monopolies_Text_MODE.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_CorporationNames_Text.xml</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_Monopolies_Civilopedia_Text_MODE.xml</File>
+		<File>UI/Additions/CreateCorporationPopup.lua</File>
+		<File>UI/Additions/CreateCorporationPopup.xml</File>
+		<File>UI/Replacements/DistrictPlotIconManager_KublaiKhan_Vietnam.lua</File>
+		<File>UI/Replacements/GlobalResourcePopup_KublaiKhanVietnam_MODE.lua</File>
+		<File>UI/Replacements/GlobalResourcePopup.xml</File>
+		<File>UI/Replacements/GreatWorksOverview_KublaiKhanVietnam_Monopolies.lua</File>
+		<File>UI/Replacements/GreatWorkShowcase_KublaiKhan_Vietnam_MODE.lua</File>
+		<File>UI/Replacements/CityBannerManager_KublaiKhanVietnam_MODE.lua</File>
+		<File>UI/Replacements/CityBannerInstances.xml</File>
+		<File>UI/Replacements/CityLoyaltyInstances.xml</File>
+		<File>UI/Replacements/DiplomacyDealView_KublaiKhanVietnam_MODE.lua</File>
+		<File>UI/Loaders/TutorialLoader_KublaiKhan_Vietnam.lua</File>
+		<File>Platforms/Windows/Audio/XP3_DLC5Banks.ini</File>
+		<File>Text/en_US/KublaiKhan_Vietnam_Civilopedia_Text.xml</File>
+	</Files>
+</Mod>
