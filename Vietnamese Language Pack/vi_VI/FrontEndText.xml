@@ -75,7 +75,7 @@
 			<Text>Tùy chọn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MODS">
-			<Text>Mods</Text>			
+			<Text>Mods</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MODS_AND_DLC">
 			<Text>Mods và DLC</Text>
@@ -87,7 +87,7 @@
 			<Text>Đăng nhập My2K</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
-			<Text>Thoát tới Desktop</Text>
+			<Text>Thoát trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_BENCH">
 			<Text>Benchmark</Text>
@@ -238,7 +238,7 @@
 			<Text>Bộ điều chỉnh hoạt động:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOADSAVE_QUICK_SAVE">
-			<Text>(Save nhanh)</Text>
+			<Text>(Lưu nhanh)</Text>
 		</Replace>
 		<!-- Advanced Game Setup -->
 		<Replace Language='en_US' Tag="LOC_NETWORK_NAME_TT">
@@ -274,10 +274,10 @@
 		</Replace>
 		<!-- Multiplayer Game Abandoned Popup -->
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_KICKED">
-			<Text>Bạn đã bị kick.</Text>
+			<Text>Bạn đã bị đá.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
-			<Text>Kicked!</Text>
+			<Text>Bị đá!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
 			<Text>Kết nối đến Host bị mất.</Text>
@@ -292,7 +292,7 @@
 			<Text>Trò chơi đầy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
-			<Text>Khác version với Host.</Text>
+			<Text>Khác phiên bản với Host.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
 			<Text>Phiên bản không phù hợp</Text>
@@ -582,7 +582,7 @@
 			<Text>TÙY CHỌN ĐIỀU KHIỂN</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_QUICK_COMBAT">
-			<Text>Combat nhanh:</Text>
+			<Text>Chiến đấu nhanh:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_QUICK_MOVEMENT">
 			<Text>Di chuyển nhanh:</Text>
@@ -1831,7 +1831,7 @@
 			<Text>Những người làm ra Civilization VI.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_EXIT_GAME_TT">
-			<Text>Thoát tới Desktop.</Text>
+			<Text>Thoát trò chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_HALL_OF_FAME">
 			<Text>Thành tựu - Danh vọng</Text>

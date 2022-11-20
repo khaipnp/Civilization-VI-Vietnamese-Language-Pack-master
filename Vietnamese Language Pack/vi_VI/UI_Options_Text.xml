@@ -143,7 +143,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_MSAA_FULL">
 			<Text>MSAA Full</Text>
 		</Replace>
-		
+
 		<Replace Language='en_US' Tag="LOC_OPTIONS_CSAA_2X">
 			<Text>CSAA 2X / 4X</Text>
 		</Replace>
@@ -181,7 +181,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_EQAA_FULL">
 			<Text>EQAA Full</Text>
 		</Replace>
-			
+
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
 			<Text>Thấp (Tối ưu bộ nhớ)</Text>
 		</Replace>
@@ -211,7 +211,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADERS_STATIC">
 			<Text>Tĩnh (Không âm thanh)</Text>
 		</Replace>
-    
+
 		<Replace Language='en_US' Tag="LOC_OPTIONS_100_PERCENT">
 			<Text>100%</Text>
 		</Replace>
@@ -459,7 +459,7 @@
     <Replace Language='en_US' Tag="LOC_OPTIONS_REFLECTION_PASSES_TOOLTIP">
       <Text>Kiểm soát chất lượng Ánh xạ.[NEWLINE][NEWLINE]Sử dụng ít đường chuyền hơn hoặc vô hiệu hoá để [COLOR_Civ6DarkRed]Tăng hiệu suất[ENDCOLOR].</Text>
     </Replace>
-    
+
     <!-- Graphics Panel - Leaders -->
 
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADERS">
@@ -527,7 +527,7 @@
       <Text>{1_Value : number #.##}</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_MINIMAP_SIZE">
-			<Text>Kích thước Minimap:</Text>
+			<Text>Kích thước bản đồ nhỏmap:</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
       <Text>Trì hoãn chú thích:</Text>
@@ -537,7 +537,7 @@
     </Replace>
     <Replace Language='en_US' Tag="LOC_OPTIONS_SCROLL_SPEED">
       <Text>Tốc độ con lăn chuột:</Text>
-    </Replace>		
+    </Replace>
     <Replace Language='en_US' Tag="LOC_OPTIONS_SCROLL_SPEED_VALUE">
       <Text>{1_Value : number #.##}</Text>
     </Replace>
@@ -567,7 +567,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_PLAYBYCLOUD_READY_BEHAVIOR">
 			<Text>Play By Cloud Ready Behavior:</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_PLAYBYCLOUD_READY_BEHAVIOR_ASK_ME">
 			<Text>Hỏi tôi</Text>
 		</Replace>
@@ -590,7 +590,7 @@
 			<Text>Thoát ra sảnh</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_COLOR_BLINDNESS_ADAPTATION">
-        <Text>Khả năng truy cập Colorblind:</Text>
+        <Text>Khả năng truy cập mù màu:</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_OPTIONS_CBADAPT_DO_NOTHING">
         <Text>Màu mặc định</Text>
@@ -635,7 +635,7 @@
 			<Text>Luôn hiển thị hàng đợi Trình quản lý</Text>
 		</Replace>
 
-		<!-- Hotkeys Panel -->		
+		<!-- Hotkeys Panel -->
     <!-- Expansion 2 - Additional Hotkeys-->
     <Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP2">
 			<Text>Giao diện người dùng (Cơn bão ập đến):</Text>
@@ -652,7 +652,7 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_POWER_HELP">
 			<Text>Bật ống kính Power.</Text>
 		</Replace>
-    		
+
 		<!-- Expansion 1 - Additional Hotkeys-->
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS">
 			<Text>Thống đốc</Text>
@@ -922,7 +922,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
 			<Text>Tải lưu nhanh nhất gần đây nhất, nếu có.</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
 			<Text>Chuyển sang đơn vị sẵn sàng tiếp theo.</Text>
 		</Replace>

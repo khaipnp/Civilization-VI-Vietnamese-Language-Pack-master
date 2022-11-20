@@ -273,10 +273,10 @@
 			<Text>Thoát tới Menu chính.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP">
-			<Text>Thoát tới Desktop</Text>
+			<Text>Thoát trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP_TOOLTIP">
-			<Text>Thoát tới Desktop.</Text>
+			<Text>Thoát trò chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_MODS_IN_USE">
 			<Text>Sử dụng:</Text>
@@ -5602,7 +5602,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REPORTS_ORDER_PLAYER_SLOT">
 			<Text>Player Slot</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_BY">
 			<Text>Sắp xếp theo</Text>
 		</Replace>
@@ -6254,7 +6254,7 @@
     </Replace>
 		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_TOGGLE_AUTOHIDE_QUEUE">
       <Text>Toggle auto-hide queue</Text>
-    </Replace>			
+    </Replace>
     <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_REMOVE_ITEM">
       <Text>Remove</Text>
     </Replace>
