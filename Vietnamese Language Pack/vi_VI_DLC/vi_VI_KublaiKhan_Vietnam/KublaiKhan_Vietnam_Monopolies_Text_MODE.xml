@@ -5,17 +5,17 @@
       <Text>Must control {1_NumResources} or more of the same Luxury resource.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_UNIT_FOUND_CORPORATION_INSUFFICIENT_RESOURCES">
-      <Text>Must control at least 75% of the same Luxury resources in the world.</Text>
+      <Text>Phải kiểm soát ít nhất 75% tài nguyên Xa xỉ của thế giới.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_TECH_CURRENCY_DESCRIPTION">
-      <Text>Unlocks ability to create Industries</Text>
+      <Text>Mở khóa khả năng tạo Công nghiệp</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_TECH_ECONOMICS_DESCRIPTION">
-      <Text>Unlocks ability to found Corporations</Text>
+      <Text>Mở khóa khả năng thành lập Tập đoàn</Text>
     </Replace>
     <!--Global Resource report-->
     <Replace Language='en_US' Tag="LOC_RESREPORT_MONOPOLY_NAME">
-      <Text>Monopoly</Text>
+      <Text>Độc quyền</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_RESREPORT_CONTROL">
       <Text>điều khiển</Text>
@@ -32,13 +32,13 @@
     </Replace>
     <!-- Great Work Notifications -->
     <Replace Language='en_US' Tag="LOC_NOTIFICATION_PRODUCT_CREATED_MESSAGE">
-      <Text>New Product Created</Text>
+      <Text>Sản phẩm mới được tạo</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_NOTIFICATION_PRODUCT_CREATED_SUMMARY">
       <Text>The new [ICON_GreatWork_Product] Product {1_ProductName} has been introduced to the public via the {2_BuildingName} in {3_CityName}.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_NOTIFICATION_INDUSTRY_OPPORTUNITY_MESSAGE">
-      <Text>Industry Opportunity</Text>
+      <Text>Cơ hội ngành công nhiệp</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_NOTIFICATION_INDUSTRY_OPPORTUNITY_SUMMARY">
       <Text>Now that you have improved {1_num} {2_ResourceIcon} {3_Resource} resources, you have the opportunity to create an Industry around them.</Text>
@@ -56,7 +56,7 @@
       <Text>You now hold a majority control of the {1_ResourceIcon} {2_Resource} resource. You now have the opportunity to create a new Corporation, putting the previous one out of business.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_NOTIFICATION_CORPORATION_LOST_MESSAGE">
-      <Text>Corporation Out of Business!</Text>
+      <Text>Tập đoàn ngừng kinh doanh!</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_NOTIFICATION_CORPORATION_LOST_SUMMARY">
       <Text>{1_CivName} has gained a controlling interest on the {2_ResourceIcon} {3_Resource} resource and founded a new Corporation, putting {4_CorpName} out of business!</Text>
@@ -66,10 +66,10 @@
     </Replace>
     <!--Industry and Corporation Improvements-->
     <Replace Language='en_US' Tag="LOC_GREATWORKOBJECT_PRODUCT">
-      <Text>Product</Text>
+      <Text>Sản phẩm</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_IMPROVEMENT_INDUSTRY_NAME">
-      <Text>Industry</Text>
+      <Text>Ngành công nghiệp</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_IMPROVEMENT_INDUSTRY_TYPE_NAME">
       <Text>{1_Resource} Industry</Text>
@@ -78,13 +78,13 @@
       <Text>An industry dedicated to a specific Luxury Resource. Provides a unique benefit to its city, as well as +1 [ICON_GreatMerchant] Great Merchant point.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_IMPROVEMENT_CORPORATION_NAME">
-      <Text>Corporation</Text>
+      <Text>Tập đoàn</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_IMPROVEMENT_CORPORATION_TYPE_NAME">
       <Text>{1_Resource} Corporation</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_IMPROVEMENT_CORPORATION_DESCRIPTION">
-      <Text>A corporation dedicated to a specific Luxury Resource. Allows cities to create Products, a new type of Great Work which grants powerful bonuses to your cities that house them.</Text>
+      <Text>Một công ty dành riêng cho một nguồn tài nguyên sang trọng cụ thể. Cho phép các thành phố tạo Sản phẩm, một loại Công việc vĩ đại mới mang lại những phần thưởng mạnh mẽ cho các thành phố chứa chúng.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_IMPROVEMENT_CORPORATION_EXPANSION2_DESCRIPTION">
         <Text>A corporation dedicated to a specific Luxury Resource. Allows cities to create Products, a new type of Great Work which grants powerful bonuses to your cities that house them. Can only be pillaged (never destroyed) by natural disasters.</Text>
@@ -128,13 +128,13 @@
       <Text>[NEWLINE]+60% [ICON_Production] Production toward Buildings in host city.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_CORPORATION_GOLD_YIELD_BONUS_DESCRIPTION">
-      <Text>[NEWLINE]+50% [ICON_Gold] Gold yield in city.</Text>
+      <Text>[NEWLINE]+50% [ICON_Gold] Vàng trong thành phố.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_CORPORATION_FAITH_YIELD_BONUS_DESCRIPTION">
-      <Text>[NEWLINE]+50% [ICON_Faith] Faith yield in city.</Text>
+      <Text>[NEWLINE]+50% [ICON_Faith] Đức tin trong thành phố</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_CORPORATION_SCIENCE_YIELD_BONUS_DESCRIPTION">
-      <Text>[NEWLINE]+30% [ICON_Science] Science yield in city.</Text>
+      <Text>[NEWLINE]+30% [ICON_Science] Khoa học trong thành phố.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_CORPORATION_CULTURE_YIELD_BONUS_DESCRIPTION">
       <Text>[NEWLINE]+40% [ICON_Culture] Culture yield in city.</Text>
@@ -144,7 +144,7 @@
       <Text>New Products are sold in the Stock Exchange and Seaport buildings.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_AMBER_NAME">
-      <Text>[ICON_RESOURCE_AMBER] Amber Corporation: Create New Product</Text>
+      <Text>[ICON_RESOURCE_AMBER] Tập đoàn hổ phách: Tạo sản phẩm mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_AMBER_SHORT_NAME">
       <Text>[ICON_RESOURCE_AMBER] Create New Amber Product</Text>
@@ -174,25 +174,25 @@
       <Text>[ICON_RESOURCE_CITRUS] Citrus Corporation: Create New Product</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CITRUS_SHORT_NAME">
-      <Text>[ICON_RESOURCE_CITRUS] Create New Citrus Product</Text>
+      <Text>[ICON_RESOURCE_CITRUS] Tạo sản phẩm cam quýt mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CITRUS_DESCRIPTION">
       <Text>Create a new product for the world based on the [ICON_RESOURCE_CITRUS] Citrus resource. {LOC_INDUSTRY_MILITARY_UNIT_DISCOUNT_DESCRIPTION}</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_COCOA_NAME">
-      <Text>[ICON_RESOURCE_COCOA] Cocoa Corporation: Create New Product</Text>
+      <Text>[ICON_RESOURCE_COCOA] Tập đoàn Cacao: Tạo Ra Sản Phẩm Mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_COCOA_SHORT_NAME">
-      <Text>[ICON_RESOURCE_COCOA] Create New Cocoa Product</Text>
+      <Text>[ICON_RESOURCE_COCOA] Tạo sản phẩm ca cao mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_COCOA_DESCRIPTION">
       <Text>Create a new product for the world based on the [ICON_RESOURCE_COCOA] Cocoa resource. {LOC_INDUSTRY_CITY_GROWTH_DISCOUNT_DESCRIPTION}</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_COFFEE_NAME">
-      <Text>[ICON_RESOURCE_COFFEE] Coffee Corporation: Create New Product</Text>
+      <Text>[ICON_RESOURCE_COFFEE] Tập đoàn cà phê: Tạo sản phẩm mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_COFFEE_SHORT_NAME">
-      <Text>[ICON_RESOURCE_COFFEE] Create New Coffee Product</Text>
+      <Text>[ICON_RESOURCE_COFFEE] Tạo sản phẩm cà phê mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_COFFEE_DESCRIPTION">
       <Text>Create a new product for the world based on the [ICON_RESOURCE_COFFEE] Coffee resource. {LOC_INDUSTRY_CULTURE_YIELD_BONUS_DESCRIPTION}</Text>
@@ -225,10 +225,10 @@
       <Text>Create a new product for the world based on the [ICON_RESOURCE_INCENSE] Incense resource. {LOC_INDUSTRY_FAITH_YIELD_BONUS_DESCRIPTION}</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SILK_NAME">
-      <Text>[ICON_RESOURCE_SILK] Silk Corporation: Create New Product</Text>
+      <Text>[ICON_RESOURCE_SILK] Tập đàon Tơ Lụa: Tạo Ra Sản Phẩm Mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SILK_SHORT_NAME">
-      <Text>[ICON_RESOURCE_SILK] Create New Silk Product</Text>
+      <Text>[ICON_RESOURCE_SILK] Tạo sản phẩm lụa mới</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SILK_DESCRIPTION">
       <Text>Create a new product for the world based on the [ICON_RESOURCE_SILK] Silk resource. {LOC_INDUSTRY_CULTURE_YIELD_BONUS_DESCRIPTION}</Text>
